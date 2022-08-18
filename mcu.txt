@@ -1,5 +1,4 @@
-{
-    mcu: [
+[
         {
             name: "Captain America: The First Avenger (2011)",
             type: "Película",
@@ -620,4 +619,3 @@
             thumbURL: "hulk.png"
         }
     ]
-}
