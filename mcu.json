@@ -112,16 +112,6 @@
         "thumbURL": "agents-of-shield.png"
     },
     {
-        "name": "Thor: The Dark World (2013)",
-        "type": "Película",
-        "lastUpdate": {
-            "3D": "11/01/2022",
-            "4K": "11/01/2022",
-            "1080p": "11/01/2022"
-        },
-        "thumbURL": "thor.png"
-    },
-    {
         "name": "Iron Man 3 (2013)",
         "type": "Película",
         "lastUpdate": {
@@ -137,6 +127,16 @@
             "1080p": "01/03/2022"
         },
         "thumbURL": "agents-of-shield.png"
+    },
+    {
+        "name": "Thor: The Dark World (2013)",
+        "type": "Película",
+        "lastUpdate": {
+            "3D": "11/01/2022",
+            "4K": "11/01/2022",
+            "1080p": "11/01/2022"
+        },
+        "thumbURL": "thor.png"
     },
     {
         "name": "Captain America: The Winter Soldier (2014)",
@@ -175,7 +175,7 @@
         "thumbURL": "guardians-of-the-galaxy.png"
     },
     {
-        "name": "I Am Groot (2022)",
+        "name": "I Am Groot Season 1 (2022)",
         "type": "Miniserie",
         "lastUpdate": {
             "1080p": "11/08/2022"
