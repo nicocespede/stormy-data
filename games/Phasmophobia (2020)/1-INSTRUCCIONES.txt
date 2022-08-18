@@ -1,0 +1,4 @@
+1. Descargar el juego
+2. Descomprimir carpeta RAR
+3. Ejecutar el juego como Administrador
+4. Jugar 🙂

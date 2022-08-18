@@ -1,0 +1,15 @@
+1. Read the system requirements.
+
+System requirements:
+At least Windows 10 x64 version 1909 or later with Microsoft Store, Xbox, Xbox Gaming Services installed.
+
+2. Run UWP_Helper.bat , which is located in the game folder. (performed once)
+
+3. Turn on the developer mode (Enable Developer Mode) . (we reboot the PC if necessary) (performed once)
+Before enabling developer mode, check out what it is on the Internet.
+
+4. Install the game (Install Game) . (performed once)
+
+5. Turn off the developer mode (Disable Developer Mode) . (performed once)
+
+6. Run the game through the start menu.

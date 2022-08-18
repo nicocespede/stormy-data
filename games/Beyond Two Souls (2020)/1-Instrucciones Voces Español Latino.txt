@@ -1,0 +1,5 @@
+1. Descargar las 4 partes y descomprimir
+2. Copiar todos los archivos que están dentro de la carpeta Latam
+3. Pegarlos en la carpeta raiz de la instalación del juego.
+4. Editar el archivo steam_emu.ini y reemplazar english o spanish por latam
+5. Listo.

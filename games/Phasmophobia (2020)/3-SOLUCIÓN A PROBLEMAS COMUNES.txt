@@ -1,0 +1,2 @@
+1. Para abrirlo sin necesidad del launcher, entren al archivo «dlllist.txt» y borren la linea de «PhotonBridge.dll», que vendría a ser la traba para que abras el juego sí o sí mediante el launcher.
+2. EL PONER EN SU JUEGO EN EL ESCRITORIO O EN OTRO DISCO QUE NO SEA EL «C» SOLUCIONA EL BUG DE 90% Y DEL MICRÓFONO.

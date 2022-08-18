@@ -1,0 +1,4 @@
+1. Abrir STEAM con su cuenta
+2. Presionar las teclas WINDOWS + R
+3. Escribir steam://install/480 y dar enter
+4. Se abrirá el launcher para instalar «SPACEWARE» instalar o comenzar la descarga y cancelarla pocos minutos después

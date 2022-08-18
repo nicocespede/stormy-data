@@ -3,13 +3,21 @@
         "name": "Beyond: Two Souls (2020)",
         "version": "",
         "lastUpdate": "27/03/2022",
-        "imageURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/960990/header.jpg"
+        "imageURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/960990/header.jpg",
+        "instructions": [
+            "1-Instrucciones Voces Español Latino"
+        ]
     },
     {
         "name": "Escape the Backrooms (2022)",
         "version": "Build 13082022",
         "lastUpdate": "16/08/2022",
-        "imageURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1943950/header.jpg"
+        "imageURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1943950/header.jpg",
+        "instructions": [
+            "1-Files for the game",
+            "2-How to run",
+            "3-In the game"
+        ]
     },
     {
         "name": "Green Hell (2019)",
@@ -33,13 +41,23 @@
         "name": "Marvel's Avengers (2020)",
         "version": "V24.2206.160.0",
         "lastUpdate": "13/07/2022",
-        "imageURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/997070/header.jpg"
+        "imageURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/997070/header.jpg",
+        "instructions": [
+            "1-Files for the game",
+            "2-How to run",
+            "3-In the game"
+        ]
     },
     {
         "name": "Phasmophobia (2020)",
         "version": "V0.5.1.0",
         "lastUpdate": "30/12/2021",
-        "imageURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/739630/header.jpg"
+        "imageURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/739630/header.jpg",
+        "instructions": [
+            "1-INSTRUCCIONES",
+            "2-►PARA JUGAR ONLINE",
+            "3-SOLUCIÓN A PROBLEMAS COMUNES"
+        ]
     },
     {
         "name": "Pummel Party (2018)",
@@ -51,7 +69,10 @@
         "name": "Stranded Deep (2015)",
         "version": "V0.90.11",
         "lastUpdate": "20/07/2022",
-        "imageURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/313120/header.jpg"
+        "imageURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/313120/header.jpg",
+        "instructions": [
+            "1-►PARA JUGAR ONLINE"
+        ]
     },
     {
         "name": "Stray (2022)",
@@ -63,7 +84,11 @@
         "name": "Subsistence (2016)",
         "version": "ALPHA 57",
         "lastUpdate": "03/11/2021",
-        "imageURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/418030/header.jpg"
+        "imageURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/418030/header.jpg",
+        "instructions": [
+            "1-INSTRUCCIONES",
+            "2-►PARA JUGAR ONLINE"
+        ]
     },
     {
         "name": "SUPERHOT (2016)",
@@ -81,6 +106,11 @@
         "name": "The Forest (2018)",
         "version": "V1.12",
         "lastUpdate": "28/07/2021",
-        "imageURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/242760/header.jpg"
+        "imageURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/242760/header.jpg",
+        "instructions": [
+            "1-INSTRUCCIONES",
+            "2-►PARA JUGAR ONLINE",
+            "3-►SOLUCIÓN PROBLEMAS ONLINE"
+        ]
     }
 ]

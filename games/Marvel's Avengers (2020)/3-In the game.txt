@@ -1,0 +1,9 @@
+We go through training.
+
+Connection:
+
+Start -> The Avengers Initiative -> Tab -> F -> We accept an invitation from a friend and connect to the server.
+
+Server creation:
+
+Get Started -> The Avengers Initiative -> Tab -> F -> We invite friends and expect their connection.
