@@ -553,15 +553,6 @@
         "thumbURL": "falcon.png"
     },
     {
-        "name": "She-Hulk: Attorney at Law Season 1 (2022)",
-        "type": "Serie",
-        "lastUpdate": {
-            "1080p": "18/08/2022"
-        },
-        "updateInfo": "subido el capítulo 1",
-        "thumbURL": "hulk.png"
-    },
-    {
         "name": "Helstrom Season 1 (2020)",
         "type": "Serie",
         "lastUpdate": {
@@ -688,6 +679,15 @@
             "1080p": "13/05/2022"
         },
         "thumbURL": "moon-knight.png"
+    },
+    {
+        "name": "She-Hulk: Attorney at Law Season 1 (2022)",
+        "type": "Serie",
+        "lastUpdate": {
+            "1080p": "18/08/2022"
+        },
+        "updateInfo": "subido el capítulo 1",
+        "thumbURL": "hulk.png"
     },
     {
         "name": "Ms. Marvel Season 1 (2022)",
