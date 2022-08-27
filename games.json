@@ -66,6 +66,12 @@
         "imageURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/880940/header.jpg"
     },
     {
+        "name": "Raft (2018)",
+        "version": "V1.08",
+        "lastUpdate": "27/08/2022",
+        "imageURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/648800/header.jpg"
+    },
+    {
         "name": "Stranded Deep (2015)",
         "version": "V0.90.11",
         "lastUpdate": "20/07/2022",
