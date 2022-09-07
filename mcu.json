@@ -698,5 +698,15 @@
         },
         "updateInfo": "subida la serie completa",
         "thumbURL": "ms-marvel.png"
+    },
+    {
+        "name": "Thor: Love And Thunder (2022)",
+        "type": "Película",
+        "lastUpdate": {
+            "4K": "07/09/2022",
+            "1080p": "07/09/2022"
+        },
+        "updateInfo": "",
+        "thumbURL": "thor.png"
     }
 ]
