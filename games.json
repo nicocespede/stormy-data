@@ -1,122 +1,109 @@
-[
-    {
-        "name": "Beyond: Two Souls (2020)",
-        "version": "",
-        "lastUpdate": "27/03/2022",
-        "imageURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/960990/header.jpg",
-        "instructions": [
-            "1-Instrucciones Voces Español Latino"
-        ]
-    },
-    {
-        "name": "Escape the Backrooms (2022)",
-        "version": "Build 13082022",
-        "lastUpdate": "16/08/2022",
-        "imageURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1943950/header.jpg",
-        "instructions": [
-            "1-Files for the game",
-            "2-How to run",
-            "3-In the game"
-        ]
-    },
-    {
-        "name": "Green Hell (2019)",
-        "version": "V0.11.4",
-        "lastUpdate": "23/11/2021",
-        "imageURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/815370/header.jpg"
-    },
-    {
-        "name": "Grounded (2020)",
-        "version": "",
-        "lastUpdate": "23/11/2021",
-        "imageURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/962130/header.jpg"
-    },
-    {
-        "name": "Left 4 Dead 2 (2009)",
-        "version": "V23.02.2022",
-        "lastUpdate": "30/05/2022",
-        "imageURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/550/header.jpg"
-    },
-    {
-        "name": "Marvel's Avengers (2020)",
-        "version": "V24.2206.160.0",
-        "lastUpdate": "13/07/2022",
-        "imageURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/997070/header.jpg",
-        "instructions": [
-            "1-Files for the game",
-            "2-How to run",
-            "3-In the game"
-        ]
-    },
-    {
-        "name": "Phasmophobia (2020)",
-        "version": "V0.5.1.0",
-        "lastUpdate": "30/12/2021",
-        "imageURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/739630/header.jpg",
-        "instructions": [
-            "1-INSTRUCCIONES",
-            "2-►PARA JUGAR ONLINE",
-            "3-SOLUCIÓN A PROBLEMAS COMUNES"
-        ]
-    },
-    {
-        "name": "Pummel Party (2018)",
-        "version": "V1.11.2f",
-        "lastUpdate": "23/11/2021",
-        "imageURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/880940/header.jpg"
-    },
-    {
-        "name": "Raft (2018)",
-        "version": "V1.08",
-        "lastUpdate": "27/08/2022",
-        "imageURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/648800/header.jpg"
-    },
-    {
-        "name": "Stranded Deep (2015)",
-        "version": "V0.90.11",
-        "lastUpdate": "20/07/2022",
-        "imageURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/313120/header.jpg",
-        "instructions": [
-            "1-►PARA JUGAR ONLINE"
-        ]
-    },
-    {
-        "name": "Stray (2022)",
-        "version": "V1.4.227",
-        "lastUpdate": "04/08/2022",
-        "imageURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1332010/header.jpg"
-    },
-    {
-        "name": "Subsistence (2016)",
-        "version": "ALPHA 57",
-        "lastUpdate": "03/11/2021",
-        "imageURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/418030/header.jpg",
-        "instructions": [
-            "1-INSTRUCCIONES",
-            "2-►PARA JUGAR ONLINE"
-        ]
-    },
-    {
-        "name": "SUPERHOT (2016)",
-        "version": "V1.0.17_005 + L1.1.10 GOG",
-        "lastUpdate": "04/07/2022",
-        "imageURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/322500/header.jpg"
-    },
-    {
-        "name": "Superliminal (2020)",
-        "version": "Build 21.02.2022",
-        "lastUpdate": "10/09/2022",
-        "imageURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1049410/header.jpg"
-    },
-    {
-        "name": "The Forest (2018)",
-        "version": "V1.12",
-        "lastUpdate": "28/07/2021",
-        "imageURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/242760/header.jpg",
-        "instructions": [
-            "1-INSTRUCCIONES",
-            "2-►PARA JUGAR ONLINE",
-            "3-►SOLUCIÓN PROBLEMAS ONLINE"
-        ]
-    }
-]
+{
+    "steam": [
+        {
+            "id": "960990",
+            "version": "",
+            "lastUpdate": "27/03/2022",
+            "instructions": [
+                "1-Instrucciones Voces Español Latino"
+            ]
+        },
+        {
+            "id": "1943950",
+            "version": "Build 13082022",
+            "lastUpdate": "16/08/2022",
+            "instructions": [
+                "1-Files for the game",
+                "2-How to run",
+                "3-In the game"
+            ]
+        },
+        {
+            "id": "815370",
+            "version": "V0.11.4",
+            "lastUpdate": "23/11/2021"
+        },
+        {
+            "id": "962130",
+            "version": "",
+            "lastUpdate": "23/11/2021"
+        },
+        {
+            "id": "550",
+            "version": "V23.02.2022",
+            "lastUpdate": "30/05/2022"
+        },
+        {
+            "id": "997070",
+            "version": "V24.2206.160.0",
+            "lastUpdate": "13/07/2022",
+            "instructions": [
+                "1-Files for the game",
+                "2-How to run",
+                "3-In the game"
+            ]
+        },
+        {
+            "id": "739630",
+            "version": "V0.5.1.0",
+            "lastUpdate": "30/12/2021",
+            "instructions": [
+                "1-INSTRUCCIONES",
+                "2-►PARA JUGAR ONLINE",
+                "3-SOLUCIÓN A PROBLEMAS COMUNES"
+            ]
+        },
+        {
+            "id": "880940",
+            "version": "V1.11.2f",
+            "lastUpdate": "23/11/2021"
+        },
+        {
+            "id": "648800",
+            "version": "V1.08",
+            "lastUpdate": "27/08/2022"
+        },
+        {
+            "id": "313120",
+            "version": "V0.90.11",
+            "lastUpdate": "20/07/2022",
+            "instructions": [
+                "1-►PARA JUGAR ONLINE"
+            ]
+        },
+        {
+            "id": "1332010",
+            "version": "V1.4.227",
+            "lastUpdate": "04/08/2022"
+        },
+        {
+            "id": "418030",
+            "version": "ALPHA 57",
+            "lastUpdate": "03/11/2021",
+            "instructions": [
+                "1-INSTRUCCIONES",
+                "2-►PARA JUGAR ONLINE"
+            ]
+        },
+        {
+            "id": "322500",
+            "version": "V1.0.17_005 + L1.1.10 GOG",
+            "lastUpdate": "04/07/2022"
+        },
+        {
+            "id": "1049410",
+            "version": "Build 21.02.2022",
+            "lastUpdate": "10/09/2022"
+        },
+        {
+            "id": "242760",
+            "version": "V1.12",
+            "lastUpdate": "28/07/2021",
+            "instructions": [
+                "1-INSTRUCCIONES",
+                "2-►PARA JUGAR ONLINE",
+                "3-►SOLUCIÓN PROBLEMAS ONLINE"
+            ]
+        }
+    ]
+}
