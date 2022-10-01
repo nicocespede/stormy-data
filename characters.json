@@ -184,6 +184,62 @@
                 47
             ]
         },
+        "thor": {
+            "name": "Thor Odinson",
+            "color": [
+                76,
+                18,
+                18
+            ]
+        },
+        "thor3": {
+            "name": "Thor Odinson",
+            "color": [
+                88,
+                22,
+                22
+            ]
+        },
+        "thor4": {
+            "name": "Thor Odinson",
+            "color": [
+                39,
+                39,
+                31
+            ]
+        },
+        "thor5": {
+            "name": "Thor Odinson",
+            "color": [
+                28,
+                28,
+                25
+            ]
+        },
+        "thor6": {
+            "name": "Thor Odinson",
+            "color": [
+                116,
+                13,
+                12
+            ]
+        },
+        "thor7": {
+            "name": "Thor Odinson",
+            "color": [
+                89,
+                15,
+                14
+            ]
+        },
+        "thor9": {
+            "name": "Thor Odinson",
+            "color": [
+                26,
+                59,
+                101
+            ]
+        },
         "vision1": {
             "name": "Visión",
             "color": [
@@ -245,6 +301,17 @@
             "kamalakhan3": "Las cuentas fueron enviadas, espero que no seas tan malo como mi serie, ¡jeje!",
             "vision1": "Cuentas smurf enviadas y protocolo _VALORANT_ en marcha.",
             "vision3": "Información enviada, asegúrese de que valga la pena."
+        },
+        "BANNED_MEMBER": {
+            "thanos2": "Convertí a **{TAG}** en cenizas{REASON}...",
+            "thanos3": "Reduje a átomos a **{TAG}**{REASON}. Yo soy... inevitable.",
+            "thor": "Desterraron a **{TAG}** de _Asgard_{REASON}",
+            "thor5": "**{TAG}** fue desterrado de _Nuevo Asgard_{REASON}",
+            "thor7": "**{TAG}** fue desterrado de _Asgard_{REASON}"
+        },
+        "GONE_MEMBER": {
+            "thor4": "**{TAG}** dejó de ser digno.",
+            "thor9": "**{TAG}** ya no es digno."
         }
     }
 }
