@@ -305,9 +305,9 @@
         "BANNED_MEMBER": {
             "thanos2": "Convertí a **{TAG}** en cenizas{REASON}...",
             "thanos3": "Reduje a átomos a **{TAG}**{REASON}. Yo soy... inevitable.",
-            "thor": "Desterraron a **{TAG}** de _Asgard_{REASON}",
-            "thor5": "**{TAG}** fue desterrado de _Nuevo Asgard_{REASON}",
-            "thor7": "**{TAG}** fue desterrado de _Asgard_{REASON}"
+            "thor": "Desterraron a **{TAG}** de _Asgard_{REASON}.",
+            "thor5": "**{TAG}** fue desterrado de _Nuevo Asgard_{REASON}.",
+            "thor7": "**{TAG}** fue desterrado de _Asgard_{REASON}."
         },
         "GONE_MEMBER": {
             "thor4": "**{TAG}** dejó de ser digno.",
