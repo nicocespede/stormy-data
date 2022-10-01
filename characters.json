@@ -48,6 +48,13 @@
             "ironman4": "Los rangos de las cuentas se están cargando, apuesto a que **J.A.R.V.I.S.** lo haría más rápido...",
             "ironman5": "Los rangos de las cuentas se están cargando, apuesto a que **J.A.R.V.I.S.** lo haría más rápido...",
             "ironman6": "Los rangos de las cuentas se están cargando, apuesto a que **J.A.R.V.I.S.** lo haría más rápido..."
+        },
+        "SMURFS_READY": {
+            "ironman1": "Cuentas smurf enviadas, ¡a patear traseros!",
+            "ironman3": "Cuentas smurf enviadas, ¡a patear traseros!",
+            "ironman4": "Cuentas smurf enviadas, ¡a patear traseros!",
+            "ironman5": "Cuentas smurf enviadas, ¡a patear traseros!",
+            "ironman6": "Cuentas smurf enviadas, ¡a patear traseros!"
         }
     }
 }
