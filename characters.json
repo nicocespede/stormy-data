@@ -1,5 +1,125 @@
 {
     "info": {
+        "blackbolt": {
+            "name": "Blackagar Boltagon (Black Bolt)",
+            "color": [
+                68,
+                84,
+                109
+            ]
+        },
+        "echo1": {
+            "name": "Maya Lopez (Echo)",
+            "color": [
+                183,
+                142,
+                43
+            ]
+        },
+        "groot": {
+            "name": "Groot",
+            "color": [
+                138,
+                113,
+                80
+            ]
+        },
+        "groot2": {
+            "name": "Groot",
+            "color": [
+                72,
+                22,
+                2
+            ]
+        },
+        "groot3": {
+            "name": "Groot",
+            "color": [
+                84,
+                59,
+                35
+            ]
+        },
+        "groot4": {
+            "name": "Groot",
+            "color": [
+                218,
+                31,
+                31
+            ]
+        },
+        "hawkeye": {
+            "name": "Clint Barton (Hawkeye)",
+            "color": [
+                31,
+                39,
+                47
+            ]
+        },
+        "hawkeye1": {
+            "name": "Clint Barton (Hawkeye)",
+            "color": [
+                72,
+                6,
+                22
+            ]
+        },
+        "hawkeye2": {
+            "name": "Clint Barton (Hawkeye)",
+            "color": [
+                35,
+                35,
+                35
+            ]
+        },
+        "hawkeye4": {
+            "name": "Clint Barton (Ronin)",
+            "color": [
+                103,
+                80,
+                42
+            ]
+        },
+        "hawkeye5": {
+            "name": "Clint Barton (Hawkeye)",
+            "color": [
+                45,
+                28,
+                53
+            ]
+        },
+        "hulk": {
+            "name": "Bruce Banner (Hulk)",
+            "color": [
+                80,
+                97,
+                31
+            ]
+        },
+        "hulk3": {
+            "name": "Bruce Banner (Hulk)",
+            "color": [
+                47,
+                39,
+                31
+            ]
+        },
+        "hulk4": {
+            "name": "Bruce Banner (Profesor Hulk)",
+            "color": [
+                50,
+                38,
+                56
+            ]
+        },
+        "hulk5": {
+            "name": "Bruce Banner (Profesor Hulk)",
+            "color": [
+                92,
+                32,
+                30
+            ]
+        },
         "ironman1": {
             "name": "Tony Stark (Iron Man)",
             "color": [
@@ -40,6 +160,30 @@
                 48
             ]
         },
+        "kamalakhan3": {
+            "name": "Kamala Khan (Ms. Marvel)",
+            "color": [
+                120,
+                13,
+                13
+            ]
+        },
+        "thanos2": {
+            "name": "Thanos",
+            "color": [
+                101,
+                84,
+                68
+            ]
+        },
+        "thanos3": {
+            "name": "Thanos",
+            "color": [
+                112,
+                86,
+                47
+            ]
+        },
         "vision1": {
             "name": "Visión",
             "color": [
@@ -59,22 +203,48 @@
     },
     "assignments": {
         "FETCHING_SMURFS": {
-            "ironman1": "Los rangos de las cuentas se están cargando, apuesto a que **J.A.R.V.I.S.** lo haría más rápido...",
-            "ironman3": "Los rangos de las cuentas se están cargando, apuesto a que **J.A.R.V.I.S.** lo haría más rápido...",
-            "ironman4": "Los rangos de las cuentas se están cargando, apuesto a que **J.A.R.V.I.S.** lo haría más rápido...",
-            "ironman5": "Los rangos de las cuentas se están cargando, apuesto a que **J.A.R.V.I.S.** lo haría más rápido...",
-            "ironman6": "Los rangos de las cuentas se están cargando, apuesto a que **J.A.R.V.I.S.** lo haría más rápido...",
-            "vision1": "La información de las cuentas se está cargando, espero que **Ultrón** no intercepte la transferencia de datos...",
+            "blackbolt": "...",
+            "echo1": "...",
+            "groot": "Yo soy _Groot_...",
+            "groot2": "Yo soy _Groot_...",
+            "groot3": "...",
+            "groot4": "Yo soy _Groot_...",
+            "hawkeye": "Los rangos de las cuentas se están cargando, ¿es cierto que en ese juego hay un arquero mejor que yo?",
+            "hawkeye1": "Los rangos de las cuentas se están cargando, un segundo amigo...",
+            "hawkeye2": "Los rangos de las cuentas se están cargando, así que ve preparando esas flechas, halcón.",
+            "hawkeye4": "Los rangos de las cuentas se están cargando, deja mientras afilo mi espada...",
+            "hawkeye5": "Los rangos de las cuentas se están cargando... ¡_Laura_! ¿Dónde están mis flechas?",
+            "hulk": "¡RAAAAGHRRR!",
+            "ironman1": "Los rangos de las cuentas se están cargando, un segundo... ¡_Pepper_! ¿Por qué este paquete dice '_Tony Stank_'?",
+            "ironman3": "Los rangos de las cuentas se están cargando. _J.A.R.V.I.S._ reproduce _AC/DC_ para alivianar la espera...",
+            "ironman4": "Los rangos de las cuentas se están cargando, apuesto a que _J.A.R.V.I.S._ lo haría más rápido...",
+            "ironman5": "Los rangos de las cuentas se están cargando... Rápido, rápido, que _Thanos_ ya viene...",
+            "ironman6": "Los rangos de las cuentas se están cargando, ¿alguien más tiene hambre?",
+            "kamalakhan3": "Espera mientras se cargan los rangos de las cuentas, ¿sí?",
+            "vision1": "La información de las cuentas se está cargando, espero que _Ultrón_ no intercepte la transferencia de datos...",
             "vision3": "Descargando datos de las cuentas, según mis cálculos esto tomará unos 7.651891 segundos."
         },
         "SMURFS_READY": {
+            "blackbolt": "... ...",
+            "echo1": "👍🏼",
+            "groot": "¡Yo soy _Groot_!",
+            "groot2": "¡Yo soy _Groot_!",
+            "groot3": "Yo soy _Groot_...",
+            "groot4": "¡Yo soy _Groot_!",
+            "hawkeye": "Las cuentas están listas, ¡buena suerte!",
+            "hawkeye1": "Las cuentas fueron enviadas, ¡espero que estés tan preciso como yo, halcón!",
+            "hawkeye2": "Las cuentas fueron enviadas viejo, ¡a pelear!",
+            "hawkeye4": "Las cuentas están listas, y díle a ese tal _Sova_ que me devuelva mis flechas eléctricas...",
+            "hawkeye5": "Las cuentas fueron enviadas, ¿estás listo campeón?",
+            "hulk": "¡RAAAAAAAAGHRRR!",
             "ironman1": "Cuentas smurf enviadas, ¿alguien quiere shawarma al terminar?",
-            "ironman3": "Cuentas smurf enviadas. **J.A.R.V.I.S.**, inicia el simulador de disparos **VALORANT**.",
-            "ironman4": "Cuentas smurf enviadas, **¡a patear traseros!**",
-            "ironman5": "Cuentas smurf enviadas, **¡a patear traseros!**",
+            "ironman3": "Cuentas smurf enviadas. _J.A.R.V.I.S._, ejecuta el protocolo _VALORANT_.",
+            "ironman4": "Cuentas smurf enviadas, y la verdad es que... Yo soy _Iron Man_.",
+            "ironman5": "Cuentas smurf enviadas, ¡a patear traseros!",
             "ironman6": "Cuentas smurf enviadas, ahora a pelear.",
-            "vision1": "Cuentas smurf enviadas y simulador de disparos **VALORANT** listo señor.",
-            "vision3": "Información enviada señor, estaré por aquí por si me necesita."
+            "kamalakhan3": "Las cuentas fueron enviadas, espero que no seas tan malo como mi serie, ¡jeje!",
+            "vision1": "Cuentas smurf enviadas y protocolo _VALORANT_ en marcha.",
+            "vision3": "Información enviada, asegúrese de que valga la pena."
         }
     }
 }
