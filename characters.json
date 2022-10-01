@@ -1,0 +1,53 @@
+{
+    "info": {
+        "ironman1": {
+            "name": "Iron Man",
+            "color": [
+                150,
+                26,
+                26
+            ]
+        },
+        "ironman3": {
+            "name": "Iron Man",
+            "color": [
+                113,
+                14,
+                31
+            ]
+        },
+        "ironman4": {
+            "name": "Iron Man",
+            "color": [
+                158,
+                51,
+                68
+            ]
+        },
+        "ironman5": {
+            "name": "Iron Man",
+            "color": [
+                129,
+                19,
+                37
+            ]
+        },
+        "ironman6": {
+            "name": "Iron Man",
+            "color": [
+                143,
+                25,
+                48
+            ]
+        }
+    },
+    "assignments": {
+        "FETCHING_SMURFS": {
+            "ironman1": "Los rangos de las cuentas se están cargando, apuesto a que **J.A.R.V.I.S.** lo haría más rápido...",
+            "ironman3": "Los rangos de las cuentas se están cargando, apuesto a que **J.A.R.V.I.S.** lo haría más rápido...",
+            "ironman4": "Los rangos de las cuentas se están cargando, apuesto a que **J.A.R.V.I.S.** lo haría más rápido...",
+            "ironman5": "Los rangos de las cuentas se están cargando, apuesto a que **J.A.R.V.I.S.** lo haría más rápido...",
+            "ironman6": "Los rangos de las cuentas se están cargando, apuesto a que **J.A.R.V.I.S.** lo haría más rápido..."
+        }
+    }
+}
