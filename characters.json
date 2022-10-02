@@ -8,6 +8,70 @@
                 109
             ]
         },
+        "blackwidow": {
+            "name": "Natasha Romanoff (Black Widow)",
+            "color": [
+                22,
+                22,
+                22
+            ]
+        },
+        "blackwidow1": {
+            "name": "Natasha Romanoff (Black Widow)",
+            "color": [
+                7,
+                48,
+                114
+            ]
+        },
+        "blackwidow3": {
+            "name": "Natasha Romanoff (Black Widow)",
+            "color": [
+                183,
+                150,
+                117
+            ]
+        },
+        "blackwidow4": {
+            "name": "Natasha Romanoff (Black Widow)",
+            "color": [
+                64,
+                64,
+                55
+            ]
+        },
+        "blackwidow5": {
+            "name": "Natasha Romanoff (Black Widow)",
+            "color": [
+                59,
+                72,
+                74
+            ]
+        },
+        "blackwidow6": {
+            "name": "Natasha Romanoff (Black Widow)",
+            "color": [
+                84,
+                21,
+                21
+            ]
+        },
+        "blackwidow8": {
+            "name": "Natasha Romanoff (Black Widow)",
+            "color": [
+                72,
+                72,
+                72
+            ]
+        },
+        "blackwidow9": {
+            "name": "Natasha Romanoff (Black Widow)",
+            "color": [
+                252,
+                252,
+                252
+            ]
+        },
         "echo1": {
             "name": "Maya Lopez (Echo)",
             "color": [
@@ -168,6 +232,14 @@
                 13
             ]
         },
+        "medusa": {
+            "name": "Medusalith Amaquelin (Medusa)",
+            "color": [
+                149,
+                66,
+                99
+            ]
+        },
         "thanos2": {
             "name": "Thanos",
             "color": [
@@ -257,7 +329,7 @@
             ]
         }
     },
-    "assignments": {
+    "situations": {
         "FETCHING_SMURFS": {
             "blackbolt": "...",
             "echo1": "...",
@@ -303,6 +375,9 @@
             "vision3": "Información enviada, asegúrese de que valga la pena."
         },
         "BANNED_MEMBER": {
+            "blackbolt": "_Black Bolt_ le susurró en el oído a **{TAG}**{REASON}",
+            "blackwidow6": "Alguien fue a _Vormir_ acompañado de **{TAG}** y volvió con la _Gema del Alma_.",
+            "medusa": "**{TAG}** fue desterrado de _Attilan_{REASON}.",
             "thanos2": "Convertí a **{TAG}** en cenizas{REASON}...",
             "thanos3": "Reduje a átomos a **{TAG}**{REASON}. Yo soy... inevitable.",
             "thor": "Desterraron a **{TAG}** de _Asgard_{REASON}.",
@@ -310,8 +385,15 @@
             "thor7": "**{TAG}** fue desterrado de _Asgard_{REASON}."
         },
         "GONE_MEMBER": {
-            "thor4": "**{TAG}** dejó de ser digno.",
-            "thor9": "**{TAG}** ya no es digno."
+            "thor4": "**{TAG}** dejó de ser digno y se marchó.",
+            "thor9": "**{TAG}** ya no es digno y se fue."
+        },
+        "UNBANNED_MEMBER": {
+            "personaje": {
+                "frase": [
+                    "personajes"
+                ]
+            }
         }
     }
 }
