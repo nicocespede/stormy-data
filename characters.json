@@ -1,328 +1,277 @@
 {
     "info": {
-        "blackbolt": {
-            "name": "Blackagar Boltagon (Black Bolt)",
-            "color": [
+        "América Chávez": {
+            "americachavez2": [
+                99,
+                124,
+                132
+            ]
+        },
+        "Blackagar Boltagon (Black Bolt)": {
+            "blackbolt": [
                 68,
                 84,
                 109
             ]
         },
-        "blackwidow": {
-            "name": "Natasha Romanoff (Black Widow)",
-            "color": [
-                22,
-                22,
-                22
-            ]
-        },
-        "blackwidow1": {
-            "name": "Natasha Romanoff (Black Widow)",
-            "color": [
-                7,
-                48,
-                114
-            ]
-        },
-        "blackwidow3": {
-            "name": "Natasha Romanoff (Black Widow)",
-            "color": [
-                183,
-                150,
-                117
-            ]
-        },
-        "blackwidow4": {
-            "name": "Natasha Romanoff (Black Widow)",
-            "color": [
-                64,
-                64,
-                55
-            ]
-        },
-        "blackwidow5": {
-            "name": "Natasha Romanoff (Black Widow)",
-            "color": [
-                59,
-                72,
-                74
-            ]
-        },
-        "blackwidow6": {
-            "name": "Natasha Romanoff (Black Widow)",
-            "color": [
-                84,
-                21,
-                21
-            ]
-        },
-        "blackwidow8": {
-            "name": "Natasha Romanoff (Black Widow)",
-            "color": [
-                72,
-                72,
-                72
-            ]
-        },
-        "blackwidow9": {
-            "name": "Natasha Romanoff (Black Widow)",
-            "color": [
-                252,
-                252,
-                252
-            ]
-        },
-        "echo1": {
-            "name": "Maya Lopez (Echo)",
-            "color": [
-                183,
-                142,
-                43
-            ]
-        },
-        "groot": {
-            "name": "Groot",
-            "color": [
-                138,
-                113,
-                80
-            ]
-        },
-        "groot2": {
-            "name": "Groot",
-            "color": [
-                72,
-                22,
-                2
-            ]
-        },
-        "groot3": {
-            "name": "Groot",
-            "color": [
-                84,
-                59,
-                35
-            ]
-        },
-        "groot4": {
-            "name": "Groot",
-            "color": [
-                218,
-                31,
-                31
-            ]
-        },
-        "hawkeye": {
-            "name": "Clint Barton (Hawkeye)",
-            "color": [
-                31,
-                39,
-                47
-            ]
-        },
-        "hawkeye1": {
-            "name": "Clint Barton (Hawkeye)",
-            "color": [
-                72,
-                6,
-                22
-            ]
-        },
-        "hawkeye2": {
-            "name": "Clint Barton (Hawkeye)",
-            "color": [
-                35,
-                35,
-                35
-            ]
-        },
-        "hawkeye4": {
-            "name": "Clint Barton (Ronin)",
-            "color": [
-                103,
-                80,
-                42
-            ]
-        },
-        "hawkeye5": {
-            "name": "Clint Barton (Hawkeye)",
-            "color": [
-                45,
-                28,
-                53
-            ]
-        },
-        "hulk": {
-            "name": "Bruce Banner (Hulk)",
-            "color": [
+        "Bruce Banner (Hulk)": {
+            "hulk": [
                 80,
                 97,
                 31
-            ]
-        },
-        "hulk3": {
-            "name": "Bruce Banner (Hulk)",
-            "color": [
+            ],
+            "hulk3": [
                 47,
                 39,
                 31
             ]
         },
-        "hulk4": {
-            "name": "Bruce Banner (Profesor Hulk)",
-            "color": [
+        "Bruce Banner (Profesor Hulk)": {
+            "hulk4": [
                 50,
                 38,
                 56
-            ]
-        },
-        "hulk5": {
-            "name": "Bruce Banner (Profesor Hulk)",
-            "color": [
+            ],
+            "hulk5": [
                 92,
                 32,
                 30
             ]
         },
-        "ironman1": {
-            "name": "Tony Stark (Iron Man)",
-            "color": [
-                150,
-                26,
-                26
+        "Clint Barton (Hawkeye)": {
+            "hawkeye": [
+                31,
+                39,
+                47
+            ],
+            "hawkeye1": [
+                72,
+                6,
+                22
+            ],
+            "hawkeye2": [
+                35,
+                35,
+                35
+            ],
+            "hawkeye5": [
+                45,
+                28,
+                53
             ]
         },
-        "ironman3": {
-            "name": "Tony Stark (Iron Man)",
-            "color": [
+        "Clint Barton (Ronin)": {
+            "hawkeye4": [
+                103,
+                80,
+                42
+            ]
+        },
+        "Groot": {
+            "groot": [
+                138,
                 113,
-                14,
+                80
+            ],
+            "groot2": [
+                72,
+                22,
+                2
+            ],
+            "groot3": [
+                84,
+                59,
+                35
+            ],
+            "groot4": [
+                218,
+                31,
                 31
             ]
         },
-        "ironman4": {
-            "name": "Tony Stark (Iron Man)",
-            "color": [
-                158,
-                51,
-                68
-            ]
-        },
-        "ironman5": {
-            "name": "Tony Stark (Iron Man)",
-            "color": [
-                129,
-                19,
-                37
-            ]
-        },
-        "ironman6": {
-            "name": "Tony Stark (Iron Man)",
-            "color": [
-                143,
-                25,
-                48
-            ]
-        },
-        "kamalakhan3": {
-            "name": "Kamala Khan (Ms. Marvel)",
-            "color": [
+        "Kamala Khan (Ms. Marvel)": {
+            "kamalakhan3": [
                 120,
                 13,
                 13
             ]
         },
-        "medusa": {
-            "name": "Medusalith Amaquelin (Medusa)",
-            "color": [
+        "Maya Lopez (Echo)": {
+            "echo1": [
+                183,
+                142,
+                43
+            ]
+        },
+        "Medusalith Amaquelin (Medusa)": {
+            "medusa": [
                 149,
                 66,
                 99
             ]
         },
-        "thanos2": {
-            "name": "Thanos",
-            "color": [
+        "Natasha Romanoff (Black Widow)": {
+            "blackwidow": [
+                22,
+                22,
+                22
+            ],
+            "blackwidow1": [
+                7,
+                48,
+                114
+            ],
+            "blackwidow3": [
+                183,
+                150,
+                117
+            ],
+            "blackwidow4": [
+                64,
+                64,
+                55
+            ],
+            "blackwidow5": [
+                59,
+                72,
+                74
+            ],
+            "blackwidow6": [
+                84,
+                21,
+                21
+            ],
+            "blackwidow8": [
+                72,
+                72,
+                72
+            ],
+            "blackwidow9": [
+                252,
+                252,
+                252
+            ]
+        },
+        "Steve Rogers (Capitán América)": {
+            "captainamerica": [
+                47,
+                105,
+                171
+            ],
+            "captainamerica1": [
+                47,
+                97,
+                138
+            ],
+            "captainamerica3": [
+                72,
+                88,
+                113
+            ],
+            "captainamerica4": [
+                101,
+                134,
+                175
+            ],
+            "captainamerica6": [
+                47,
+                64,
+                88
+            ],
+            "captainamerica7": [
+                55,
+                80,
+                113
+            ],
+            "captainamerica8": [
+                98,
+                1,
+                0
+            ]
+        },
+        "Thanos": {
+            "thanos2": [
                 101,
                 84,
                 68
-            ]
-        },
-        "thanos3": {
-            "name": "Thanos",
-            "color": [
+            ],
+            "thanos3": [
                 112,
                 86,
                 47
             ]
         },
-        "thor": {
-            "name": "Thor Odinson",
-            "color": [
+        "Thor Odinson": {
+            "thor": [
                 76,
                 18,
                 18
-            ]
-        },
-        "thor3": {
-            "name": "Thor Odinson",
-            "color": [
+            ],
+            "thor3": [
                 88,
                 22,
                 22
-            ]
-        },
-        "thor4": {
-            "name": "Thor Odinson",
-            "color": [
-                39,
-                39,
-                31
-            ]
-        },
-        "thor5": {
-            "name": "Thor Odinson",
-            "color": [
+            ],
+            "thor4": [
+                55,
+                55,
+                47
+            ],
+            "thor5": [
                 28,
                 28,
                 25
-            ]
-        },
-        "thor6": {
-            "name": "Thor Odinson",
-            "color": [
+            ],
+            "thor6": [
                 116,
                 13,
                 12
-            ]
-        },
-        "thor7": {
-            "name": "Thor Odinson",
-            "color": [
+            ],
+            "thor7": [
                 89,
                 15,
                 14
-            ]
-        },
-        "thor9": {
-            "name": "Thor Odinson",
-            "color": [
+            ],
+            "thor9": [
                 26,
                 59,
                 101
             ]
         },
-        "vision1": {
-            "name": "Visión",
-            "color": [
+        "Tony Stark (Iron Man)": {
+            "ironman1": [
+                150,
+                26,
+                26
+            ],
+            "ironman3": [
+                113,
+                14,
+                31
+            ],
+            "ironman4": [
+                158,
+                51,
+                68
+            ],
+            "ironman5": [
+                129,
+                19,
+                37
+            ],
+            "ironman6": [
+                143,
+                25,
+                48
+            ]
+        },
+        "Visión": {
+            "vision1": [
                 138,
                 55,
                 80
-            ]
-        },
-        "vision3": {
-            "name": "Visión",
-            "color": [
+            ],
+            "vision3": [
                 32,
                 73,
                 123
@@ -375,7 +324,8 @@
             "vision3": "Información enviada, asegúrese de que valga la pena."
         },
         "BANNED_MEMBER": {
-            "blackbolt": "_Black Bolt_ le susurró en el oído a **{TAG}**{REASON}",
+            "americachavez2": "Envié a **{TAG}** a otro universo{REASON}. Así aprenderá...",
+            "blackbolt": "_Black Bolt_ le susurró al oído a **{TAG}**{REASON}.",
             "blackwidow6": "Alguien fue a _Vormir_ acompañado de **{TAG}** y volvió con la _Gema del Alma_.",
             "medusa": "**{TAG}** fue desterrado de _Attilan_{REASON}.",
             "thanos2": "Convertí a **{TAG}** en cenizas{REASON}...",
@@ -385,6 +335,7 @@
             "thor7": "**{TAG}** fue desterrado de _Asgard_{REASON}."
         },
         "GONE_MEMBER": {
+            "captainamerica6": "**{TAG}** vió llegar a _Thanos_ y se acobardó...",
             "thor4": "**{TAG}** dejó de ser digno y se marchó.",
             "thor9": "**{TAG}** ya no es digno y se fue."
         },
