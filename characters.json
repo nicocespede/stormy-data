@@ -152,6 +152,23 @@
                 252
             ]
         },
+        "Doctor Stephen Strange": {
+            "doctorstrange1": [
+                31,
+                31,
+                47
+            ],
+            "doctorstrange2": [
+                117,
+                26,
+                35
+            ],
+            "doctorstrange4": [
+                44,
+                36,
+                44
+            ]
+        },
         "Steve Rogers (Capitán América)": {
             "captainamerica": [
                 47,
@@ -326,16 +343,21 @@
         "BANNED_MEMBER": {
             "americachavez2": "Envié a **{TAG}** a otro universo{REASON}. Así aprenderá...",
             "blackbolt": "_Black Bolt_ le susurró al oído a **{TAG}**{REASON}.",
-            "blackwidow6": "Alguien fue a _Vormir_ acompañado de **{TAG}** y volvió con la _Gema del Alma_.",
-            "medusa": "**{TAG}** fue desterrado de _Attilan_{REASON}.",
-            "thanos2": "Convertí a **{TAG}** en cenizas{REASON}...",
+            "blackwidow6": "Sacrificaron a **{TAG}** para obtener la _Gema del Alma_{REASON}.",
+            "doctorstrange1": "Encerré a **{TAG}** en la dimensión espejo{REASON}. Eso le enseñará...",
+            "ironman3": "Detuvieron a **{TAG}** y lo encerraron en _La Balsa_{REASON}.",
+            "medusa": "Desterraron de _Attilan_ a **{TAG}**{REASON}.",
+            "thanos2": "Convertí en cenizas a **{TAG}**{REASON}...",
             "thanos3": "Reduje a átomos a **{TAG}**{REASON}. Yo soy... inevitable.",
-            "thor": "Desterraron a **{TAG}** de _Asgard_{REASON}.",
-            "thor5": "**{TAG}** fue desterrado de _Nuevo Asgard_{REASON}.",
+            "thor": "Desterraron de _Asgard_ a **{TAG}**{REASON}.",
+            "thor5": "Desterraron de _Nuevo Asgard_ a **{TAG}**{REASON}.",
             "thor7": "**{TAG}** fue desterrado de _Asgard_{REASON}."
         },
         "GONE_MEMBER": {
             "captainamerica6": "**{TAG}** vió llegar a _Thanos_ y huyó...",
+            "doctorstrange2": "**{TAG}** me pidió un hechizo para que todos olviden quién es y se fugó.",
+            "hulk3": "**{TAG}** se fue de paseo y se perdió en _Sakaar_.",
+            "kamalakhan3": "**{TAG}** estaba mirando mi serie, se aburrió y se fue.",
             "thor4": "**{TAG}** dejó de ser digno y se marchó.",
             "thor9": "**{TAG}** ya no es digno y se fue."
         },
