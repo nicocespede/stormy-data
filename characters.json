@@ -67,6 +67,35 @@
                 42
             ]
         },
+        "Doctor Stephen Strange": {
+            "doctorstrange1": [
+                31,
+                31,
+                47
+            ],
+            "doctorstrange2": [
+                117,
+                26,
+                35
+            ],
+            "doctorstrange4": [
+                44,
+                36,
+                44
+            ]
+        },
+        "Gamora Ben Titan": {
+            "gamora": [
+                59,
+                68,
+                68
+            ],
+            "gamora2": [
+                41,
+                41,
+                49
+            ]
+        },
         "Groot": {
             "groot": [
                 138,
@@ -89,11 +118,47 @@
                 31
             ]
         },
+        "Heimdall": {
+            "heimdall": [
+                49,
+                57,
+                41
+            ]
+        },
+        "Jane Foster (Poderosa Thor)": {
+            "janefoster1": [
+                183,
+                43,
+                43
+            ]
+        },
         "Kamala Khan (Ms. Marvel)": {
             "kamalakhan3": [
                 120,
                 13,
                 13
+            ]
+        },
+        "Loki Laufeyson": {
+            "loki": [
+                196,
+                163,
+                97
+            ],
+            "loki2": [
+                38,
+                71,
+                79
+            ],
+            "loki5": [
+                85,
+                68,
+                52
+            ],
+            "loki6": [
+                34,
+                42,
+                42
             ]
         },
         "Maya Lopez (Echo)": {
@@ -152,21 +217,18 @@
                 252
             ]
         },
-        "Doctor Stephen Strange": {
-            "doctorstrange1": [
-                31,
-                31,
-                47
-            ],
-            "doctorstrange2": [
-                117,
-                26,
-                35
-            ],
-            "doctorstrange4": [
-                44,
-                36,
-                44
+        "Odín Borson": {
+            "odin1": [
+                191,
+                158,
+                84
+            ]
+        },
+        "Quentin Beck (Misterio)": {
+            "mysterio1": [
+                185,
+                172,
+                115
             ]
         },
         "Steve Rogers (Capitán América)": {
@@ -293,6 +355,18 @@
                 73,
                 123
             ]
+        },
+        "Yondu Udonta": {
+            "yondu": [
+                104,
+                54,
+                46
+            ],
+            "yondu2": [
+                51,
+                51,
+                51
+            ]
         }
     },
     "situations": {
@@ -345,7 +419,9 @@
             "blackbolt": "_Black Bolt_ le susurró al oído a **{TAG}**{REASON}.",
             "blackwidow6": "Sacrificaron a **{TAG}** para obtener la _Gema del Alma_{REASON}.",
             "doctorstrange1": "Encerré a **{TAG}** en la dimensión espejo{REASON}. Eso le enseñará...",
+            "gamora2": "**{TAG}** fue sacrificado para obtener la _Gema del Alma_{REASON}.",
             "ironman3": "Detuvieron a **{TAG}** y lo encerraron en _La Balsa_{REASON}.",
+            "loki5": "La _AVT_ arrestó y encarceló a **{TAG}**{REASON}.",
             "medusa": "Desterraron de _Attilan_ a **{TAG}**{REASON}.",
             "thanos2": "Convertí en cenizas a **{TAG}**{REASON}...",
             "thanos3": "Reduje a átomos a **{TAG}**{REASON}. Yo soy... inevitable.",
@@ -356,10 +432,15 @@
         "GONE_MEMBER": {
             "captainamerica6": "**{TAG}** vió llegar a _Thanos_ y huyó...",
             "doctorstrange2": "**{TAG}** me pidió un hechizo para que todos olviden quién es y se fugó.",
+            "heimdall": "**{TAG}** ingresó al _Valhalla_.",
             "hulk3": "**{TAG}** se fue de paseo y se perdió en _Sakaar_.",
+            "janefoster1": "**{TAG}** ascendió al _Valhalla_.",
             "kamalakhan3": "**{TAG}** estaba mirando mi serie, se aburrió y se fue.",
+            "mysterio1": "Revelé la identidad de **{TAG}** y se fugó.",
+            "odin1": "**{TAG}** tomó su lugar en los salones del _Valhalla_...",
             "thor4": "**{TAG}** dejó de ser digno y se marchó.",
-            "thor9": "**{TAG}** ya no es digno y se fue."
+            "thor9": "**{TAG}** ya no es digno y se fue.",
+            "yondu2": "**{TAG}** se perdió en el espacio..."
         },
         "UNBANNED_MEMBER": {
             "personaje": {
