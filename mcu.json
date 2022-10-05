@@ -788,8 +788,10 @@
         "type": "Película",
         "lastUpdate": {
             "4K": "14/01/2022",
-            "1080p": "14/01/2022"
+            "1080p": "14/01/2022",
+            "3D": "04/10/2022"
         },
+        "updateInfo": "subida la versión 3D",
         "color": [
             105,
             12,
