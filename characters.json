@@ -96,6 +96,13 @@
                 49
             ]
         },
+        "Gorr": {
+            "gorr": [
+                226,
+                226,
+                226
+            ]
+        },
         "Groot": {
             "groot": [
                 138,
@@ -229,6 +236,33 @@
                 185,
                 172,
                 115
+            ]
+        },
+        "Scott Lang (Ant-Man)": {
+            "antman1": [
+                164,
+                74,
+                90
+            ],
+            "antman2": [
+                150,
+                18,
+                26
+            ],
+            "antman3": [
+                128,
+                29,
+                38
+            ],
+            "antman4": [
+                141,
+                34,
+                38
+            ],
+            "antman5": [
+                170,
+                64,
+                62
             ]
         },
         "Steve Rogers (Capitán América)": {
@@ -416,6 +450,7 @@
         },
         "BANNED_MEMBER": {
             "americachavez2": "Envié a **{TAG}** a otro universo{REASON}. Así aprenderá...",
+            "antman3": "Encerré a **{TAG}** en el reino cuántico{REASON}.",
             "blackbolt": "_Black Bolt_ le susurró al oído a **{TAG}**{REASON}.",
             "blackwidow6": "Sacrificaron a **{TAG}** para obtener la _Gema del Alma_{REASON}.",
             "doctorstrange1": "Encerré a **{TAG}** en la dimensión espejo{REASON}. Eso le enseñará...",
@@ -430,6 +465,7 @@
             "thor7": "**{TAG}** fue desterrado de _Asgard_{REASON}."
         },
         "GONE_MEMBER": {
+            "antman1": "**{TAG}** se hizo subatómico y desapareció.",
             "captainamerica6": "**{TAG}** vió llegar a _Thanos_ y huyó...",
             "doctorstrange2": "**{TAG}** me pidió un hechizo para que todos olviden quién es y se fugó.",
             "heimdall": "**{TAG}** ingresó al _Valhalla_.",
@@ -443,9 +479,79 @@
             "yondu2": "**{TAG}** se perdió en el espacio..."
         },
         "UNBANNED_MEMBER": {
-            "personaje": {
-                "frase": [
-                    "personajes"
+            "americachavez2": {
+                "**{TAG}** fue perdonado y lo traje de vuelta.": [
+                    "americachavez2"
+                ]
+            },
+            "antman4": {
+                "**{TAG}** aprendió a comportarse y fue liberado del reino cuántico.": [
+                    "antman3"
+                ]
+            },
+            "blackbolt": {
+                "Los _Inhumanos_ perdonaron a **{TAG}** y aceptarán su regreso a _Attilan_.": [
+                    "medusa"
+                ]
+            },
+            "doctorstrange1": {
+                "**{TAG}** aprendió su lección así que lo liberé de la dimensión espejo.": [
+                    "doctorstrange1"
+                ]
+            },
+            "gorr": {
+                "Llegué hasta _Eternidad_ y le pedí que **{TAG}** reviviera.": [
+                    "blackbolt",
+                    "blackwidow6",
+                    "gamora2"
+                ]
+            },
+            "hulk4": {
+                "Chasqueé los dedos para traer de vuelta a **{TAG}**.": [
+                    "thanos2",
+                    "thanos3"
+                ]
+            },
+            "ironman3": {
+                "**{TAG}** cumplió su condena y lo liberaron de _La Balsa_.": [
+                    "ironman3"
+                ]
+            },
+            "ironman5": {
+                "Chasqueé los dedos para traer de vuelta a **{TAG}**.": [
+                    "thanos2",
+                    "thanos3"
+                ]
+            },
+            "loki5": {
+                "La _AVT_ se apiadó de **{TAG}** y lo liberó.": [
+                    "loki5"
+                ]
+            },
+            "medusa": {
+                "**{TAG}** fue perdonado y puede regresar a _Attilan_.": [
+                    "medusa"
+                ]
+            },
+            "odin1": {
+                "**{TAG}** fue perdonado y puede regresar a _Asgard_.": [
+                    "thor",
+                    "thor7"
+                ]
+            },
+            "thor": {
+                "**{TAG}** fue perdonado y puede regresar a _Asgard_.": [
+                    "thor"
+                ]
+            },
+            "thor5": {
+                "_Nuevo Asgard_ decidió perdonar a **{TAG}** y aceptar su regreso.": [
+                    "thor5"
+                ]
+            },
+            "thor7": {
+                "Los _Asgardianos_ perdonaron a **{TAG}** y lo aceptarán de nuevo.": [
+                    "thor7"
                 ]
             }
         }
