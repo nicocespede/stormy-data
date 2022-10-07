@@ -1034,5 +1034,18 @@
             41,
             71
         ]
+    },
+    {
+        "name": "Werewolf By Night (2022)",
+        "type": "Película",
+        "lastUpdate": {
+            "1080p": "07/10/2022"
+        },
+        "updateInfo": "",
+        "color": [
+            179,
+            179,
+            177
+        ]
     }
 ]
