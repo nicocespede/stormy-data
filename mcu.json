@@ -933,10 +933,11 @@
         "name": "Spider-Man: No Way Home (2021)",
         "type": "Película",
         "lastUpdate": {
-            "4K": "02/05/2022",
-            "1080p": "12/03/2022",
+            "4K": "16/10/2022",
+            "1080p": "16/10/2022",
             "3D": "23/08/2022"
         },
+        "updateInfo": "subida la versión extendida (The More Fun Stuff Version)",
         "color": [
             11,
             68,
