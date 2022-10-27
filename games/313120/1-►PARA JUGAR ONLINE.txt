@@ -1,6 +1,0 @@
-1. Descargar la versión ONLINE del juego
-2. Descomprimir carpeta RAR
-3. Abrir Steam (Si no lo tiene, desde acá se puede descargar: http://store.steampowered.com/about/)
-4. Iniciar sesión en steam
-5. Ejecutar el juego
-6. Invitar amigos y jugar

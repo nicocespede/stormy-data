@@ -1,4 +1,0 @@
-1. Descargar el juego
-2. Descomprimir carpeta RAR  – Es importante actualizar su WinRar a la v5.60 o usar 7zip
-3. Ejecutar el juego como Administrador desde «Binaries\Win32-UDK.exe»
-4. Jugar 😉

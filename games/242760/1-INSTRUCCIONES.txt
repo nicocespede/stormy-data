@@ -1,4 +1,0 @@
-1. Descargar el juego
-2. Descomprimir carpeta RAR- Es importante que actualice su WinRar a la v5.60 o use 7zip para descomprimir
-3. Ejecutar el juego como Administrador desde «LAUNCHER.EXE»
-4. Usted puede jugar single player, cooperativo LOCAL/LAN u online usando Radmin VPN O Hamachi

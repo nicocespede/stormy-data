@@ -1,7 +1,0 @@
-Connection:
-
-We accept an invitation from a friend.
-
-Server Creation:
-
-Multiplayer -> Create server -> Create -> Invite Friends -> We invite friends and wait for their connection.

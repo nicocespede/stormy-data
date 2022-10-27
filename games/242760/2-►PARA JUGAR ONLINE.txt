@@ -1,5 +1,0 @@
-1. Descargar y descomprimir el fix online
-2. Copiar todo el contenido del fix y pegarlo en su juego
-3. Iniciar sesión en STEAM con su cuenta
-4. Ejecutar el juego desde «TheForest32.exe»
-5. Usted podrá crear una partida y jugar con amigos de steam que también lo tengan pirata mediante invitación directa.
