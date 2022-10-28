@@ -5167,6 +5167,7 @@
             179,
             177
         ],
+        "updateInfo": "agregada la versión 4K",
         "versions": {
             "1080p": {
                 "files": 1,
@@ -5189,6 +5190,51 @@
                     ]
                 },
                 "password": "www.compucalitv.com"
+            },
+            "4K": {
+                "files": 4,
+                "lastUpdate": "27/10/2022",
+                "links": {
+                    "MEGA": [
+                        "https://mega.nz/file/bR5QwbLI#fmloN9xLKVU2dxeEhd8SRTWP69IO4o6hicis70aTsZI",
+                        "https://mega.nz/file/2VQDjJTB#Rnq0nBRQI7MiMCf23sepKvwi7kSIYaGVZNQOKO2eZoY",
+                        "https://mega.nz/file/iVBBDTIK#6Lg1Aoe5z0Lz_d_V33fn3ZkRoNxCxwy_QSGIau2sugE"
+                    ],
+                    "Uptobox": [
+                        "https://uptobox.com/a9a1wzos5h6i",
+                        "https://uptobox.com/s3uy7rllvo5t",
+                        "https://uptobox.com/nu030yp9tat0",
+                        "https://uptobox.com/qqtgnkul410u"
+                    ],
+                    "1Fichier": [
+                        "https://1fichier.com/?ltf60tv6qciphyja3017",
+                        "https://1fichier.com/?pg4zoj8myerqvr398dse",
+                        "https://1fichier.com/?8im88yp0f9ff9clyrip7",
+                        "https://1fichier.com/?6j6odl6xn7lis1r3ce06"
+                    ],
+                    "Megaup": [
+                        "https://megaup.net/18Ym4",
+                        "https://megaup.net/18Ymj",
+                        "https://megaup.net/18Ymw",
+                        "https://megaup.net/2uThl"
+                    ],
+                    "Fireload": [
+                        "https://www.fireload.com/32f87f4f969cf1f9",
+                        "https://www.fireload.com/0d75e4764d6b961d",
+                        "https://www.fireload.com/eb61bb452a964e9b",
+                        "https://www.fireload.com/87c9e1f13548546f"
+                    ],
+                    "Bayfiles": [
+                        "https://bayfiles.com/g2eai1Cby8/WFBNT22WEB4K9.part1_rar",
+                        "https://bayfiles.com/tde6i5C4y5/WFBNT22WEB4K9.part2_rar",
+                        "https://bayfiles.com/q0e5iaC8y0/WFBNT22WEB4K9.part3_rar",
+                        "https://bayfiles.com/p9e0ieCcyd/WFBNT22WEB4K9.part4_rar"
+                    ],
+                    "Openload": [
+                        "https://openload.cc/A4f2i4C6yf/WFBNT22WEB4K9.part4_rar"
+                    ]
+                },
+                "password": "www.descargandoxmega.com"
             }
         }
     }
