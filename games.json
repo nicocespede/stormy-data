@@ -292,8 +292,9 @@
         },
         {
             "id": "962130",
-            "version": "V1.0.3.3930",
-            "lastUpdate": "28/10/2022",
+            "version": "V1.0.5.3952",
+            "lastUpdate": "29/10/2022",
+            "updateInfo": " a la versión 1.0.5.3952",
             "files": 20,
             "links": {
                 "Juego": {
@@ -370,6 +371,17 @@
                     ],
                     "1Fichier": [
                         "https://1fichier.com/?07g63vkwfj8h44sxokk7"
+                    ]
+                },
+                "Update 1.0.5.3952": {
+                    "Uptobox": [
+                        "https://uptobox.com/4p343zvefknv"
+                    ],
+                    "Zippyshare": [
+                        "https://www5.zippyshare.com/v/S1Mdb45e/file.html"
+                    ],
+                    "1Fichier": [
+                        "https://1fichier.com/?r3ega0k0xqxj2muy1qsf"
                     ]
                 },
                 "Steamworks Fix": {
