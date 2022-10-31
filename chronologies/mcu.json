@@ -17,7 +17,8 @@
     {
         "name": "Agent Carter",
         "type": "One-Shot",
-        "reference": "8"
+        "reference": "8",
+        "year": "2013"
     },
     {
         "name": "Captain Marvel",
@@ -42,12 +43,14 @@
     {
         "name": "The Consultant",
         "type": "One-Shot",
-        "reference": "8"
+        "reference": "8",
+        "year": "2011"
     },
     {
         "name": "A Funny Thing Happened On The Way To Thor's Hammer",
         "type": "One-Shot",
-        "reference": "8"
+        "reference": "8",
+        "year": "2011"
     },
     {
         "name": "Thor",
@@ -62,7 +65,8 @@
     {
         "name": "Item 47",
         "type": "One-Shot",
-        "reference": "8"
+        "reference": "8",
+        "year": "2012"
     },
     {
         "name": "Iron Man 3",
@@ -72,7 +76,8 @@
     {
         "name": "All Hail The King",
         "type": "One-Shot",
-        "reference": "8"
+        "reference": "8",
+        "year": "2014"
     },
     {
         "name": "Agents of S.H.I.E.L.D. Season 1 Episodes 1-7",
