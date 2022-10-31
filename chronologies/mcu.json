@@ -1,0 +1,482 @@
+[
+    {
+        "name": "Captain America: The First Avenger",
+        "type": "Película",
+        "reference": "7"
+    },
+    {
+        "name": "Agent Carter Season 1",
+        "type": "Serie",
+        "reference": "18"
+    },
+    {
+        "name": "Agent Carter Season 2",
+        "type": "Serie",
+        "reference": "24"
+    },
+    {
+        "name": "Agent Carter",
+        "type": "One-Shot",
+        "reference": "8"
+    },
+    {
+        "name": "Captain Marvel",
+        "type": "Película",
+        "reference": "51"
+    },
+    {
+        "name": "Iron Man",
+        "type": "Película",
+        "reference": "3"
+    },
+    {
+        "name": "Iron Man 2",
+        "type": "Película",
+        "reference": "5"
+    },
+    {
+        "name": "The Incredible Hulk",
+        "type": "Película",
+        "reference": "4"
+    },
+    {
+        "name": "The Consultant",
+        "type": "One-Shot",
+        "reference": "8"
+    },
+    {
+        "name": "A Funny Thing Happened On The Way To Thor's Hammer",
+        "type": "One-Shot",
+        "reference": "8"
+    },
+    {
+        "name": "Thor",
+        "type": "Película",
+        "reference": "6"
+    },
+    {
+        "name": "Avengers",
+        "type": "Película",
+        "reference": "9"
+    },
+    {
+        "name": "Item 47",
+        "type": "One-Shot",
+        "reference": "8"
+    },
+    {
+        "name": "Iron Man 3",
+        "type": "Película",
+        "reference": "11"
+    },
+    {
+        "name": "All Hail The King",
+        "type": "One-Shot",
+        "reference": "8"
+    },
+    {
+        "name": "Agents of S.H.I.E.L.D. Season 1 Episodes 1-7",
+        "type": "Serie",
+        "reference": "12"
+    },
+    {
+        "name": "Thor: The Dark World",
+        "type": "Película",
+        "reference": "13"
+    },
+    {
+        "name": "Agents of S.H.I.E.L.D. Season 1 Episodes 8-16",
+        "type": "Serie",
+        "reference": "12"
+    },
+    {
+        "name": "Captain America: The Winter Soldier",
+        "type": "Película",
+        "reference": "14"
+    },
+    {
+        "name": "Agents of S.H.I.E.L.D. Season 1 Episodes 17-22",
+        "type": "Serie",
+        "reference": "12"
+    },
+    {
+        "name": "Guardians Of The Galaxy",
+        "type": "Película",
+        "reference": "16"
+    },
+    {
+        "name": "Guardians Of The Galaxy Vol. 2",
+        "type": "Película",
+        "reference": "32"
+    },
+    {
+        "name": "I Am Groot Season 1",
+        "type": "Miniserie",
+        "reference": "76"
+    },
+    {
+        "name": "Daredevil Season 1",
+        "type": "Serie",
+        "reference": "19"
+    },
+    {
+        "name": "Jessica Jones Season 1",
+        "type": "Serie",
+        "reference": "23"
+    },
+    {
+        "name": "Agents of S.H.I.E.L.D. Season 2 Episodes 1-19",
+        "type": "Serie",
+        "reference": "17"
+    },
+    {
+        "name": "Avengers: Age Of Ultron",
+        "type": "Película",
+        "reference": "20"
+    },
+    {
+        "name": "Agents of S.H.I.E.L.D. Season 2 Episodes 20-22",
+        "type": "Serie",
+        "reference": "17"
+    },
+    {
+        "name": "Ant-Man",
+        "type": "Película",
+        "reference": "21"
+    },
+    {
+        "name": "Luke Cage Season 1 Episodes 1-2",
+        "type": "Serie",
+        "reference": "28"
+    },
+    {
+        "name": "Daredevil Season 2 Episodes 1-4",
+        "type": "Serie",
+        "reference": "25"
+    },
+    {
+        "name": "Luke Cage Season 1 Episodes 3-4",
+        "type": "Serie",
+        "reference": "28"
+    },
+    {
+        "name": "Daredevil Season 2 Episodes 5-11",
+        "type": "Serie",
+        "reference": "25"
+    },
+    {
+        "name": "Luke Cage Season 1 Episodes 5-8",
+        "type": "Serie",
+        "reference": "28"
+    },
+    {
+        "name": "Daredevil Season 2 Episodes 12-13",
+        "type": "Serie",
+        "reference": "25"
+    },
+    {
+        "name": "Luke Cage Season 1 Episodes 9-13",
+        "type": "Serie",
+        "reference": "28"
+    },
+    {
+        "name": "Cloak and Dagger Season 1",
+        "type": "Serie",
+        "reference": "43"
+    },
+    {
+        "name": "Cloak and Dagger Season 2",
+        "type": "Serie",
+        "reference": "52"
+    },
+    {
+        "name": "Agents of S.H.I.E.L.D. Season 3 Episodes 1-19",
+        "type": "Serie",
+        "reference": "22"
+    },
+    {
+        "name": "Iron Fist Season 1",
+        "type": "Serie",
+        "reference": "31"
+    },
+    {
+        "name": "Captain America: Civil War",
+        "type": "Película",
+        "reference": "26"
+    },
+    {
+        "name": "Black Widow",
+        "type": "Película",
+        "reference": "64"
+    },
+    {
+        "name": "Agents of S.H.I.E.L.D. Season 3 Episode 20",
+        "type": "Serie",
+        "reference": "22"
+    },
+    {
+        "name": "Black Panther",
+        "type": "Película",
+        "reference": "40"
+    },
+    {
+        "name": "Agents of S.H.I.E.L.D. Season 3 Episodes 21-22",
+        "type": "Serie",
+        "reference": "22"
+    },
+    {
+        "name": "Inhumans Season 1",
+        "type": "Serie",
+        "reference": "35"
+    },
+    {
+        "name": "The Defenders Season 1",
+        "type": "Serie",
+        "reference": "34"
+    },
+    {
+        "name": "Spider-Man: Homecoming",
+        "type": "Película",
+        "reference": "33"
+    },
+    {
+        "name": "The Punisher Season 1",
+        "type": "Serie",
+        "reference": "37"
+    },
+    {
+        "name": "Jessica Jones Season 2",
+        "type": "Serie",
+        "reference": "41"
+    },
+    {
+        "name": "Luke Cage Season 2",
+        "type": "Serie",
+        "reference": "44"
+    },
+    {
+        "name": "Runaways Season 1",
+        "type": "Serie",
+        "reference": "38"
+    },
+    {
+        "name": "Runaways Season 2",
+        "type": "Serie",
+        "reference": "49"
+    },
+    {
+        "name": "Iron Fist Season 2",
+        "type": "Serie",
+        "reference": "46"
+    },
+    {
+        "name": "Daredevil Season 3",
+        "type": "Serie",
+        "reference": "48"
+    },
+    {
+        "name": "The Punisher Season 2",
+        "type": "Serie",
+        "reference": "50"
+    },
+    {
+        "name": "Jessica Jones Season 3",
+        "type": "Serie",
+        "reference": "55"
+    },
+    {
+        "name": "Agents of S.H.I.E.L.D. Season 4 Episodes 1-6",
+        "type": "Serie",
+        "reference": "27"
+    },
+    {
+        "name": "Doctor Strange",
+        "type": "Película",
+        "reference": "29"
+    },
+    {
+        "name": "Agents of S.H.I.E.L.D. Season 4 Episodes 7-8",
+        "type": "Serie",
+        "reference": "27"
+    },
+    {
+        "name": "Agents of S.H.I.E.L.D. Slingshot",
+        "type": "Miniserie",
+        "reference": "30"
+    },
+    {
+        "name": "Thor: Ragnarok",
+        "type": "Película",
+        "reference": "36"
+    },
+    {
+        "name": "Ant-Man and the Wasp",
+        "type": "Película",
+        "reference": "45"
+    },
+    {
+        "name": "Agents of S.H.I.E.L.D. Season 4 Episodes 9-22",
+        "type": "Serie",
+        "reference": "27"
+    },
+    {
+        "name": "Runaways Season 3 Episodes 1-9",
+        "type": "Serie",
+        "reference": "58"
+    },
+    {
+        "name": "Agents of S.H.I.E.L.D. Season 5",
+        "type": "Serie",
+        "reference": "39"
+    },
+    {
+        "name": "Avengers: Infinity War",
+        "type": "Película",
+        "reference": "42"
+    },
+    {
+        "name": "Agents of S.H.I.E.L.D. Season 6",
+        "type": "Serie",
+        "reference": "54"
+    },
+    {
+        "name": "Agents of S.H.I.E.L.D. Season 7",
+        "type": "Serie",
+        "reference": "59"
+    },
+    {
+        "name": "Runaways Season 3 Episode 10",
+        "type": "Serie",
+        "reference": "58"
+    },
+    {
+        "name": "Avengers: Endgame",
+        "type": "Película",
+        "reference": "53"
+    },
+    {
+        "name": "Eternals",
+        "type": "Película",
+        "reference": "68"
+    },
+    {
+        "name": "Loki Season 1",
+        "type": "Serie",
+        "reference": "63"
+    },
+    {
+        "name": "What If...? Season 1",
+        "type": "Serie",
+        "reference": "65"
+    },
+    {
+        "name": "WandaVision Season 1",
+        "type": "Serie",
+        "reference": "61"
+    },
+    {
+        "name": "Shang-Chi And The Legend Of The Ten Rings",
+        "type": "Película",
+        "reference": "66"
+    },
+    {
+        "name": "The Falcon And The Winter Soldier Season 1",
+        "type": "Serie",
+        "reference": "62"
+    },
+    {
+        "name": "Helstrom Season 1",
+        "type": "Serie",
+        "reference": "60"
+    },
+    {
+        "name": "Spider-Man",
+        "type": "Película",
+        "reference": "0"
+    },
+    {
+        "name": "Spider-Man 2",
+        "type": "Película",
+        "reference": "1"
+    },
+    {
+        "name": "Spider-Man 3",
+        "type": "Película",
+        "reference": "2"
+    },
+    {
+        "name": "The Amazing Spider-Man",
+        "type": "Película",
+        "reference": "10"
+    },
+    {
+        "name": "The Amazing Spider-Man 2",
+        "type": "Película",
+        "reference": "15"
+    },
+    {
+        "name": "Venom",
+        "type": "Película",
+        "reference": "47"
+    },
+    {
+        "name": "Venom: Let There Be Carnage",
+        "type": "Película",
+        "reference": "67"
+    },
+    {
+        "name": "Spider-Man: Far From Home",
+        "type": "Película",
+        "reference": "56"
+    },
+    {
+        "name": "Peter's To-Do List",
+        "type": "Cortometraje",
+        "reference": "57"
+    },
+    {
+        "name": "Spider-Man: No Way Home",
+        "type": "Película",
+        "reference": "70"
+    },
+    {
+        "name": "Morbius",
+        "type": "Película",
+        "reference": "71"
+    },
+    {
+        "name": "Doctor Strange In The Multiverse Of Madness",
+        "type": "Película",
+        "reference": "73"
+    },
+    {
+        "name": "Hawkeye Season 1",
+        "type": "Serie",
+        "reference": "69"
+    },
+    {
+        "name": "Moon Knight Season 1",
+        "type": "Serie",
+        "reference": "72"
+    },
+    {
+        "name": "She-Hulk: Attorney at Law Season 1",
+        "type": "Serie",
+        "reference": "77"
+    },
+    {
+        "name": "Ms. Marvel Season 1",
+        "type": "Serie",
+        "reference": "74"
+    },
+    {
+        "name": "Thor: Love And Thunder",
+        "type": "Película",
+        "reference": "75"
+    },
+    {
+        "name": "Werewolf By Night",
+        "type": "Especial",
+        "reference": "78"
+    }
+]
