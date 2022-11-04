@@ -1,0 +1,562 @@
+[
+    {
+        "name": "Dragon Ball Z: Bardock - The Father of Goku",
+        "type": "Especial",
+        "reference": "13",
+        "year": "1990",
+        "thumb": "dbz"
+    },
+    {
+        "name": "Dragon Ball: Episode of Bardock",
+        "type": "OVA",
+        "reference": "19",
+        "year": "2011"
+    },
+    {
+        "choices": [
+            {
+                "name": "Dr. Slump Arale-chan",
+                "description": "Incluye la serie _Dr. Slump Arale-chan_ (243 episodios), 5 películas y 12 especiales.",
+                "data": [
+                    {
+                        "name": "Dr. Slump Arale-chan Episodes 1-14",
+                        "type": "Serie",
+                        "reference": "0"
+                    },
+                    {
+                        "name": "Dr. Slump and Arale-chan: Hello! Wonder Island",
+                        "type": "Película",
+                        "reference": "1"
+                    },
+                    {
+                        "name": "Dr. Slump Arale-chan Episode 15",
+                        "type": "Serie",
+                        "reference": "0"
+                    },
+                    {
+                        "name": "Dr. Slump and Arale-chan: Huh!? Penguin Village Through the TV Jack",
+                        "type": "Especial",
+                        "reference": "2"
+                    },
+                    {
+                        "name": "Dr. Slump Arale-chan Episodes 16-24",
+                        "type": "Serie",
+                        "reference": "0"
+                    },
+                    {
+                        "name": "Penguin Village SOS!!",
+                        "type": "Especial",
+                        "reference": "3"
+                    },
+                    {
+                        "name": "Affairs of the Heart!",
+                        "type": "Especial",
+                        "year": "1981"
+                    },
+                    {
+                        "name": "Anything is OK, Mr. Handy",
+                        "type": "Especial",
+                        "year": "1981"
+                    },
+                    {
+                        "name": "Dr. Slump Arale-chan Episodes 25-36",
+                        "type": "Serie",
+                        "reference": "0"
+                    },
+                    {
+                        "name": "The Legend of Penguin Village's Heroes",
+                        "type": "Especial",
+                        "reference": "4"
+                    },
+                    {
+                        "name": "Dr. Slump Arale-chan Episodes 37-63",
+                        "type": "Serie",
+                        "reference": "0"
+                    },
+                    {
+                        "name": "Dr. Slump: Hoyoyo! Space Adventure",
+                        "type": "Película",
+                        "reference": "5"
+                    },
+                    {
+                        "name": "Dr. Slump Arale-chan Episodes 64-88",
+                        "type": "Serie",
+                        "reference": "0"
+                    },
+                    {
+                        "name": "Dr. Slump: Arale-chan Special: A New World Wonder Made Public in Penguin Village!",
+                        "type": "Especial",
+                        "year": "1982"
+                    },
+                    {
+                        "name": "Dr. Slump Arale-chan Episodes 89-98",
+                        "type": "Serie",
+                        "reference": "0"
+                    },
+                    {
+                        "name": "Dr. Slump and Arale-chan: Hoyoyo, Great Round-the-World Race",
+                        "type": "Película",
+                        "reference": "6"
+                    },
+                    {
+                        "name": "Dr. Slump Arale-chan Episodes 99-139",
+                        "type": "Serie",
+                        "reference": "0"
+                    },
+                    {
+                        "name": "Dr. Slump: Arale-chan's Traffic Safety",
+                        "type": "Especial",
+                        "year": "1983"
+                    },
+                    {
+                        "name": "Dr. Slump: Arale-chan - Let's Learn Traffic Safety",
+                        "type": "Especial",
+                        "reference": "7"
+                    },
+                    {
+                        "name": "Dr. Slump Arale-chan Episodes 140-186",
+                        "type": "Serie",
+                        "reference": "0"
+                    },
+                    {
+                        "name": "Dr. Slump and Arale-chan: Hoyoyo! The Treasure of Nanaba Castle",
+                        "type": "Película",
+                        "reference": "8"
+                    },
+                    {
+                        "name": "Dr. Slump: Arale-chan - The Penguin Village Fire Brigade",
+                        "type": "Especial",
+                        "reference": "9"
+                    },
+                    {
+                        "name": "Dr. Slump Arale-chan Episodes 187-213",
+                        "type": "Serie",
+                        "reference": "0"
+                    },
+                    {
+                        "name": "Dr. Slump and Arale-chan: Hoyoyo! Dream Capital Mecha Police",
+                        "type": "Película",
+                        "reference": "10"
+                    },
+                    {
+                        "name": "Dr. Slump Arale-chan Episodes 214-243",
+                        "type": "Serie",
+                        "reference": "0"
+                    },
+                    {
+                        "name": "Dr. Slump and Arale-chan Returns Special",
+                        "type": "Especial",
+                        "year": "1990"
+                    },
+                    {
+                        "name": "Dr. Slump: Arale-chan '92 New Year Special",
+                        "type": "Especial",
+                        "year": "1992"
+                    },
+                    {
+                        "name": "Dr. Slump and Arale-chan Special: Ooh-ho-hoy! - I Came Back to Win",
+                        "type": "Especial",
+                        "year": "2007"
+                    }
+                ]
+            },
+            {
+                "name": "Dr. Slump Arale-chan Returns",
+                "description": "Incluye 5 películas.",
+                "data": [
+                    {
+                        "name": "Dr. Slump and Arale-chan: N-cha! Penguin Village is Swelling Then Fair",
+                        "type": "Película",
+                        "reference": "17"
+                    },
+                    {
+                        "name": "Dr. Slump and Arale-chan: N-cha! From Penguin Village With Love",
+                        "type": "Película",
+                        "reference": "18"
+                    },
+                    {
+                        "name": "Dr. Slump and Arale-chan: Hoyoyo!! Follow the Rescued Shark...",
+                        "type": "Película",
+                        "reference": "21"
+                    },
+                    {
+                        "name": "Dr. Slump and Arale-chan: N-cha!! Trembling Heart of the Summer",
+                        "type": "Película",
+                        "reference": "22"
+                    },
+                    {
+                        "name": "Dr. Mashirito and Abale-chan",
+                        "type": "Película",
+                        "reference": "27"
+                    }
+                ]
+            },
+            {
+                "name": "Dr. Slump",
+                "description": "Incluye la serie _Dr. Slump_ (74 episodios), 1 película y 2 especiales.",
+                "data": [
+                    {
+                        "name": "Dr. Slump Episodes 1-14",
+                        "type": "Serie",
+                        "reference": "24"
+                    },
+                    {
+                        "name": "Robot Showdown! Emergency Dr. Mashirito Appears",
+                        "type": "Especial",
+                        "reference": "25"
+                    },
+                    {
+                        "name": "A Kiin Win! Penguin Grand Prix",
+                        "type": "Especial",
+                        "reference": "25"
+                    },
+                    {
+                        "name": "Dr. Slump Episodes 15-53",
+                        "type": "Serie",
+                        "reference": "24"
+                    },
+                    {
+                        "name": "Doctor Slump: Arale's Surprise",
+                        "type": "Película",
+                        "reference": "26"
+                    },
+                    {
+                        "name": "Dr. Slump Episodes 54-74",
+                        "type": "Serie",
+                        "reference": "24"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "choices": [
+            {
+                "name": "Dragon Ball",
+                "description": "Incluye la serie _Dragon Ball_ (153 episodios) y 2 especiales.",
+                "data": [
+                    {
+                        "name": "Dragon Ball Episodes 1-101",
+                        "type": "Serie",
+                        "reference": "11"
+                    },
+                    {
+                        "name": "Goku's Traffic Safety",
+                        "type": "Especial",
+                        "reference": "13",
+                        "year": "1988",
+                        "thumb": "db"
+                    },
+                    {
+                        "name": "Goku's Fire Brigade",
+                        "type": "Especial",
+                        "reference": "13",
+                        "year": "1988",
+                        "thumb": "db"
+                    },
+                    {
+                        "name": "Dragon Ball Episodes 102-153",
+                        "type": "Serie",
+                        "reference": "11"
+                    }
+                ]
+            },
+            {
+                "name": "Dragon Ball (películas)",
+                "description": "Incluye 3 películas.",
+                "data": [
+                    {
+                        "name": "Dragon Ball: Curse of the Blood Rubies",
+                        "type": "Película",
+                        "reference": "12",
+                        "year": "1986"
+                    },
+                    {
+                        "name": "Dragon Ball: Sleeping Princess in Devil's Castle",
+                        "type": "Película",
+                        "reference": "12",
+                        "year": "1987"
+                    },
+                    {
+                        "name": "Dragon Ball: Mystical Adventure",
+                        "type": "Película",
+                        "reference": "12",
+                        "year": "1988"
+                    }
+                ]
+            },
+            {
+                "name": "Dragon Ball: The Path to Power",
+                "description": "Incluye sólo la película _Dragon Ball: The Path to Power_.",
+                "data": [
+                    {
+                        "name": "Dragon Ball: The Path to Power",
+                        "type": "Película",
+                        "reference": "12",
+                        "year": "1996"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dragon Ball Z: Dead Zone",
+        "type": "Película",
+        "reference": "15",
+        "year": "1989"
+    },
+    {
+        "name": "Dragon Ball Z Episodes 1-35",
+        "type": "Serie",
+        "reference": "14"
+    },
+    {
+        "name": "Dragon Ball Z: The World's Strongest",
+        "type": "Película",
+        "reference": "15",
+        "year": "1990"
+    },
+    {
+        "name": "Dragon Ball Z Episodes 36-67",
+        "type": "Serie",
+        "reference": "14"
+    },
+    {
+        "name": "Dragon Ball Z: The Tree of Might",
+        "type": "Película",
+        "reference": "15",
+        "year": "1990"
+    },
+    {
+        "name": "Dragon Ball Z: Lord Slug",
+        "type": "Película",
+        "reference": "15",
+        "year": "1991"
+    },
+    {
+        "name": "Dragon Ball Z Episodes 68-125",
+        "type": "Serie",
+        "reference": "14"
+    },
+    {
+        "name": "Dragon Ball Z: Cooler's Revenge",
+        "type": "Película",
+        "reference": "15",
+        "year": "1991"
+    },
+    {
+        "name": "Dragon Ball Z: The History of Trunks",
+        "type": "Especial",
+        "reference": "13",
+        "year": "1993",
+        "thumb": "dbz"
+    },
+    {
+        "name": "Dragon Ball Z Episodes 126-152",
+        "type": "Serie",
+        "reference": "14"
+    },
+    {
+        "name": "Dragon Ball Z: Super Android 13!",
+        "type": "Película",
+        "reference": "15",
+        "year": "1992"
+    },
+    {
+        "name": "Dragon Ball Z: Summer Vacation Special",
+        "type": "OVA",
+        "reference": "16"
+    },
+    {
+        "name": "The World of Dragon Ball Z",
+        "type": "OVA",
+        "reference": "19",
+        "year": "2000"
+    },
+    {
+        "name": "Dragon Ball Z Episodes 153-165",
+        "type": "Serie",
+        "reference": "14"
+    },
+    {
+        "name": "Dragon Ball Z: The Return of Cooler",
+        "type": "Película",
+        "reference": "15",
+        "year": "1992"
+    },
+    {
+        "name": "Dragon Ball Z: Broly - The Legendary Super Saiyan",
+        "type": "Película",
+        "reference": "15",
+        "year": "1993"
+    },
+    {
+        "choices": [
+            {
+                "name": "Dragon Ball Z Side Story: Plan to Eradicate the Saiyans",
+                "description": "Incluye el OVA _Dragon Ball Z Side Story: Plan to Eradicate the Saiyans_.",
+                "data": [
+                    {
+                        "name": "Dragon Ball Z Side Story: Plan to Eradicate the Saiyans",
+                        "type": "OVA",
+                        "reference": "19",
+                        "year": "1993"
+                    }
+                ]
+            },
+            {
+                "name": "Dragon Ball: Plan to Eradicate the Super Saiyans",
+                "description": "Incluye el OVA _Dragon Ball: Plan to Eradicate the Super Saiyans_.",
+                "data": [
+                    {
+                        "name": "Dragon Ball: Plan to Eradicate the Super Saiyans",
+                        "type": "OVA",
+                        "reference": "19",
+                        "year": "2010"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dragon Ball Z Episodes 166-194",
+        "type": "Serie",
+        "reference": "14"
+    },
+    {
+        "name": "Dragon Ball Z: Bojack Unbound",
+        "type": "Película",
+        "reference": "15",
+        "year": "1993"
+    },
+    {
+        "name": "Dragon Ball Z Episodes 195-209",
+        "type": "Serie",
+        "reference": "14"
+    },
+    {
+        "name": "Dragon Ball Z: Broly - Second Coming",
+        "type": "Película",
+        "reference": "15",
+        "year": "1994"
+    },
+    {
+        "name": "Looking Back at it All: The Dragon Ball Z Year-End Show!",
+        "type": "Especial",
+        "reference": "20"
+    },
+    {
+        "name": "Dragon Ball Z Episodes 210-253",
+        "type": "Serie",
+        "reference": "14"
+    },
+    {
+        "name": "Dragon Ball Z: Bio-Broly",
+        "type": "Película",
+        "reference": "15",
+        "year": "1994"
+    },
+    {
+        "name": "Dragon Ball Z: Wrath of the Dragon",
+        "type": "Película",
+        "reference": "15",
+        "year": "1995"
+    },
+    {
+        "name": "Dragon Ball Z Episodes 254-275",
+        "type": "Serie",
+        "reference": "14"
+    },
+    {
+        "name": "Dragon Ball Z: Fusion Reborn",
+        "type": "Película",
+        "reference": "15",
+        "year": "1995"
+    },
+    {
+        "name": "Dragon Ball Z Episodes 276-287",
+        "type": "Serie",
+        "reference": "14"
+    },
+    {
+        "name": "Dragon Ball Super: Super Hero",
+        "type": "Película",
+        "reference": "33"
+    },
+    {
+        "name": "Dragon Ball Z Episodes 288-291",
+        "type": "Serie",
+        "reference": "14"
+    },
+    {
+        "name": "Dragon Ball: The Return of Son Goku and Friends!",
+        "type": "OVA",
+        "reference": "19",
+        "year": "2008"
+    },
+    {
+        "name": "Dragon Ball Z: Battle of Gods",
+        "type": "Película",
+        "reference": "28"
+    },
+    {
+        "name": "Dragon Ball Z: Resurrection 'F'",
+        "type": "Película",
+        "reference": "29"
+    },
+    {
+        "name": "Dragon Ball Super Episodes 1-110",
+        "type": "Serie",
+        "reference": "30"
+    },
+    {
+        "name": "This is the Ultimate Battle in all the Universes! Son Goku vs Jiren!!",
+        "type": "Especial"
+    },
+    {
+        "name": "Dragon Ball Super Episodes 111-131",
+        "type": "Serie",
+        "reference": "30"
+    },
+    {
+        "name": "Right Before the Dragon Ball Super Movie Debuts! Looking Back on the TV Show's Climax",
+        "type": "Especial"
+    },
+    {
+        "name": "Dragon Ball Super: Broly",
+        "type": "Película",
+        "reference": "32"
+    },
+    {
+        "name": "Super Dragon Ball Heroes Episodes 1-28",
+        "type": "Serie",
+        "reference": "31"
+    },
+    {
+        "name": "Super Dragon Ball Heroes Episodes 30-45",
+        "type": "Serie",
+        "reference": "31"
+    },
+    {
+        "name": "Super Dragon Ball Heroes Episode 29",
+        "type": "Serie",
+        "reference": "31"
+    },
+    {
+        "name": "Dragon Ball GT Episodes 1-63",
+        "type": "Serie",
+        "reference": "23"
+    },
+    {
+        "name": "Dragon Ball GT: A Hero's Legacy",
+        "type": "Especial",
+        "reference": "13",
+        "year": "1997",
+        "thumb": "dbgt"
+    },
+    {
+        "name": "Dragon Ball GT Episode 64",
+        "type": "Serie",
+        "reference": "23"
+    }
+]
