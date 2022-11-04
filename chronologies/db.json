@@ -4,7 +4,7 @@
         "type": "Especial",
         "reference": "13",
         "year": "1990",
-        "thumb": "dbz"
+        "thumb": "dbz-logo"
     },
     {
         "name": "Dragon Ball: Episode of Bardock",
@@ -203,12 +203,14 @@
                     {
                         "name": "Robot Showdown! Emergency Dr. Mashirito Appears",
                         "type": "Especial",
-                        "reference": "25"
+                        "reference": "25",
+                        "year":"1998"
                     },
                     {
                         "name": "A Kiin Win! Penguin Grand Prix",
                         "type": "Especial",
-                        "reference": "25"
+                        "reference": "25",
+                        "year":"1998"
                     },
                     {
                         "name": "Dr. Slump Episodes 15-53",
@@ -245,14 +247,14 @@
                         "type": "Especial",
                         "reference": "13",
                         "year": "1988",
-                        "thumb": "db"
+                        "thumb": "db-logo"
                     },
                     {
                         "name": "Goku's Fire Brigade",
                         "type": "Especial",
                         "reference": "13",
                         "year": "1988",
-                        "thumb": "db"
+                        "thumb": "db-logo"
                     },
                     {
                         "name": "Dragon Ball Episodes 102-153",
@@ -349,7 +351,7 @@
         "type": "Especial",
         "reference": "13",
         "year": "1993",
-        "thumb": "dbz"
+        "thumb": "dbz-logo"
     },
     {
         "name": "Dragon Ball Z Episodes 126-152",
@@ -511,7 +513,8 @@
     },
     {
         "name": "This is the Ultimate Battle in all the Universes! Son Goku vs Jiren!!",
-        "type": "Especial"
+        "type": "Especial",
+        "year": "2017"
     },
     {
         "name": "Dragon Ball Super Episodes 111-131",
@@ -520,7 +523,8 @@
     },
     {
         "name": "Right Before the Dragon Ball Super Movie Debuts! Looking Back on the TV Show's Climax",
-        "type": "Especial"
+        "type": "Especial",
+        "year": "2018"
     },
     {
         "name": "Dragon Ball Super: Broly",
@@ -552,7 +556,7 @@
         "type": "Especial",
         "reference": "13",
         "year": "1997",
-        "thumb": "dbgt"
+        "thumb": "dbgt-logo"
     },
     {
         "name": "Dragon Ball GT Episode 64",
