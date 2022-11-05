@@ -468,6 +468,7 @@
         "name": "Dragon Ball Z movies collection",
         "year": "1989-1995",
         "thumb": "dbz-logo",
+        "updateInfo":"subidas las versiones 4K",
         "versions": {
             "1080p": {
                 "files": 11,
@@ -501,6 +502,31 @@
                     ]
                 },
                 "password": "www.megapeliculasrip.com"
+            },
+            "4K": {
+                "files": 13,
+                "lastUpdate": "04/11/2022",
+                "links": {
+                    "Uptobox": [
+                        "https://uptobox.com/qkgla52dkiaw",
+                        "https://uptobox.com/3s3z37h7f9ri",
+                        "https://uptobox.com/whal77npmbf4",
+                        "https://uptobox.com/znsxhvteykld",
+                        "https://uptobox.com/vyswc53o0cif",
+                        "https://uptobox.com/g9jbz8mm2dv5",
+                        "https://uptobox.com/mlkho8bg3eze",
+                        "https://uptobox.com/lt0c2sryoez7",
+                        "https://uptobox.com/12rrymwefzql",
+                        "https://uptobox.com/stsleptt792l",
+                        "https://uptobox.com/cybq1igmjwsz",
+                        "https://uptobox.com/uvqec534yfpz",
+                        "https://uptobox.com/3zbcmbxt3koy"
+                    ],
+                    "1fichier": [
+                        "https://1fichier.com/?6w6la2jk4nw4tt9l73z9"
+                    ]
+                },
+                "password": "www.descargandoxmega.com"
             }
         }
     },
