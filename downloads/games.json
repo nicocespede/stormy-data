@@ -771,7 +771,8 @@
                     "Mediafire": [
                         "https://www.mediafire.com/folder/82x8n57fyg8uv/Spmnl-PGME"
                     ]
-                }
+                },
+                "password": "www.compucalitv.com"
             }
         },
         {
@@ -909,6 +910,44 @@
                     ]
                 },
                 "password": "www.compucalitv.com"
+            }
+        }
+    ],
+    "others": [
+        {
+            "name": "Dragon Ball Z Budokai Tenkaichi 4",
+            "year": "2020",
+            "version": "v0.11",
+            "lastUpdate": "10/11/2022",
+            "imageURL": "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/9fe1ce04486cce00989f0e52a0c2c118.jpg",
+            "instructions": {
+                "Cómo jugar": [
+                    "**1.** Instalar el emulador de PlayStation 2 **PCSX2**.",
+                    "**2.** Descomprimir el DBZ Budokai Tenkaichi 4.",
+                    "**3.** En el PCSX2, seleccionar CDVD → Selector de ISO → Buscar...",
+                    "**4.** Localizar la ISO del juego y seleccionarla.",
+                    "**5.** Seleccionar Sistema → Ejecutar CDVD (completo)."
+                ]
+            },
+            "links": {
+                "game": {
+                    "files": 1,
+                    "Mediafire": [
+                        "https://www.mediafire.com/file/w29fexzulpkoujx/DBZBT4-XI-NTSC-PS2.rar/file"
+                    ],
+                    "Google Drive": [
+                        "https://drive.google.com/file/d/1XCIvfZ7GdeIlb3Zs14hnfmgfVQbcvE8v/view?usp=sharing"
+                    ],
+                    "MEGA": [
+                        "https://mega.nz/#!gQgFDSZT!lx4eWwK8_e2irdWQ2FUwVO2_QxHqaNsoIc7FSiAdmQ8"
+                    ]
+                },
+                "extras-PCSX2": {
+                    "files": 1,
+                    "Github": [
+                        "https://github.com/PCSX2/pcsx2/releases/download/v1.6.0/pcsx2-v1.6.0-windows-32bit-installer.exe"
+                    ]
+                }
             }
         }
     ]
