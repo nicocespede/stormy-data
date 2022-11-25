@@ -911,6 +911,238 @@
                 },
                 "password": "www.compucalitv.com"
             }
+        },
+        {
+            "id": "1259970",
+            "version": "V1.07.01",
+            "lastUpdate": "25/11/2022",
+            "instructions": {
+                "Voces Español Latino Argentina": [
+                    "Pegar el archivo dt41_ags_all.cpk dentro de la carpeta Data"
+                ],
+                "Instalación Dream Patch": [
+                    "1- Debes tener el juego actualizado y sin ningún otro parche",
+                    "2- Colocar los archivos en la raiz de la carpeta del juego",
+                    "3- Sobre la primer parte, clic con el botón derecho y elegir extraer aqui",
+                    "4- Confirmar la sobreescritura",
+                    "5- Borrar el EDIT de mis documentos",
+                    "6- Abrir el juego con sider.exe y disfrutar!"
+                ],
+                "Instalación Qatar 2022 Kitpack": [
+                    "1. Requiere la última versión de Sider 7 y el módulo Kitserver instalado.",
+                    "2. Extraer y copiar la carpeta National en el directorio ...sider\\content\\kit-server",
+                    "3. Copiar las siguientes lineas en kit-server\\map.txt:\n",
+                    "# AFC & OFC",
+                    "57, \"National\\Australia\"",
+                    "55, \"National\\IR Iran\"",
+                    "52, \"National\\Japan\"",
+                    "53, \"National\\Korea Republic\"",
+                    "1026, \"National\\Qatar\"",
+                    "56, \"National\\Saudi Arabia\"",
+                    "",
+                    "# CAF",
+                    "36, \"National\\Cameroon\"",
+                    "1051, \"National\\Cote D'Ivoire\"",
+                    "34, \"National\\Egypt\"",
+                    "1058, \"National\\Ghana\"",
+                    "32, \"National\\Morocco\"",
+                    "35, \"National\\Nigeria\"",
+                    "38, \"National\\Senegal\"",
+                    "33, \"National\\Tunisia\"",
+                    "",
+                    "# CONMEBOL",
+                    "50, \"National\\Argentina\"",
+                    "45, \"National\\Brazil\"",
+                    "47, \"National\\Chile\"",
+                    "44, \"National\\Colombia\"",
+                    "51, \"National\\Ecuador\"",
+                    "48, \"National\\Paraguay\"",
+                    "49, \"National\\Uruguay\"",
+                    "",
+                    "# CONCACAF",
+                    "1099, \"National\\Canada\"",
+                    "42, \"National\\Costa Rica\"",
+                    "40, \"National\\Mexico\"",
+                    "39, \"National\\USA\"",
+                    "",
+                    "# UEFA",
+                    "21, \"National\\Austria\"",
+                    "9, \"National\\Belgium\"",
+                    "1170, \"National\\Bosnia and Herzegovina\"",
+                    "24, \"National\\Croatia\"",
+                    "13, \"National\\Czech Republic\"",
+                    "15, \"National\\Denmark\"",
+                    "5, \"National\\England\"",
+                    "18, \"National\\Finland\"",
+                    "8, \"National\\France\"",
+                    "14, \"National\\Germany\"",
+                    "22, \"National\\Hungary\"",
+                    "1175, \"National\\Iceland\"",
+                    "12, \"National\\Italy\"",
+                    "10, \"National\\Netherlands\"",
+                    "16, \"National\\Norway\"",
+                    "19, \"National\\Poland\"",
+                    "6, \"National\\Portugal\"",
+                    "1, \"National\\Republic of Ireland\"",
+                    "3, \"National\\Scotland\"",
+                    "1550, \"National\\Serbia\"",
+                    "7, \"National\\Spain\"",
+                    "17, \"National\\Sweden\"",
+                    "11, \"National\\Switzerland\"",
+                    "29, \"National\\Turkey\"",
+                    "4, \"National\\Wales\""
+                ]
+            },
+            "links": {
+                "game": {
+                    "files": 46,
+                    "Zippyshare": [
+                        "https://www93.zippyshare.com/v/tyPNgIFV/file.html",
+                        "https://www75.zippyshare.com/v/37QaMFzI/file.html",
+                        "https://www44.zippyshare.com/v/gw83J6Aw/file.html",
+                        "https://www74.zippyshare.com/v/5Hb8R79c/file.html",
+                        "https://www32.zippyshare.com/v/pGptIfNW/file.html",
+                        "https://www25.zippyshare.com/v/IQnIwY9U/file.html",
+                        "https://www86.zippyshare.com/v/XEMnrYTD/file.html",
+                        "https://www31.zippyshare.com/v/eLllM87N/file.html",
+                        "https://www90.zippyshare.com/v/IcymSr3K/file.html",
+                        "https://www38.zippyshare.com/v/tmFahjc6/file.html",
+                        "https://www41.zippyshare.com/v/na190mtf/file.html",
+                        "https://www99.zippyshare.com/v/dlzYfpn0/file.html",
+                        "https://www58.zippyshare.com/v/TsfbOAjd/file.html",
+                        "https://www53.zippyshare.com/v/tZPwBFqp/file.html",
+                        "https://www113.zippyshare.com/v/ZNETIY4O/file.html",
+                        "https://www102.zippyshare.com/v/9LizlqB6/file.html",
+                        "https://www27.zippyshare.com/v/REWKJ2Qa/file.html",
+                        "https://www14.zippyshare.com/v/u4NqqVeL/file.html",
+                        "https://www20.zippyshare.com/v/KwEG48gD/file.html",
+                        "https://www92.zippyshare.com/v/u7FVv4ZI/file.html",
+                        "https://www118.zippyshare.com/v/9Bn2ynqX/file.html",
+                        "https://www104.zippyshare.com/v/1Zkzudmd/file.html",
+                        "https://www118.zippyshare.com/v/6rK7RY0H/file.html",
+                        "https://www27.zippyshare.com/v/3AgoM3DL/file.html",
+                        "https://www92.zippyshare.com/v/p3oE4Qwk/file.html",
+                        "https://www21.zippyshare.com/v/iJhSOzy9/file.html",
+                        "https://www107.zippyshare.com/v/WKZeSnVn/file.html",
+                        "https://www85.zippyshare.com/v/9mTTc5dm/file.html",
+                        "https://www112.zippyshare.com/v/qaj8WXGq/file.html",
+                        "https://www29.zippyshare.com/v/w92u0m3o/file.html",
+                        "https://www110.zippyshare.com/v/IDEITaVp/file.html",
+                        "https://www23.zippyshare.com/v/yGJjr0Te/file.html",
+                        "https://www71.zippyshare.com/v/YEcJU4LO/file.html",
+                        "https://www6.zippyshare.com/v/ktFM7OHh/file.html",
+                        "https://www36.zippyshare.com/v/JimvtSJ0/file.html",
+                        "https://www19.zippyshare.com/v/AH6QdF2Z/file.html",
+                        "https://www56.zippyshare.com/v/uZYIDxTB/file.html",
+                        "https://www108.zippyshare.com/v/DkT21lHV/file.html",
+                        "https://www93.zippyshare.com/v/NpKxrjC4/file.html",
+                        "https://www11.zippyshare.com/v/cA3xNyzp/file.html",
+                        "https://www73.zippyshare.com/v/nOkKy4fT/file.html",
+                        "https://www85.zippyshare.com/v/XGi9q8GX/file.html",
+                        "https://www103.zippyshare.com/v/ZZPF6uzm/file.html",
+                        "https://www23.zippyshare.com/v/w9W3zRlp/file.html",
+                        "https://www120.zippyshare.com/v/joh4Q8Uo/file.html",
+                        "https://www68.zippyshare.com/v/qz5s4KhU/file.html"
+                    ],
+                    "Uptobox": [
+                        "https://uptobox.com/f0w3vfwry1u3",
+                        "https://uptobox.com/ma24y85ama2i",
+                        "https://uptobox.com/7yhyym8chuqb",
+                        "https://uptobox.com/z0j663szz8bn",
+                        "https://uptobox.com/9a4wy94wi00c",
+                        "https://uptobox.com/z0lfb1i2ha57",
+                        "https://uptobox.com/601py2uy3rhi",
+                        "https://uptobox.com/f1hy2awmjdnm",
+                        "https://uptobox.com/g4ge9hek5x2y",
+                        "https://uptobox.com/uehfiwotp4lr",
+                        "https://uptobox.com/x6dky6yd54jl",
+                        "https://uptobox.com/kgssms0m8zen",
+                        "https://uptobox.com/uyj8vrbzuwo8",
+                        "https://uptobox.com/be0vu37m6eyx",
+                        "https://uptobox.com/xi92780wm0ng",
+                        "https://uptobox.com/hzrit7ncjbcf",
+                        "https://uptobox.com/891x3qu0de4c",
+                        "https://uptobox.com/wfy8brakgkzk",
+                        "https://uptobox.com/jyrhrpirez2n",
+                        "https://uptobox.com/ekm5e1g3r6km",
+                        "https://uptobox.com/j2y3rgzvtecg",
+                        "https://uptobox.com/n9xsnmx8zu56",
+                        "https://uptobox.com/oh8j9ys8nk39",
+                        "https://uptobox.com/p6rd4s4xuj8l",
+                        "https://uptobox.com/ca1nf1mi1dt8",
+                        "https://uptobox.com/2xuvzenz74fp",
+                        "https://uptobox.com/fvmt1zi45ovg",
+                        "https://uptobox.com/6367dy0lz8h8",
+                        "https://uptobox.com/tomg5og2sjop",
+                        "https://uptobox.com/4uqx85ypmgvd",
+                        "https://uptobox.com/oi04stt5ncrw",
+                        "https://uptobox.com/mcv6hmqui4ca",
+                        "https://uptobox.com/guwawlgwhxp4",
+                        "https://uptobox.com/fm3ssqw41z6i",
+                        "https://uptobox.com/62e8xqstq6kj",
+                        "https://uptobox.com/rur2li2h2633",
+                        "https://uptobox.com/27qd4z6q6s3e",
+                        "https://uptobox.com/y8k6rp2as065",
+                        "https://uptobox.com/v8xgdla0chbu",
+                        "https://uptobox.com/2iym54c85o1w",
+                        "https://uptobox.com/we3no5a2jusm",
+                        "https://uptobox.com/i8k9l18fh0u5",
+                        "https://uptobox.com/xbb9efugis64",
+                        "https://uptobox.com/t46cb9g50dxi",
+                        "https://uptobox.com/cu3fg6jslhk2",
+                        "https://uptobox.com/zly55mjn9353"
+                    ]
+                },
+                "update-1.07.01 - DLC 7.0": {
+                    "files": 5,
+                    "MEGA": [
+                        "https://mega.nz/file/hJ9UzDQZ#RfRbPljLPVOLdoh__N0_gttcgXkbFMul_Tcuba8eNDg",
+                        "https://mega.nz/file/0VkWWRTC#ivL7ZnvOhN6V1mYSDiZRd38glGdc6XpKLD1lHna1Uro",
+                        "https://mega.nz/file/AM9mFZCa#lHb3aK5ssuHxwWcmKFHDYxzSuI8gpzBiQymPM1--WV8",
+                        "https://mega.nz/file/pAsQGBrQ#V6avhqIzSHwCNe5F235NBntGkfXPjBjPky-vAl7HUjk",
+                        "https://mega.nz/file/RA8EnBbI#TWI6GaV1ilwcDOaas37yNiktgV9c4ZwgTHq4lnZAzrU"
+                    ],
+                    "Google Drive": [
+                        "https://drive.google.com/file/d/1IBF7rRFy-tSuTq8jim9q0UgbRfjLTwP1/view?usp=sharing",
+                        "https://drive.google.com/file/d/1U5Q9TagR6yypG54N2BeBYm9YsBq1DfOl/view?usp=sharing",
+                        "https://drive.google.com/file/d/1Zn0yHQ0LtVV4UuRz1n4oj9dTi2MVDBOq/view?usp=sharing",
+                        "https://drive.google.com/file/d/1PZSeH9vYi3Sj81cSOjtOcKy9WHoAimym/view?usp=sharing"
+                    ],
+                    "Mediafire": [
+                        "https://www.mediafire.com/file/wcdwnvncw9xuiwe/CPY%252B1.07.00%252BPES%252B2021%252B-%252BSOMOSPES.COM.rar.rar/file"
+                    ]
+                },
+                "extras-Voces Español Latino Argentina": {
+                    "files": 1,
+                    "1fichier": [
+                        "https://1fichier.com/?x7lruexapp26bpvctaxn&af=221397"
+                    ],
+                    "Uptobox": [
+                        "https://uptobox.com/tzzynxxvd4go"
+                    ],
+                    "MEGA": [
+                        "https://mega.nz/folder/1sZEFLIB#3sV9LVZYCCltJMP9QaNRPw"
+                    ]
+                },
+                "extras-Dream Patch V4.0": {
+                    "files": 31,
+                    "Torrent": [
+                        "https://www.mediafire.com/file/3ejxj308ge0u1a7/Dream_Patch_v4.0.torrent/file?fbclid=IwAR27aRofvrZxMJ0Spt2zm8zea6YU0m9Zzh7xpo1KUGiNRghzqj3AZtRNXLo",
+                        "https://www.mediafire.com/file/3ejamhthxveoumb/Dream_Patch_4.0_Stadium_Server.torrent/file?fbclid=IwAR1hDzWL_C67eTmrFDq3Rz7qB24h9wVkncP9pZhcBJlxn2O2aFF33CcT1Vo"
+                    ],
+                    "Mediafire": [
+                        "https://www.mediafire.com/folder/00aaxmp1rzhk6/Dream+Patch+V4.0?fbclid=IwAR2L-cbr-e84_2xXJFV-BOTxNGCy3gale1bF9nAAvu2WUYmawVaipZsaPcg",
+                        "https://www.mediafire.com/folder/m2xijxcqoqv2a/Dream+Patch+V4.0+-+Stadium+Server?fbclid=IwAR3Xyack_OfIW3HFD2awedSc-n-SsTM6qD-bGje7hDoaolaLf85lO4Vsik8"
+                    ]
+                },
+                "extras-Qatar 2022 Kitpack": {
+                    "files": 1,
+                    "ShareMods": [
+                        "https://sharemods.com/19rz0sj66uyt/NEW_update-Mega_National_teams_kits_pack_22-23__40_18.11.2022__41_.rar.html"
+                    ]
+                },
+                "password": "www.compucalitv.com"
+            }
         }
     ],
     "others": [
