@@ -483,5 +483,10 @@
         "name": "Werewolf By Night",
         "type": "Especial",
         "reference": "78"
+    },
+    {
+        "name": "The Guardians of the Galaxy Holiday Special",
+        "type": "Especial",
+        "reference": "79"
     }
 ]
