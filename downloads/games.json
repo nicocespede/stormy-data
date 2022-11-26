@@ -915,12 +915,13 @@
         {
             "id": "1259970",
             "version": "V1.07.01",
-            "lastUpdate": "25/11/2022",
+            "lastUpdate": "26/11/2022",
+            "updateInfo": "",
             "instructions": {
                 "Voces Español Latino Argentina": [
                     "Pegar el archivo dt41_ags_all.cpk dentro de la carpeta Data"
                 ],
-                "Instalación Dream Patch": [
+                "Instalación Dream Patch V4.0": [
                     "1- Debes tener el juego actualizado y sin ningún otro parche",
                     "2- Colocar los archivos en la raiz de la carpeta del juego",
                     "3- Sobre la primer parte, clic con el botón derecho y elegir extraer aqui",
@@ -928,69 +929,11 @@
                     "5- Borrar el EDIT de mis documentos",
                     "6- Abrir el juego con sider.exe y disfrutar!"
                 ],
-                "Instalación Qatar 2022 Kitpack": [
-                    "1. Requiere la última versión de Sider 7 y el módulo Kitserver instalado.",
-                    "2. Extraer y copiar la carpeta National en el directorio ...sider\\content\\kit-server",
-                    "3. Copiar las siguientes lineas en kit-server\\map.txt:\n",
-                    "# AFC & OFC",
-                    "57, \"National\\Australia\"",
-                    "55, \"National\\IR Iran\"",
-                    "52, \"National\\Japan\"",
-                    "53, \"National\\Korea Republic\"",
-                    "1026, \"National\\Qatar\"",
-                    "56, \"National\\Saudi Arabia\"",
-                    "",
-                    "# CAF",
-                    "36, \"National\\Cameroon\"",
-                    "1051, \"National\\Cote D'Ivoire\"",
-                    "34, \"National\\Egypt\"",
-                    "1058, \"National\\Ghana\"",
-                    "32, \"National\\Morocco\"",
-                    "35, \"National\\Nigeria\"",
-                    "38, \"National\\Senegal\"",
-                    "33, \"National\\Tunisia\"",
-                    "",
-                    "# CONMEBOL",
-                    "50, \"National\\Argentina\"",
-                    "45, \"National\\Brazil\"",
-                    "47, \"National\\Chile\"",
-                    "44, \"National\\Colombia\"",
-                    "51, \"National\\Ecuador\"",
-                    "48, \"National\\Paraguay\"",
-                    "49, \"National\\Uruguay\"",
-                    "",
-                    "# CONCACAF",
-                    "1099, \"National\\Canada\"",
-                    "42, \"National\\Costa Rica\"",
-                    "40, \"National\\Mexico\"",
-                    "39, \"National\\USA\"",
-                    "",
-                    "# UEFA",
-                    "21, \"National\\Austria\"",
-                    "9, \"National\\Belgium\"",
-                    "1170, \"National\\Bosnia and Herzegovina\"",
-                    "24, \"National\\Croatia\"",
-                    "13, \"National\\Czech Republic\"",
-                    "15, \"National\\Denmark\"",
-                    "5, \"National\\England\"",
-                    "18, \"National\\Finland\"",
-                    "8, \"National\\France\"",
-                    "14, \"National\\Germany\"",
-                    "22, \"National\\Hungary\"",
-                    "1175, \"National\\Iceland\"",
-                    "12, \"National\\Italy\"",
-                    "10, \"National\\Netherlands\"",
-                    "16, \"National\\Norway\"",
-                    "19, \"National\\Poland\"",
-                    "6, \"National\\Portugal\"",
-                    "1, \"National\\Republic of Ireland\"",
-                    "3, \"National\\Scotland\"",
-                    "1550, \"National\\Serbia\"",
-                    "7, \"National\\Spain\"",
-                    "17, \"National\\Sweden\"",
-                    "11, \"National\\Switzerland\"",
-                    "29, \"National\\Turkey\"",
-                    "4, \"National\\Wales\""
+                "Instalación Qatar 2022 Mods": [
+                    "1. Extraer y crear una carpeta con nombre 'National' en el directorio ...Dream Patch Sider\\content\\kit-server",
+                    "2. Pegar las carpetas de cada selección en 'National'.",
+                    "3. Pegar y reemplazar el archivo 'map.txt' en ...Dream Patch Sider\\content\\kit-server",
+                    "4. Pegar el archivo 'EDIT00000000' en \\Mis Documentos\\KONAMI\\eFootball PES 2021 SEASON UPDATE\\292733975847239680\\save"
                 ]
             },
             "links": {
@@ -1135,10 +1078,12 @@
                         "https://www.mediafire.com/folder/m2xijxcqoqv2a/Dream+Patch+V4.0+-+Stadium+Server?fbclid=IwAR3Xyack_OfIW3HFD2awedSc-n-SsTM6qD-bGje7hDoaolaLf85lO4Vsik8"
                     ]
                 },
-                "extras-Qatar 2022 Kitpack": {
-                    "files": 1,
-                    "ShareMods": [
-                        "https://sharemods.com/19rz0sj66uyt/NEW_update-Mega_National_teams_kits_pack_22-23__40_18.11.2022__41_.rar.html"
+                "extras-Qatar 2022 Mods": {
+                    "files": 3,
+                    "ShareMods + Google Drive": [
+                        "https://sharemods.com/19rz0sj66uyt/NEW_update-Mega_National_teams_kits_pack_22-23__40_18.11.2022__41_.rar.html",
+                        "https://drive.google.com/file/d/18c_Hmor3PStdw7QtKk_pgDz6qpjhi7LF/view?usp=share_link",
+                        "https://drive.google.com/file/d/10zWmq-N2DcpJ-6309-ILzNBMqWCtFPu_/view?usp=share_link"
                     ]
                 },
                 "password": "www.compucalitv.com"
