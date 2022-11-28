@@ -921,19 +921,25 @@
                 "Voces Español Latino Argentina": [
                     "Pegar el archivo dt41_ags_all.cpk dentro de la carpeta Data"
                 ],
+                "Update + DLCs": [
+                    "1- Pegar y reemplazar los 7 DLCs en la carpeta _...\\eFootball PES 2021\\download_.",
+                    "2- Pegar y reemplazar los 4 archivos del parche CPY en _...\\eFootball PES 2021_.",
+                    "3- Eliminar el archivo 'CPY.ini'."
+                ],
                 "Instalación Dream Patch V4.0": [
                     "1- Debes tener el juego actualizado y sin ningún otro parche",
                     "2- Colocar los archivos en la raiz de la carpeta del juego",
                     "3- Sobre la primer parte, clic con el botón derecho y elegir extraer aqui",
                     "4- Confirmar la sobreescritura",
                     "5- Borrar el EDIT de mis documentos",
-                    "6- Abrir el juego con sider.exe y disfrutar!"
+                    "6- Colocar el archivo 'DreamPatch_Render_Face.cpk' dentro de la carpeta download, confirmar sobre escritura.",
+                    "7- Abrir el juego con sider.exe y disfrutar!"
                 ],
                 "Instalación Qatar 2022 Mods": [
                     "1. Extraer y crear una carpeta con nombre 'National' en el directorio ...Dream Patch Sider\\content\\kit-server",
                     "2. Pegar las carpetas de cada selección en 'National'.",
                     "3. Pegar y reemplazar el archivo 'map.txt' en ...Dream Patch Sider\\content\\kit-server",
-                    "4. Pegar el archivo 'EDIT00000000' en \\Mis Documentos\\KONAMI\\eFootball PES 2021 SEASON UPDATE\\292733975847239680\\save"
+                    "4. Pegar el archivo 'EDIT00000000' en \\Mis Documentos\\KONAMI\\eFootball PES 2021 SEASON UPDATE\\0\\save"
                 ]
             },
             "links": {
@@ -1037,22 +1043,43 @@
                     ]
                 },
                 "update-1.07.01 - DLC 7.0": {
-                    "files": 5,
-                    "MEGA": [
-                        "https://mega.nz/file/hJ9UzDQZ#RfRbPljLPVOLdoh__N0_gttcgXkbFMul_Tcuba8eNDg",
-                        "https://mega.nz/file/0VkWWRTC#ivL7ZnvOhN6V1mYSDiZRd38glGdc6XpKLD1lHna1Uro",
-                        "https://mega.nz/file/AM9mFZCa#lHb3aK5ssuHxwWcmKFHDYxzSuI8gpzBiQymPM1--WV8",
-                        "https://mega.nz/file/pAsQGBrQ#V6avhqIzSHwCNe5F235NBntGkfXPjBjPky-vAl7HUjk",
-                        "https://mega.nz/file/RA8EnBbI#TWI6GaV1ilwcDOaas37yNiktgV9c4ZwgTHq4lnZAzrU"
+                    "files": 8,
+                    "DropBox": [
+                        "https://www.dropbox.com/s/409myv9okksfy1n/parche%20cpy.rar?dl=0"
                     ],
-                    "Google Drive": [
-                        "https://drive.google.com/file/d/1IBF7rRFy-tSuTq8jim9q0UgbRfjLTwP1/view?usp=sharing",
-                        "https://drive.google.com/file/d/1U5Q9TagR6yypG54N2BeBYm9YsBq1DfOl/view?usp=sharing",
-                        "https://drive.google.com/file/d/1Zn0yHQ0LtVV4UuRz1n4oj9dTi2MVDBOq/view?usp=sharing",
-                        "https://drive.google.com/file/d/1PZSeH9vYi3Sj81cSOjtOcKy9WHoAimym/view?usp=sharing"
+                    "ShareMods": [
+                        "https://sharemods.com/tc8k8w3oo01s/dt80_100E_x64-WWW.PESNEWUPDATE.COM-.rar.html",
+                        "https://sharemods.com/frb9zxtdq857/PES2K21-DLC2-WWW.PESNEWUPDATE.COM-.rar.html",
+                        "https://sharemods.com/o1dkfa7qaiac/PES2K21-DLC_3.0-WWW.PESNEWUPDATE.COM-.rar.html",
+                        "https://sharemods.com/v1rtntr2m2l8/PES-2K21-DLC-4.0-WWW.PESNEWUPDATE.COM-.rar.html",
+                        "https://sharemods.com/ayh8g4duce91/PES2K21-DLC5.0-WWW.PESNEWUPDATE.COM-.rar.html",
+                        "https://sharemods.com/arzkyoi8p19r/PES2K21-DLC-6.0-WWW.PESNEWUPDATE.COM-.rar.html",
+                        "https://sharemods.com/zsnf19h8v9ji/PES2K21-DLC7-23_JUNE_2022-WWW.PESNEWUPDATE.COM-.rar.html"
                     ],
-                    "Mediafire": [
-                        "https://www.mediafire.com/file/wcdwnvncw9xuiwe/CPY%252B1.07.00%252BPES%252B2021%252B-%252BSOMOSPES.COM.rar.rar/file"
+                    "Uptobox": [
+                        "https://uptobox.com/w2xgu0a2r3kq",
+                        "https://uptobox.com/gyuyea1pnq0p",
+                        "https://uptobox.com/xbwc2hc9my8i",
+                        "https://uptobox.com/m82yy8kz9qiw",
+                        "https://uptobox.com/78unr03g1mrc",
+                        "https://uptobox.com/sb1usxu8lyl3",
+                        "https://uptobox.com/1ftu7wlkubur"
+                    ],
+                    "APKAdmin": [
+                        "https://apkadmin.com/tpr0nz8llpwb/PES2K21-DLC-6.0-WWW.PESNEWUPDATE.COM-.rar.html",
+                        "https://apkadmin.com/xzuejrfrdvq9/PES2K21-DLC7-23_JUNE_2022-WWW.PESNEWUPDATE.COM-.rar.html"
+                    ],
+                    "Bayfiles": [
+                        "https://bayfiles.com/n6ien2tby4/PES2K21-DLC7-23_JUNE_2022-WWW.PESNEWUPDATE.COM-_rar"
+                    ],
+                    "AnonFiles": [
+                        "https://anonfiles.com/Zch9n0tay8/PES2K21-DLC7-23_JUNE_2022-WWW.PESNEWUPDATE.COM-_rar"
+                    ],
+                    "1Fichier": [
+                        "https://1fichier.com/?e5ec22eme0hzr9wxs0if"
+                    ],
+                    "GoFile": [
+                        "https://gofile.io/?c=5PXaD1#file=1ceb5819"
                     ]
                 },
                 "extras-Voces Español Latino Argentina": {
@@ -1075,7 +1102,8 @@
                     ],
                     "Mediafire": [
                         "https://www.mediafire.com/folder/00aaxmp1rzhk6/Dream+Patch+V4.0?fbclid=IwAR2L-cbr-e84_2xXJFV-BOTxNGCy3gale1bF9nAAvu2WUYmawVaipZsaPcg",
-                        "https://www.mediafire.com/folder/m2xijxcqoqv2a/Dream+Patch+V4.0+-+Stadium+Server?fbclid=IwAR3Xyack_OfIW3HFD2awedSc-n-SsTM6qD-bGje7hDoaolaLf85lO4Vsik8"
+                        "https://www.mediafire.com/folder/m2xijxcqoqv2a/Dream+Patch+V4.0+-+Stadium+Server?fbclid=IwAR3Xyack_OfIW3HFD2awedSc-n-SsTM6qD-bGje7hDoaolaLf85lO4Vsik8",
+                        "https://www.mediafire.com/folder/mxakrv3u9ce4a/Render_Faces_Fix_v4.0"
                     ]
                 },
                 "extras-Qatar 2022 Mods": {
