@@ -915,7 +915,7 @@
         {
             "id": "1259970",
             "version": "V1.07.01",
-            "lastUpdate": "28/11/2022",
+            "lastUpdate": "09/12/2022",
             "updateInfo": "",
             "instructions": {
                 "Voces Español Latino Argentina": [
@@ -935,11 +935,12 @@
                     "6- Colocar el archivo 'DreamPatch_Render_Face.cpk' dentro de la carpeta download, confirmar sobre escritura.",
                     "7- Abrir el juego con sider.exe y disfrutar!"
                 ],
-                "Instalación Qatar 2022 Mods": [
-                    "1. Extraer y crear una carpeta con nombre 'National' en el directorio ...Dream Patch Sider\\content\\kit-server",
-                    "2. Pegar las carpetas de cada selección en 'National'.",
-                    "3. Pegar y reemplazar el archivo 'map.txt' en ...Dream Patch Sider\\content\\kit-server",
-                    "4. Pegar el archivo 'EDIT00000000' en \\Mis Documentos\\KONAMI\\eFootball PES 2021 SEASON UPDATE\\0\\save"
+                "Instalación Dream Patch DLC Mundial Qatar 2022": [
+                    "1- Corroborar tener el juego actualizado y el Dream Patch 4.0 instalado",
+                    "2- Colocar los archivos en la carpeta raiz del juego",
+                    "3- Sobre la primer parte, click con el botón derecho y seleccionar extraer aqui",
+                    "4- Confirmar la sobreescritura de archivos",
+                    "5- Abrir el juego desde el 'sider.exe' y disfrutar!"
                 ]
             },
             "links": {
@@ -1106,12 +1107,31 @@
                         "https://www.mediafire.com/folder/mxakrv3u9ce4a/Render_Faces_Fix_v4.0"
                     ]
                 },
-                "extras-Qatar 2022 Mods": {
-                    "files": 3,
-                    "ShareMods + Google Drive": [
-                        "https://sharemods.com/19rz0sj66uyt/NEW_update-Mega_National_teams_kits_pack_22-23__40_18.11.2022__41_.rar.html",
-                        "https://drive.google.com/file/d/18c_Hmor3PStdw7QtKk_pgDz6qpjhi7LF/view?usp=share_link",
-                        "https://drive.google.com/file/d/10zWmq-N2DcpJ-6309-ILzNBMqWCtFPu_/view?usp=share_link"
+                "extras-Dream Patch DLC Mundial Qatar 2022": {
+                    "files": 8,
+                    "Modsfire": [
+                        "https://modsfire.com/2qWB725IR80Kaz7",
+                        "https://modsfire.com/tAto67escmF46AA",
+                        "https://modsfire.com/4m2837P10pg367A",
+                        "https://modsfire.com/mTaNRiN9BrMWi59",
+                        "https://modsfire.com/AYpKaRfJK5SL8mE",
+                        "https://modsfire.com/e33GX2xtQJUB3tP",
+                        "https://modsfire.com/AQ7dFDEyB85iJDf",
+                        "https://modsfire.com/PgS5AE8aGXex1KT"
+                    ],
+                    "Onedrive": [
+                        "https://hupeseduvn-my.sharepoint.com/personal/k276120722_hupes_edu_vn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FWC%202022%2FDLC%5FWORLD%5FCUP%5FQATAR%5F2022%2Epart01%2Erar&parent=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FWC%202022&ga=1",
+                        "https://hupeseduvn-my.sharepoint.com/personal/k276120722_hupes_edu_vn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FWC%202022%2FDLC%5FWORLD%5FCUP%5FQATAR%5F2022%2Epart02%2Erar&parent=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FWC%202022&ga=1",
+                        "https://hupeseduvn-my.sharepoint.com/personal/k276120722_hupes_edu_vn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FWC%202022%2FDLC%5FWORLD%5FCUP%5FQATAR%5F2022%2Epart03%2Erar&parent=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FWC%202022&ga=1",
+                        "https://hupeseduvn-my.sharepoint.com/personal/k276120722_hupes_edu_vn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FWC%202022%2FDLC%5FWORLD%5FCUP%5FQATAR%5F2022%2Epart04%2Erar&parent=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FWC%202022&ga=1",
+                        "https://hupeseduvn-my.sharepoint.com/personal/k276120722_hupes_edu_vn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FWC%202022%2FDLC%5FWORLD%5FCUP%5FQATAR%5F2022%2Epart05%2Erar&parent=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FWC%202022&ga=1",
+                        "https://hupeseduvn-my.sharepoint.com/personal/k276120722_hupes_edu_vn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FWC%202022%2FDLC%5FWORLD%5FCUP%5FQATAR%5F2022%2Epart06%2Erar&parent=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FWC%202022&ga=1",
+                        "https://hupeseduvn-my.sharepoint.com/personal/k276120722_hupes_edu_vn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FWC%202022%2Fstadium%20server%2FDLC%5FWORLD%5FCUP%5FQATAR%5F2022%5F%2D%5FStadium%5FServer%2Epart1%2Erar&parent=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FWC%202022%2Fstadium%20server&ga=1",
+                        "https://hupeseduvn-my.sharepoint.com/personal/k276120722_hupes_edu_vn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FWC%202022%2Fstadium%20server%2FDLC%5FWORLD%5FCUP%5FQATAR%5F2022%5F%2D%5FStadium%5FServer%2Epart2%2Erar&parent=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FWC%202022%2Fstadium%20server&ga=1"
+                    ],
+                    "ShareMods": [
+                        "https://sharemods.com/s3t69uzse6su/DLC_WORLD_CUP_QATAR_2022_-_Stadium_Server.part1.rar.html",
+                        "https://sharemods.com/i0k0l5jkx5ka/DLC_WORLD_CUP_QATAR_2022_-_Stadium_Server.part2.rar.html"
                     ]
                 },
                 "password": "www.compucalitv.com"
