@@ -204,13 +204,13 @@
                         "name": "Robot Showdown! Emergency Dr. Mashirito Appears",
                         "type": "Especial",
                         "reference": "25",
-                        "year":"1998"
+                        "year": "1998"
                     },
                     {
                         "name": "A Kiin Win! Penguin Grand Prix",
                         "type": "Especial",
                         "reference": "25",
-                        "year":"1998"
+                        "year": "1998"
                     },
                     {
                         "name": "Dr. Slump Episodes 15-53",
@@ -235,29 +235,10 @@
         "choices": [
             {
                 "name": "Dragon Ball",
-                "description": "Incluye la serie _Dragon Ball_ (153 episodios) y 2 especiales.",
+                "description": "Incluye los episodios 1-101 de la serie _Dragon Ball_.",
                 "data": [
                     {
                         "name": "Dragon Ball Episodes 1-101",
-                        "type": "Serie",
-                        "reference": "11"
-                    },
-                    {
-                        "name": "Goku's Traffic Safety",
-                        "type": "Especial",
-                        "reference": "13",
-                        "year": "1988",
-                        "thumb": "db-logo"
-                    },
-                    {
-                        "name": "Goku's Fire Brigade",
-                        "type": "Especial",
-                        "reference": "13",
-                        "year": "1988",
-                        "thumb": "db-logo"
-                    },
-                    {
-                        "name": "Dragon Ball Episodes 102-153",
                         "type": "Serie",
                         "reference": "11"
                     }
@@ -289,17 +270,41 @@
             },
             {
                 "name": "Dragon Ball: The Path to Power",
-                "description": "Incluye sólo la película _Dragon Ball: The Path to Power_.",
+                "description": "Incluye la película _Dragon Ball: The Path to Power_ y los episodios 60-101 de la serie _Dragon Ball_.",
                 "data": [
                     {
                         "name": "Dragon Ball: The Path to Power",
                         "type": "Película",
                         "reference": "12",
                         "year": "1996"
+                    },
+                    {
+                        "name": "Dragon Ball Episodes 60-101",
+                        "type": "Serie",
+                        "reference": "11"
                     }
                 ]
             }
         ]
+    },
+    {
+        "name": "Goku's Traffic Safety",
+        "type": "Especial",
+        "reference": "13",
+        "year": "1988",
+        "thumb": "db-logo"
+    },
+    {
+        "name": "Goku's Fire Brigade",
+        "type": "Especial",
+        "reference": "13",
+        "year": "1988",
+        "thumb": "db-logo"
+    },
+    {
+        "name": "Dragon Ball Episodes 102-153",
+        "type": "Serie",
+        "reference": "11"
     },
     {
         "name": "Dragon Ball Z: Dead Zone",
