@@ -5071,9 +5071,9 @@
         "name": "Werewolf By Night",
         "year": "2022",
         "color": [
-            179,
-            179,
-            177
+            180,
+            38,
+            15
         ],
         "updateInfo": "agregada la versión 4K",
         "versions": {
@@ -5150,9 +5150,9 @@
         "name": "The Guardians of the Galaxy Holiday Special",
         "year": "2022",
         "color": [
-            77,
-            1,
-            1
+            0,
+            127,
+            0
         ],
         "versions": {
             "1080p": {
@@ -5173,6 +5173,47 @@
                     ],
                     "FileFactory": [
                         "http://www.filefactory.com/file/67c9cfal52hq"
+                    ]
+                },
+                "password": "www.compucalitv.com"
+            }
+        }
+    },
+    "80": {
+        "name": "Black Panther: Wakanda Forever",
+        "year": "2022",
+        "color": [
+            134,
+            40,
+            15
+        ],
+        "versions": {
+            "1080p": {
+                "files": 6,
+                "lastUpdate": "31/01/2023",
+                "links": {
+                    "1Fichier": [
+                        "https://1fichier.com/?rk3fy1mjsmbiotqtbkyr&af=221397",
+                        "https://1fichier.com/?o9vapuatkntdot1ech5i&af=221397",
+                        "https://1fichier.com/?crxkp1036ofafvjoetx7&af=221397",
+                        "https://1fichier.com/?6mwzpx6ygfcyh9k7olo1&af=221397",
+                        "https://1fichier.com/?ejjvru9yoigdgbfpop8c&af=221397",
+                        "https://1fichier.com/?615w0kn490q2ncp48s9i&af=221397"
+                    ],
+                    "Uptobox": [
+                        "https://uptobox.com/qu5ue4oidps1",
+                        "https://uptobox.com/13uuf4hb6ymf",
+                        "https://uptobox.com/b6m1jrx16eok",
+                        "https://uptobox.com/38lw9z6faixv",
+                        "https://uptobox.com/b4jlts59nlx3",
+                        "https://uptobox.com/68dm0zddnty1"
+                    ],
+                    "Mediafire": [
+                        "https://www.mediafire.com/folder/fs5ue4phbd0tx/p1",
+                        "https://www.mediafire.com/folder/mlbykht838sd0/p2"
+                    ],
+                    "MEGA": [
+                        "https://mega.nz/folder/iA1xVKTI#x6eIVmbmhYtZVHLoM-WiIA"
                     ]
                 },
                 "password": "www.compucalitv.com"
