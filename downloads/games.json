@@ -921,17 +921,16 @@
         },
         {
             "id": "1259970",
-            "version": "V1.07.01",
-            "lastUpdate": "09/12/2022",
-            "updateInfo": "",
+            "version": "V1.07.02",
+            "lastUpdate": "08/02/2023",
+            "updateInfo": ": agregado el Dream Patch V4.1",
             "instructions": {
                 "Voces Español Latino Argentina": [
                     "Pegar el archivo dt41_ags_all.cpk dentro de la carpeta Data"
                 ],
                 "Update + DLCs": [
                     "1- Pegar y reemplazar los 7 DLCs en la carpeta _...\\eFootball PES 2021\\download_.",
-                    "2- Pegar y reemplazar los 4 archivos del parche CPY en _...\\eFootball PES 2021_.",
-                    "3- Eliminar el archivo 'CPY.ini'."
+                    "2- Pegar y reemplazar los 4 archivos dentro de 'PES_21_1.0.7___fix.rar' en _...\\eFootball PES 2021_."
                 ],
                 "Instalación Dream Patch V4.0": [
                     "1- Debes tener el juego actualizado y sin ningún otro parche",
@@ -942,12 +941,13 @@
                     "6- Colocar el archivo 'DreamPatch_Render_Face.cpk' dentro de la carpeta download, confirmar sobre escritura.",
                     "7- Abrir el juego con sider.exe y disfrutar!"
                 ],
-                "Instalación Dream Patch DLC Mundial Qatar 2022": [
-                    "1- Corroborar tener el juego actualizado y el Dream Patch 4.0 instalado",
-                    "2- Colocar los archivos en la carpeta raiz del juego",
-                    "3- Sobre la primer parte, click con el botón derecho y seleccionar extraer aqui",
-                    "4- Confirmar la sobreescritura de archivos",
-                    "5- Abrir el juego desde el 'sider.exe' y disfrutar!"
+                "Instalación Dream Patch V4.1": [
+                    "1- Debes tener previamente instalada la versión 4.0 del parche",
+                    "2- Colocar los archivos en la raiz de la carpeta del juego",
+                    "3- Sobre la primer parte, click con el botón derecho y elegir extraer aqui",
+                    "4- Confirmar la sobreescritura",
+                    "5- Borrar el archivo EDIT dentro de la carpeta del juego en mis documentos",
+                    "6- Abrir el juego con sider.exe (ubicado dentro de la carpeta 'Dream Patch Sider') y disfrutar!"
                 ]
             },
             "links": {
@@ -1051,10 +1051,13 @@
                     ],
                     "password": "www.compucalitv.com"
                 },
-                "update-1.07.01 - DLC 7.0": {
+                "update-1.07.02 - DLC 7.0": {
                     "files": 8,
-                    "DropBox": [
-                        "https://www.dropbox.com/s/409myv9okksfy1n/parche%20cpy.rar?dl=0"
+                    "Modsfire": [
+                        "https://modsfire.com/KZ261o2UbmvwB4C"
+                    ],
+                    "Onedrive": [
+                        "https://hupeseduvn-my.sharepoint.com/personal/k276120722_hupes_edu_vn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FS%E1%BB%ADa%20l%E1%BB%97i%20m%E1%BA%A5t%20m%C3%B9a%202%2FPES%5F21%5F1%2E0%2E7%5F%5F%5Ffix%2Erar&parent=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FS%E1%BB%ADa%20l%E1%BB%97i%20m%E1%BA%A5t%20m%C3%B9a%202&ga=1"
                     ],
                     "ShareMods": [
                         "https://sharemods.com/tc8k8w3oo01s/dt80_100E_x64-WWW.PESNEWUPDATE.COM-.rar.html",
@@ -1063,7 +1066,8 @@
                         "https://sharemods.com/v1rtntr2m2l8/PES-2K21-DLC-4.0-WWW.PESNEWUPDATE.COM-.rar.html",
                         "https://sharemods.com/ayh8g4duce91/PES2K21-DLC5.0-WWW.PESNEWUPDATE.COM-.rar.html",
                         "https://sharemods.com/arzkyoi8p19r/PES2K21-DLC-6.0-WWW.PESNEWUPDATE.COM-.rar.html",
-                        "https://sharemods.com/zsnf19h8v9ji/PES2K21-DLC7-23_JUNE_2022-WWW.PESNEWUPDATE.COM-.rar.html"
+                        "https://sharemods.com/zsnf19h8v9ji/PES2K21-DLC7-23_JUNE_2022-WWW.PESNEWUPDATE.COM-.rar.html",
+                        "https://sharemods.com/uotctsimdwih/PES_21_1.0.7___fix.rar.html"
                     ],
                     "Uptobox": [
                         "https://uptobox.com/w2xgu0a2r3kq",
@@ -1089,7 +1093,8 @@
                     ],
                     "GoFile": [
                         "https://gofile.io/?c=5PXaD1#file=1ceb5819"
-                    ]
+                    ],
+                    "password": "sonvo"
                 },
                 "extras-Voces Español Latino Argentina": {
                     "files": 1,
@@ -1115,31 +1120,15 @@
                         "https://www.mediafire.com/folder/mxakrv3u9ce4a/Render_Faces_Fix_v4.0"
                     ]
                 },
-                "extras-Dream Patch DLC Mundial Qatar 2022": {
-                    "files": 8,
-                    "Modsfire": [
-                        "https://modsfire.com/2qWB725IR80Kaz7",
-                        "https://modsfire.com/tAto67escmF46AA",
-                        "https://modsfire.com/4m2837P10pg367A",
-                        "https://modsfire.com/mTaNRiN9BrMWi59",
-                        "https://modsfire.com/AYpKaRfJK5SL8mE",
-                        "https://modsfire.com/e33GX2xtQJUB3tP",
-                        "https://modsfire.com/AQ7dFDEyB85iJDf",
-                        "https://modsfire.com/PgS5AE8aGXex1KT"
+                "extras-Dream Patch V4.1": {
+                    "files": 5,
+                    "Torrent": [
+                        "https://www.mediafire.com/file/hzwyzi54xabv0ce/Dream_Patch_v4.1.torrent/file",
+                        "https://www.mediafire.com/file/m335oxd6rfrm0bo/Dream_Patch_v4.1_-_Stadium_Server.torrent/file"
                     ],
-                    "Onedrive": [
-                        "https://hupeseduvn-my.sharepoint.com/personal/k276120722_hupes_edu_vn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FWC%202022%2FDLC%5FWORLD%5FCUP%5FQATAR%5F2022%2Epart01%2Erar&parent=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FWC%202022&ga=1",
-                        "https://hupeseduvn-my.sharepoint.com/personal/k276120722_hupes_edu_vn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FWC%202022%2FDLC%5FWORLD%5FCUP%5FQATAR%5F2022%2Epart02%2Erar&parent=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FWC%202022&ga=1",
-                        "https://hupeseduvn-my.sharepoint.com/personal/k276120722_hupes_edu_vn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FWC%202022%2FDLC%5FWORLD%5FCUP%5FQATAR%5F2022%2Epart03%2Erar&parent=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FWC%202022&ga=1",
-                        "https://hupeseduvn-my.sharepoint.com/personal/k276120722_hupes_edu_vn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FWC%202022%2FDLC%5FWORLD%5FCUP%5FQATAR%5F2022%2Epart04%2Erar&parent=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FWC%202022&ga=1",
-                        "https://hupeseduvn-my.sharepoint.com/personal/k276120722_hupes_edu_vn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FWC%202022%2FDLC%5FWORLD%5FCUP%5FQATAR%5F2022%2Epart05%2Erar&parent=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FWC%202022&ga=1",
-                        "https://hupeseduvn-my.sharepoint.com/personal/k276120722_hupes_edu_vn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FWC%202022%2FDLC%5FWORLD%5FCUP%5FQATAR%5F2022%2Epart06%2Erar&parent=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FWC%202022&ga=1",
-                        "https://hupeseduvn-my.sharepoint.com/personal/k276120722_hupes_edu_vn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FWC%202022%2Fstadium%20server%2FDLC%5FWORLD%5FCUP%5FQATAR%5F2022%5F%2D%5FStadium%5FServer%2Epart1%2Erar&parent=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FWC%202022%2Fstadium%20server&ga=1",
-                        "https://hupeseduvn-my.sharepoint.com/personal/k276120722_hupes_edu_vn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FWC%202022%2Fstadium%20server%2FDLC%5FWORLD%5FCUP%5FQATAR%5F2022%5F%2D%5FStadium%5FServer%2Epart2%2Erar&parent=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FWC%202022%2Fstadium%20server&ga=1"
-                    ],
-                    "ShareMods": [
-                        "https://sharemods.com/s3t69uzse6su/DLC_WORLD_CUP_QATAR_2022_-_Stadium_Server.part1.rar.html",
-                        "https://sharemods.com/i0k0l5jkx5ka/DLC_WORLD_CUP_QATAR_2022_-_Stadium_Server.part2.rar.html"
+                    "Mediafire": [
+                        "https://www.mediafire.com/folder/gy7312mll3x20/Dream+Patch+V4.1",
+                        "https://www.mediafire.com/folder/ttteccizbwgul/Dream+Patch+v4.1+-+Stadium+Server"
                     ]
                 }
             }
