@@ -1132,6 +1132,39 @@
                     ]
                 }
             }
+        },
+        {
+            "id": "1326470",
+            "version": "Build 24022023",
+            "lastUpdate": "24/02/2023",
+            "updateInfo": "subido",
+            "instructions": {
+                "Files for the game": [
+                    "1. Download the game **Sons Of The Forest** and extract it to any folder"
+                ],
+                "How to run": [
+                    "1. Launch **Steam**, go to your profile.",
+                    "",
+                    "2. Run the game through **SonsOfTheForest.exe**."
+                ],
+                "In the game": [
+                    "__Connection:__ We accept invitations from a friend.",
+                    "",
+                    "__Server Creation:__ Multiplayer → Host → New Game → Choose Difficulty → Select Number of Players → Start → Invite Friend → Select Friend → start."
+                ]
+            },
+            "links": {
+                "game": {
+                    "files": 2,
+                    "Online Fix": [
+                        "https://online-fix.me/games/survival/17220-sons-of-the-forest-po-seti.html"
+                    ],
+                    "Torrent": [
+                        "https://drive.google.com/file/d/1tjBMhUzbj4eYOzdNZZ8g-F1br0Py1dsF/view?usp=sharing"
+                    ],
+                    "password": "online-fix.me"
+                }
+            }
         }
     ],
     "others": [
