@@ -923,7 +923,7 @@
             "id": "1259970",
             "version": "V1.07.02",
             "lastUpdate": "08/02/2023",
-            "updateInfo": ": agregado el Dream Patch V4.1",
+            "updateInfo": ": actualizado el Dream Patch V4.1",
             "instructions": {
                 "Voces Español Latino Argentina": [
                     "Pegar el archivo dt41_ags_all.cpk dentro de la carpeta Data"
@@ -948,6 +948,28 @@
                     "4- Confirmar la sobreescritura",
                     "5- Borrar el archivo EDIT dentro de la carpeta del juego en mis documentos",
                     "6- Abrir el juego con sider.exe (ubicado dentro de la carpeta 'Dream Patch Sider') y disfrutar!"
+                ],
+                "Instalación Dream Patch Febrero 2023 beta": [
+                    "1- Debes tener previamente instalada la versión 4.0 y 4.1 del parche",
+                    "2- Colocar los archivos en la raiz de la carpeta del juego",
+                    "3- Sobre la primer parte, click con el botón derecho y elegir extraer aqui",
+                    "4- Confirmar la sobreescritura",
+                    "5- Borrar el archivo EDIT dentro de la carpeta del juego en mis documentos",
+                    "6- Abrir el juego con sider.exe (ubicado dentro de la carpeta 'Dream Patch Sider') y disfrutar!",
+                    "",
+                    "Por defecto, esta beta instala la versión por defecto del parche (B para Brasil), si quieres usar B para Chile debes:",
+                    "• Abra el programa Dream Patch Switcher.",
+                    "• Elija del desplegable la versión que trae la B de Chile.",
+                    "• Elija 'Aplicar datos base' para instalar los archivos base.",
+                    "• Si utiliza el servidor de parches del estadio, seleccione también 'Aplicar datos del estadio'.",
+                    "• Esta operación ya borra la edición de mis documentos."
+                ],
+                "Instalación Dream Patch Database Update 25/02/23": [
+                    "1- Debes tener previamente instalada la versión 4.0, 4.1 y Febrero 2023 beta del parche",
+                    "2- Copia el contenido de la carpeta **base** a la raíz del juego (donde está el PES2021.exe) y confirma al escribir.",
+                    "3- Copia el contenido de la carpeta **stadium-server** a la raíz del juego (donde está el PES2021.exe) y confirma al escribir.",
+                    "4- Borrar el archivo EDIT dentro de la carpeta del juego en mis documentos",
+                    "5- Abrir el juego con sider.exe (ubicado dentro de la carpeta 'Dream Patch Sider') y disfrutar!"
                 ]
             },
             "links": {
@@ -1129,6 +1151,27 @@
                     "Mediafire": [
                         "https://www.mediafire.com/folder/gy7312mll3x20/Dream+Patch+V4.1",
                         "https://www.mediafire.com/folder/ttteccizbwgul/Dream+Patch+v4.1+-+Stadium+Server"
+                    ]
+                },
+                "extras-Dream Patch Febrero 2023 beta": {
+                    "files": 4,
+                    "Onedrive": [
+                        "https://hupeseduvn-my.sharepoint.com/personal/k276120722_hupes_edu_vn/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FFebruary%202023%2FDream%20Patch%20v4%20%2D%20Beta%20Febrero%202023%2Epart1%2Erar&parent=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FFebruary%202023",
+                        "https://hupeseduvn-my.sharepoint.com/personal/k276120722_hupes_edu_vn/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FFebruary%202023%2FDream%20Patch%20v4%20%2D%20Beta%20Febrero%202023%2Epart2%2Erar&parent=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FFebruary%202023",
+                        "https://hupeseduvn-my.sharepoint.com/personal/k276120722_hupes_edu_vn/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FFebruary%202023%2FDream%20Patch%20v4%20%2D%20Beta%20Febrero%202023%2Epart3%2Erar&parent=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FFebruary%202023",
+                        "https://hupeseduvn-my.sharepoint.com/personal/k276120722_hupes_edu_vn/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FFebruary%202023%2FDream%20Patch%20v4%20Stadium%20Server%20%2D%20Beta%20Febrero%202023%2Erar&parent=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FFebruary%202023"
+                    ]
+                },
+                "extras-Dream Patch Database Update 25/02/23": {
+                    "files": 1,
+                    "Modsfire": [
+                        "https://modsfire.com/Drphc1PLMLX80Me"
+                    ],
+                    "ShareMods": [
+                        "https://sharemods.com/t6sfdm76136e/Gran_Patriarca.rar.html"
+                    ],
+                    "Onedrive": [
+                        "https://hupeseduvn-my.sharepoint.com/personal/k276120722_hupes_edu_vn/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch%2FGran%20Patriarca%2Erar&parent=%2Fpersonal%2Fk276120722%5Fhupes%5Fedu%5Fvn%2FDocuments%2FH%C3%B9ng%20C%C6%B0%E1%BB%9Dng%2FGames%2FPES%202021%20PC%2FDreampatch"
                     ]
                 }
             }
