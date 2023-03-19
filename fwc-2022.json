@@ -2604,6 +2604,242 @@
             "picture": "https://digitalhub.fifa.com/transform/ec064316-4789-4ec2-8fa5-348c977e32d3/1442571236",
             "position": "RB",
             "rating": 75
+        },
+        "POL-1": {
+            "birth": "18 de abril de 1990",
+            "club": "🇮🇹 Juventus F. C.",
+            "name": "Wojciech Szczęsny",
+            "nationality": "🇵🇱",
+            "picture": "https://digitalhub.fifa.com/transform/644f5162-40a2-48ba-b2d1-dab9e72cb5df/1442522727",
+            "position": "GK",
+            "rating": 86
+        },
+        "POL-2": {
+            "birth": "7 de agosto de 1997",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Aston Villa F. C.",
+            "name": "Matty Cash",
+            "nationality": "🇬🇧 🇵🇱",
+            "picture": "https://digitalhub.fifa.com/transform/e7d3ff0b-4312-4378-9b91-ba541a1727de/1442525370",
+            "position": "RWB",
+            "rating": 79
+        },
+        "POL-3": {
+            "birth": "4 de noviembre de 1987",
+            "club": "🇵🇱 Legia de Varsovia",
+            "name": "Artur Jędrzejczyk",
+            "nationality": "🇵🇱",
+            "picture": "https://digitalhub.fifa.com/transform/742adb9b-9a2d-4664-99e4-2dfd024be847/1442527379",
+            "position": "CB",
+            "rating": 70
+        },
+        "POL-4": {
+            "birth": "11 de febrero de 1997",
+            "club": "🇫🇷 Clermont Foot 63",
+            "name": "Mateusz Wieteska",
+            "nationality": "🇵🇱",
+            "picture": "https://digitalhub.fifa.com/transform/06111db8-6112-4134-bf95-c9aa3af0fcfc/1442528096",
+            "position": "CB",
+            "rating": 68
+        },
+        "POL-5": {
+            "birth": "12 de abril de 1996",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Aston Villa F. C.",
+            "name": "Jan Bednarek",
+            "nationality": "🇵🇱",
+            "picture": "https://digitalhub.fifa.com/transform/1da68a63-1364-4bcc-b17b-05b3efcfbe8e/1442525075",
+            "position": "CB",
+            "rating": 76
+        },
+        "POL-6": {
+            "birth": "4 de enero de 1998",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Birmingham City F. C.",
+            "name": "Krystian Bielik",
+            "nationality": "🇵🇱",
+            "picture": "https://digitalhub.fifa.com/transform/edfd51f6-06e7-45ff-acb7-b40d5d6eb23a/1442525148",
+            "position": "CDM",
+            "rating": 71
+        },
+        "POL-7": {
+            "birth": "28 de febrero de 1994",
+            "club": "🇮🇹 Juventus F. C.",
+            "name": "Arkadiusz Milik",
+            "nationality": "🇵🇱",
+            "picture": "https://digitalhub.fifa.com/transform/2987aafc-a454-4422-a54e-94e763a4a099/1442525034",
+            "position": "ST",
+            "rating": 80
+        },
+        "POL-8": {
+            "birth": "16 de junio de 1995",
+            "club": "🇬🇷 AEK Atenas F. C.",
+            "name": "Damian Szymański",
+            "nationality": "🇵🇱",
+            "picture": "https://digitalhub.fifa.com/transform/7ac8ba26-25d5-4c8b-9750-3ec7a18497e4/1442527918",
+            "position": "CM",
+            "rating": 72
+        },
+        "POL-9": {
+            "birth": "21 de agosto de 1988",
+            "club": "🇪🇸 F. C. Barcelona",
+            "goals": 2,
+            "name": "Robert Lewandowski",
+            "nationality": "🇵🇱",
+            "picture": "https://digitalhub.fifa.com/transform/001dd30c-b8f4-4533-9b64-5c2fbf10f145/1442524010",
+            "position": "ST",
+            "rating": 91
+        },
+        "POL-10": {
+            "birth": "29 de enero de 1990",
+            "club": "🇸🇦 Al-Shabab Club",
+            "name": "Grzegorz Krychowiak",
+            "nationality": "🇵🇱",
+            "picture": "https://digitalhub.fifa.com/transform/2cd38eae-9e40-42b6-975c-ed280ff22b98/1442524550",
+            "position": "CDM",
+            "rating": 78
+        },
+        "POL-11": {
+            "birth": "18 de junio de 1988",
+            "club": "🇵🇱 Pogoń Szczecin",
+            "name": "Kamil Grosicki",
+            "nationality": "🇵🇱",
+            "picture": "https://digitalhub.fifa.com/transform/7a9a377e-372f-49c0-936a-0596b8639f86/1442525536",
+            "position": "LM",
+            "rating": 73
+        },
+        "POL-12": {
+            "birth": "5 de mayo de 1991",
+            "club": "🇮🇹 Bologna F. C.",
+            "name": "Łukasz Skorupski",
+            "nationality": "🇵🇱",
+            "picture": "https://digitalhub.fifa.com/transform/5a28ba5e-72d1-42e8-8523-86671a2c3fd1/1442523774",
+            "position": "GK",
+            "rating": 76
+        },
+        "POL-13": {
+            "birth": "5 de junio de 2002",
+            "club": "🇩🇪 VfL Wolfsburgo",
+            "name": "Jakub Kamiński",
+            "nationality": "🇵🇱",
+            "picture": "https://digitalhub.fifa.com/transform/443b6eb7-175b-42b4-bb73-96d2bcd25a47/1442527538",
+            "position": "RM",
+            "rating": 73
+        },
+        "POL-14": {
+            "birth": "15 de febrero de 2000",
+            "club": "🇮🇹 Spezia Calcio",
+            "name": "Jakub Kiwior",
+            "nationality": "🇵🇱",
+            "picture": "https://digitalhub.fifa.com/transform/242cb77e-9f11-49b9-85d4-487ad642dc2d/1442527457",
+            "position": "CB",
+            "rating": 72
+        },
+        "POL-15": {
+            "birth": "3 de febrero de 1988",
+            "club": "🇮🇹 Benevento Calcio",
+            "name": "Kamil Glik",
+            "nationality": "🇵🇱",
+            "picture": "https://digitalhub.fifa.com/transform/ce5374ee-d31d-4e81-b928-0ba5ee24694d/1442524978",
+            "position": "CB",
+            "rating": 71
+        },
+        "POL-16": {
+            "birth": "23 de enero de 1997",
+            "club": "🇺🇸 Charlotte F. C.",
+            "name": "Karol Świderski",
+            "nationality": "🇵🇱",
+            "picture": "https://digitalhub.fifa.com/transform/659290bd-7142-4b25-9a66-47e730b4a57d/1442528259",
+            "position": "ST",
+            "rating": 74
+        },
+        "POL-17": {
+            "birth": "25 de septiembre de 1997",
+            "club": "🇮🇹 ACF Fiorentina",
+            "name": "Szymon Żurkowski",
+            "nationality": "🇵🇱",
+            "picture": "https://digitalhub.fifa.com/transform/74f0403d-0647-4870-a65b-33e44dd6c72b/1442528864",
+            "position": "RM",
+            "rating": 76
+        },
+        "POL-18": {
+            "birth": "17 de julio de 1992",
+            "club": "🇮🇹 U. C. Sampdoria",
+            "name": "Bartosz Bereszyński",
+            "nationality": "🇵🇱",
+            "picture": "https://digitalhub.fifa.com/transform/ac0c37ea-dc8f-43d6-81b4-64f2dd7d5563/1442525121",
+            "position": "RB",
+            "rating": 73
+        },
+        "POL-19": {
+            "birth": "10 de mayo de 1999",
+            "club": "🇳🇱 Feyenoord de Róterdam",
+            "name": "Sebastian Szymański",
+            "nationality": "🇵🇱",
+            "picture": "https://digitalhub.fifa.com/transform/46aa0a38-2fd4-4128-a3cf-07b65c3b1ddd/1442528061",
+            "position": "LM",
+            "rating": 76
+        },
+        "POL-20": {
+            "birth": "20 de mayo de 1994",
+            "club": "🇮🇹 S. S. C. Napoli",
+            "goals": 1,
+            "name": "Piotr Zieliński",
+            "nationality": "🇵🇱",
+            "picture": "https://digitalhub.fifa.com/transform/83f9cc79-d1f2-4930-8eea-48f806f0ed3f/1442525266",
+            "position": "CAM",
+            "rating": 83
+        },
+        "POL-21": {
+            "birth": "23 de enero de 2002",
+            "club": "🇮🇹 A. S. Roma",
+            "name": "Nicola Zalewski",
+            "nationality": "🇵🇱 🇮🇹",
+            "picture": "https://digitalhub.fifa.com/transform/c6f25af6-36f2-4240-9a96-551af53addd3/1442528548",
+            "position": "RM",
+            "rating": 75
+        },
+        "POL-22": {
+            "birth": "8 de enero de 1999",
+            "club": "🇩🇰 F. C. Copenhague",
+            "name": "Kamil Grabara",
+            "nationality": "🇵🇱",
+            "picture": "https://digitalhub.fifa.com/transform/217bd168-6534-47b3-a1d8-b4247209fe82/1442523938",
+            "position": "GK",
+            "rating": 74
+        },
+        "POL-23": {
+            "birth": "1 de julio de 1995",
+            "club": "🇮🇹 U. S. Salernitana 1919",
+            "name": "Krzysztof Piątek",
+            "nationality": "🇵🇱",
+            "picture": "https://digitalhub.fifa.com/transform/70c91a1c-b74b-4f5e-85e1-50d0e62fa9b7/1442527744",
+            "position": "ST",
+            "rating": 75
+        },
+        "POL-24": {
+            "birth": "12 de abril de 1995",
+            "club": "🇫🇷 R. C. Lens",
+            "name": "Przemysław Frankowski",
+            "nationality": "🇵🇱",
+            "picture": "https://digitalhub.fifa.com/transform/ff8c7f1b-60c3-42d3-89f8-3b5c4844545e/1442525453",
+            "position": "RM",
+            "rating": 76
+        },
+        "POL-25": {
+            "birth": "4 de junio de 1998",
+            "club": "🇩🇪 F. C. Augsburgo",
+            "name": "Robert Gumny",
+            "nationality": "🇵🇱",
+            "picture": "https://digitalhub.fifa.com/transform/47213ff8-d122-4169-9ecb-2aeb3d5f22b2/1442525792",
+            "position": "RWB",
+            "rating": 72
+        },
+        "POL-26": {
+            "birth": "15 de febrero de 2000",
+            "club": "🇵🇱 Lech Poznań",
+            "name": "Michał Skóraś",
+            "nationality": "🇵🇱",
+            "picture": "https://digitalhub.fifa.com/transform/e902e030-16b7-44da-bc1d-c4c1400be573/1442527857",
+            "position": "RM",
+            "rating": 69
         }
     },
     "teams": {
@@ -2815,7 +3051,7 @@
             ],
             "emblem": "https://1.bp.blogspot.com/-ODg6_XsSXOM/XtTiYAnQECI/AAAAAAABcAY/YfloUOGyepAP7dnGOsE6KWNoupnuWkU-ACK4BGAsYHg/POL.png",
             "flag": "🇵🇱",
-            "players": 0
+            "players": 26
         },
         "POR": {
             "color": [

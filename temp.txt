@@ -354,4 +354,8 @@ MEXICO (2)          2
 Henry Martín        1
 Luis Gerardo Chávez 1
 
-TOTAL               40
+POLONIA (2)         3
+Robert Lewandowski  2
+Piotr Zieliński     1
+
+TOTAL               42
