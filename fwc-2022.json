@@ -2840,6 +2840,246 @@
             "picture": "https://digitalhub.fifa.com/transform/e902e030-16b7-44da-bc1d-c4c1400be573/1442527857",
             "position": "RM",
             "rating": 69
+        },
+        "FRA-1": {
+            "birth": "26 de diciembre de 1986",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Tottenham Hotspur F. C.",
+            "name": "Hugo Lloris",
+            "nationality": "🇫🇷",
+            "picture": "https://digitalhub.fifa.com/transform/14a6f35e-6853-4bbc-bcc7-eb7b4774f226/1442232958",
+            "position": "GK",
+            "rating": 86
+        },
+        "FRA-2": {
+            "birth": "28 de marzo de 1996",
+            "club": "🇩🇪 F. C. Bayern",
+            "name": "Benjamin Pavard",
+            "nationality": "🇫🇷",
+            "picture": "https://digitalhub.fifa.com/transform/37d5f7e7-3b91-4f23-b00c-1d7ede6ab7dd/1442233170",
+            "position": "CB",
+            "rating": 80
+        },
+        "FRA-3": {
+            "birth": "11 de marzo de 1998",
+            "club": "🇫🇷 A. S. Monaco F. C.",
+            "name": "Axel Disasi",
+            "nationality": "🇫🇷",
+            "picture": "https://digitalhub.fifa.com/transform/25128776-bc46-4f54-8d85-792dd6b8cb69/1442233372",
+            "position": "CB",
+            "rating": 78
+        },
+        "FRA-4": {
+            "birth": "25 de abril de 1993",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester United F. C.",
+            "name": "Raphaël Varane",
+            "nationality": "🇫🇷",
+            "picture": "https://digitalhub.fifa.com/transform/04752da5-c26f-40e0-b5fc-ba6af9adca95/1442234000",
+            "position": "CB",
+            "rating": 85
+        },
+        "FRA-5": {
+            "birth": "12 de noviembre de 1998",
+            "club": "🇪🇸 F. C. Barcelona",
+            "name": "Jules Koundé",
+            "nationality": "🇫🇷",
+            "picture": "https://digitalhub.fifa.com/transform/0338d400-db7e-401a-ac2d-ff4dfecd6594/1442233625",
+            "position": "CB",
+            "rating": 84
+        },
+        "FRA-6": {
+            "birth": "14 de abril de 1999",
+            "club": "🇫🇷 Olympique de Marsella",
+            "name": "Mattéo Guendouzi",
+            "nationality": "🇫🇷",
+            "picture": "https://digitalhub.fifa.com/transform/adc04136-bb1a-456d-8820-1c12bca3264c/1442233410",
+            "position": "CDM",
+            "rating": 80
+        },
+        "FRA-7": {
+            "birth": "21 de marzo de 1991",
+            "club": "🇪🇸 Atlético de Madrid",
+            "name": "Antoine Griezmann",
+            "nationality": "🇫🇷",
+            "picture": "https://digitalhub.fifa.com/transform/9f03ff5a-aad3-433a-8e21-cb96143627ac/1442234382",
+            "position": "CAM",
+            "rating": 83
+        },
+        "FRA-8": {
+            "birth": "27 de enero de 2000",
+            "club": "🇪🇸 Real Madrid C. F.",
+            "goals": 1,
+            "name": "Aurélien Tchouaméni",
+            "nationality": "🇫🇷",
+            "picture": "https://digitalhub.fifa.com/transform/a0226b32-d6c2-4d05-86a0-9436f1b8f680/1442233818",
+            "position": "CDM",
+            "rating": 83
+        },
+        "FRA-9": {
+            "birth": "30 de septiembre de 1986",
+            "club": "🇮🇹 A. C. Milan",
+            "goals": 4,
+            "name": "Olivier Giroud",
+            "nationality": "🇫🇷",
+            "picture": "https://digitalhub.fifa.com/transform/cefd4ce2-d728-4fdb-b03c-bcfda94cb67a/1442234094",
+            "position": "ST",
+            "rating": 82
+        },
+        "FRA-10": {
+            "birth": "20 de diciembre de 1998",
+            "club": "🇫🇷 París Saint-Germain F. C.",
+            "goals": 8,
+            "name": "Kylian Mbappé",
+            "nationality": "🇫🇷",
+            "picture": "https://digitalhub.fifa.com/transform/702110ad-db19-4216-a36b-9a2903f3c77d/1442234453",
+            "position": "ST",
+            "rating": 91
+        },
+        "FRA-11": {
+            "birth": "15 de mayo de 1997",
+            "club": "🇪🇸 F. C. Barcelona",
+            "name": "Ousmane Dembélé",
+            "nationality": "🇫🇷",
+            "picture": "https://digitalhub.fifa.com/transform/79f04110-e6f0-46b8-932c-5b2c18ebbb86/1442233954",
+            "position": "LM",
+            "rating": 83
+        },
+        "FRA-12": {
+            "birth": "5 de diciembre de 1998",
+            "club": "🇩🇪 Eintracht Fráncfort",
+            "goals": 1,
+            "name": "Randal Kolo Muani",
+            "nationality": "🇫🇷",
+            "picture": "https://digitalhub.fifa.com/transform/fbf401d9-a1c6-4d50-a538-e6af7bf26469/1442233129",
+            "position": "ST",
+            "rating": 80
+        },
+        "FRA-13": {
+            "birth": "10 de enero de 1999",
+            "club": "🇫🇷 A. S. Monaco F. C.",
+            "name": "Youssouf Fofana",
+            "nationality": "🇫🇷",
+            "picture": "https://digitalhub.fifa.com/transform/071fd94c-4233-4483-be24-31832fc7b11c/1442233324",
+            "position": "CDM",
+            "rating": 79
+        },
+        "FRA-14": {
+            "birth": "3 de abril de 1995",
+            "club": "🇮🇹 Juventus F. C.",
+            "goals": 1,
+            "name": "Adrien Rabiot",
+            "nationality": "🇫🇷",
+            "picture": "https://digitalhub.fifa.com/transform/c6bd7ccf-a7ab-45d1-9fbd-15d123128fe8/1442233546",
+            "position": "CM",
+            "rating": 81
+        },
+        "FRA-15": {
+            "birth": "1 de marzo de 1993",
+            "club": "🇫🇷 Olympique de Marsella",
+            "name": "Jordan Veretout",
+            "nationality": "🇫🇷",
+            "picture": "https://digitalhub.fifa.com/transform/e7734a70-a425-400f-add1-df47fe7cec02/1442233735",
+            "position": "CDM",
+            "rating": 79
+        },
+        "FRA-16": {
+            "birth": "28 de marzo de 1985",
+            "club": "🇫🇷 Stade Rennais F. C.",
+            "name": "Steve Mandanda",
+            "nationality": "🇨🇩 🇫🇷",
+            "picture": "https://digitalhub.fifa.com/transform/c7c5a9eb-81bc-4d06-aee3-8c6ea3cb0b03/1442233046",
+            "position": "GK",
+            "rating": 79
+        },
+        "FRA-17": {
+            "birth": "24 de marzo de 2001",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Arsenal F. C.",
+            "name": "William Saliba",
+            "nationality": "🇫🇷",
+            "picture": "https://digitalhub.fifa.com/transform/5f40241a-288d-4ef6-a666-e023f874649d/1442233272",
+            "position": "CB",
+            "rating": 81
+        },
+        "FRA-18": {
+            "birth": "27 de octubre de 1998",
+            "club": "🇩🇪 F. C. Bayern",
+            "name": "Dayot Upamecano",
+            "nationality": "🇫🇷",
+            "picture": "https://digitalhub.fifa.com/transform/a660efd2-8a90-436b-a829-b8393cd02a3a/1442233458",
+            "position": "CB",
+            "rating": 82
+        },
+        "FRA-19": {
+            "birth": "19 de diciembre de 1987",
+            "club": "🇪🇸 Real Madrid C. F.",
+            "name": "Karim Benzema",
+            "nationality": "🇫🇷 🇩🇿",
+            "picture": "https://digitalhub.fifa.com/transform/9da6413d-1292-440f-9990-49a8511e5a94/1442234308",
+            "position": "CF",
+            "rating": 91
+        },
+        "FRA-20": {
+            "birth": "13 de junio de 1996",
+            "club": "🇩🇪 F. C. Bayern",
+            "name": "Kingsley Coman",
+            "nationality": "🇫🇷",
+            "picture": "https://digitalhub.fifa.com/transform/2bad9c99-e879-44a6-84b3-4958cc703da6/1442233766",
+            "position": "LM",
+            "rating": 86
+        },
+        "FRA-21": {
+            "birth": "14 de febrero de 1996",
+            "club": "🇩🇪 F. C. Bayern",
+            "name": "Lucas Hernández",
+            "nationality": "🇫🇷",
+            "picture": "https://digitalhub.fifa.com/transform/494d440f-9d6e-4f2b-b1d0-6366e0aa73bd/1442233076",
+            "position": "CB",
+            "rating": 84
+        },
+        "FRA-22": {
+            "birth": "6 de octubre de 1997",
+            "club": "🇮🇹 A. C. Milan",
+            "goals": 1,
+            "name": "Theo Hernández",
+            "nationality": "🇫🇷",
+            "picture": "https://digitalhub.fifa.com/transform/664b630b-7453-4444-b65f-c85f32b7bba7/1442233207",
+            "position": "LWB",
+            "rating": 85
+        },
+        "FRA-23": {
+            "birth": "27 de febrero de 1993",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 West Ham United F. C.",
+            "name": "Alphonse Areola",
+            "nationality": "🇫🇷",
+            "picture": "https://digitalhub.fifa.com/transform/8668aa7d-ed24-454e-bda4-5050134a608f/1442232994",
+            "position": "GK",
+            "rating": 81
+        },
+        "FRA-24": {
+            "birth": "25 de mayo de 1999",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool F. C.",
+            "name": "Ibrahima Konaté",
+            "nationality": "🇫🇷",
+            "picture": "https://digitalhub.fifa.com/transform/5aff5d26-7b00-460a-addf-eef5267398bc/1442233694",
+            "position": "CB",
+            "rating": 81
+        },
+        "FRA-25": {
+            "birth": "10 de noviembre de 2002",
+            "club": "🇪🇸 Real Madrid C. F.",
+            "name": "Eduardo Camavinga",
+            "nationality": "🇫🇷 🇦🇴 🇨🇬",
+            "picture": "https://digitalhub.fifa.com/transform/03a3a1cb-f2e4-4ddb-9779-13a9632526da/1442233249",
+            "position": "CDM",
+            "rating": 79
+        },
+        "FRA-26": {
+            "birth": "6 de agosto de 1997",
+            "club": "🇩🇪 Borussia Mönchengladbach",
+            "name": "Marcus Thuram",
+            "nationality": "🇫🇷",
+            "picture": "https://digitalhub.fifa.com/transform/cc1ffb08-99f8-4a04-aa07-918e6707e046/Empty-field",
+            "position": "ST",
+            "rating": 79
         }
     },
     "teams": {
@@ -2961,7 +3201,7 @@
             ],
             "emblem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9-xhHt5JQyoLwfrHyVpnPOpLwsIxhXoDCA168Mp_XsvhogBKvJAnhzHlbvhdQ23NJnfx3dzHavcctXpFs8UqV5BlXLKhPxNw7kQXwQ5WO7Ma6PIi_190ej0h9DWLuvf6caC6eb0mqWv8gUUQO5yE5JknGlzPsLf2qe7fqrw8EDcdtcr_PZOe9LaXG/s512/FFF.png",
             "flag": "🇫🇷",
-            "players": 0
+            "players": 26
         },
         "GER": {
             "color": [

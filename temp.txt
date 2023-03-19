@@ -236,6 +236,7 @@ _______________________________________
 
 BANDERAS 
 alemania: 🇩🇪
+angola: 🇦🇴
 arabia saudita: 🇸🇦
 argelia: 🇩🇿
 argentina: 🇦🇷
@@ -280,6 +281,8 @@ mexico: 🇲🇽
 paises bajos: 🇳🇱
 polonia: 🇵🇱
 portugal: 🇵🇹
+republica del congo: 🇨🇬
+republica democratica del congo: 🇨🇩
 senegal: 🇸🇳
 serbia: 🇷🇸
 sudan: 🇸🇩
@@ -358,4 +361,12 @@ POLONIA (2)         3
 Robert Lewandowski  2
 Piotr Zieliński     1
 
-TOTAL               42
+FRANCIA (6)         16
+Kylian Mbappé       8
+Olivier Giroud      4
+Adrien Rabiot       1
+Aurélien Tchouaméni 1
+Theo Hernández      1
+Randal Kolo Muani   1
+
+TOTAL               48
