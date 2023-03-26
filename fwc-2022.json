@@ -3328,6 +3328,7 @@
             ],
             "emblem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJNYdmWjGfo4Dkeb-XivouI4vJbUYXT525HvM6pQ5gyWu1Iu3vuBrea_Wv8rnpFXMZrFKp-BC8kHpWmXpsqoniQnGeG0hLqEwABhYfv1-CL-U1ZV1J62-nItd9Nr6-Iuss8Ip3hldVN5ugN7sLYlZGZ7uLN4Xup3idNgQmxvtWCXLSTJOc82r5ixTS/s512/Catar.png",
             "flag": "🇶🇦",
+            "name": "Catar",
             "players": 26
         },
         "ECU": {
@@ -3338,6 +3339,7 @@
             ],
             "emblem": "https://1.bp.blogspot.com/-SAVXXN1KQwI/Xh388gfgWII/AAAAAAABXDE/egg-9WTiIjE225M5LUM4ioDmNNrNW0nlgCLcBGAsYHQ/s1600/Ecuador.png",
             "flag": "🇪🇨",
+            "name": "Ecuador",
             "players": 26
         },
         "SEN": {
@@ -3348,6 +3350,7 @@
             ],
             "emblem": "https://1.bp.blogspot.com/-309-7JA0Iaw/Wcsjr5PaGRI/AAAAAAABPeE/CsNvCCvAlUM1bQdN8fCfu0r4o9fDDMV1ACLcBGAs/s1600/Senegal.png",
             "flag": "🇸🇳",
+            "name": "Senegal",
             "players": 26
         },
         "NED": {
@@ -3358,6 +3361,7 @@
             ],
             "emblem": "https://1.bp.blogspot.com/-lEoPiczcjt8/XqpxejSNKwI/AAAAAAABZyc/v9VJmLzNTuE7QN7gzuiJL9FwHGJkBlamwCLcBGAsYHQ/s1600/KNVB.png",
             "flag": "🇳🇱",
+            "name": "Países Bajos",
             "players": 26
         },
         "ENG": {
@@ -3368,6 +3372,7 @@
             ],
             "emblem": "https://1.bp.blogspot.com/-vWalAeItoAg/YOZizsSXgZI/AAAAAAABkY0/UVUWyZTDK7Que21d9-mc1ZJtNsTDRrYcwCLcBGAsYHQ/s512/ENG.png",
             "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+            "name": "Inglaterra",
             "players": 26
         },
         "IRN": {
@@ -3378,6 +3383,7 @@
             ],
             "emblem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbU1IRL5WFdblzYR4QhuGT6CYhi3ENBE47ElubBpNd1DBS2oKChRwEV-hdJe0whEWnHR8fMcwOid7o2b_RfICghj8tDsfkTCaE9nc1xKkpbpIMOsY-i3O-vPAAsc0GbiQ2et-bkGApcbu5QzFGDpUt4vwtza7fIfK03ZVFOAtD5ht9dWABc_GvTpft/s512/Iran.png",
             "flag": "🇮🇷",
+            "name": "Irán",
             "players": 25
         },
         "USA": {
@@ -3388,6 +3394,7 @@
             ],
             "emblem": "https://4.bp.blogspot.com/-aqoJ2t9yFkA/WWwoPHt17OI/AAAAAAABNCY/ikWfVWLj5T4O9eMk5G0UH3minLeqWMwfgCLcBGAs/s1600/Estados%2BUnidos.png",
             "flag": "🇺🇸",
+            "name": "Estados Unidos",
             "players": 26
         },
         "WAL": {
@@ -3398,6 +3405,7 @@
             ],
             "emblem": "https://1.bp.blogspot.com/-Q1K6ORUW5iI/XU9NbUDZn5I/AAAAAAABVvs/7S_BTyI41kArmzTQvKZEURx0Psy9KwvlwCLcBGAs/s1600/Gales.png",
             "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+            "name": "Gales",
             "players": 26
         },
         "ARG": {
@@ -3408,6 +3416,7 @@
             ],
             "emblem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTd3uZn7z9qd2-yh8M9R26fmxJN_eDiz22AGEy-l3-MDvrXOvD434iV5EB5XskWCpMqYE64qdES_n08-wLYRxsaL_-LLePxyzu1yMAOnOiaZ74Nx2eljUeWKVZHGN-dVn6sVJPvr3LSrTstZjzPBIJ0sZvTXpqhYzJQWnxQMNSEivZx3KeqIyB1Wla/s512/Argentina.png",
             "flag": "🇦🇷",
+            "name": "Argentina",
             "players": 26
         },
         "KSA": {
@@ -3418,6 +3427,7 @@
             ],
             "emblem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyjt1RovDODMR97sfMykhLaRGapOLfrOg-1HfRFo1N0kuigH7UprALz9o1m4vlMj8dUqa6ojZawlpo-d7yst4Pzb5xExYxqLXm6Ae7OSICGJy-8ZN-HAGEXeAz1G6buTr7YkRI17rVUuJkCgYOQfy8sdPX5fbivShYPC57jE-GOqWEwOlWJM3ABgwe/s512/KSA.png",
             "flag": "🇸🇦",
+            "name": "Arabia Saudita",
             "players": 26
         },
         "MEX": {
@@ -3428,6 +3438,7 @@
             ],
             "emblem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFpM3d6W4wJQ9mGCRiIMCDF7_ErNwuTzSOWZRAQNKOZNJJv5oLsqxi0ugsfhZ3l8mWCvJIQ4NrsIk_M7KtzgqyQXKoQX_qKyvX4wzevGaAaDy0JhCOMwhhNONUkgj9vOFDRawYlbd__jycXZe7cDDUEyN_6UHMb_Asijc-3mwxtaikdWkKAn0rwfwZ/s512/MEX.png",
             "flag": "🇲🇽",
+            "name": "México",
             "players": 26
         },
         "POL": {
@@ -3438,6 +3449,7 @@
             ],
             "emblem": "https://1.bp.blogspot.com/-ODg6_XsSXOM/XtTiYAnQECI/AAAAAAABcAY/YfloUOGyepAP7dnGOsE6KWNoupnuWkU-ACK4BGAsYHg/POL.png",
             "flag": "🇵🇱",
+            "name": "Polonia",
             "players": 26
         },
         "FRA": {
@@ -3448,6 +3460,7 @@
             ],
             "emblem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9-xhHt5JQyoLwfrHyVpnPOpLwsIxhXoDCA168Mp_XsvhogBKvJAnhzHlbvhdQ23NJnfx3dzHavcctXpFs8UqV5BlXLKhPxNw7kQXwQ5WO7Ma6PIi_190ej0h9DWLuvf6caC6eb0mqWv8gUUQO5yE5JknGlzPsLf2qe7fqrw8EDcdtcr_PZOe9LaXG/s512/FFF.png",
             "flag": "🇫🇷",
+            "name": "Francia",
             "players": 26
         },
         "AUS": {
@@ -3458,6 +3471,7 @@
             ],
             "emblem": "https://3.bp.blogspot.com/-5hRbmwhT1Ko/W65zml_zl1I/AAAAAAABSG8/6qvWMnXgRLECPn4vPX6LUNswMbaXrlmcgCLcBGAs/s1600/Australia.png",
             "flag": "🇦🇺",
+            "name": "Australia",
             "players": 26
         },
         "DEN": {
@@ -3468,6 +3482,7 @@
             ],
             "emblem": "https://4.bp.blogspot.com/-SfpeS3KxAj0/WefCyk9fv2I/AAAAAAABP0Q/YZAsXjGRlw4TnSS-LZfftmseOozrGkhkACLcBGAs/s1600/Dinamarca.png",
             "flag": "🇩🇰",
+            "name": "Dinamarca",
             "players": 0
         },
         "TUN": {
@@ -3478,6 +3493,7 @@
             ],
             "emblem": "https://1.bp.blogspot.com/-QtIRGQNyavs/WbUYLmge0DI/AAAAAAABO-U/sSZ3AU_ONYsH4PVWVzyTl3Xdwl9ww0X0wCLcBGAs/s1600/Tunez.PNG",
             "flag": "🇹🇳",
+            "name": "Túnez",
             "players": 0
         },
         "ESP": {
@@ -3488,6 +3504,7 @@
             ],
             "emblem": "https://1.bp.blogspot.com/-2LADd7lBQac/YN0TGNp9IvI/AAAAAAABkGg/NouSdAbJ5a8WK4QjQgv1owKTs6zoJTp9QCLcBGAsYHQ/s512/Espana.png",
             "flag": "🇪🇸",
+            "name": "España",
             "players": 0
         },
         "CRC": {
@@ -3498,6 +3515,7 @@
             ],
             "emblem": "https://1.bp.blogspot.com/-ovWarqfRoLs/YZ9u8RHd0MI/AAAAAAABlu4/7uIMzkMYF3o97eaDYze0v9an53rr1bpWgCLcBGAsYHQ/s512/Costa%2BRica.png",
             "flag": "🇨🇷",
+            "name": "Costa Rica",
             "players": 0
         },
         "GER": {
@@ -3508,6 +3526,7 @@
             ],
             "emblem": "https://4.bp.blogspot.com/-GBvnkJOrbwM/WemNM7aOHEI/AAAAAAABP-A/g75isQXHNH4lxS0P74_1FWjs9gDJiQM9ACLcBGAs/s1600/Alemania.png",
             "flag": "🇩🇪",
+            "name": "Alemania",
             "players": 0
         },
         "JPN": {
@@ -3518,6 +3537,7 @@
             ],
             "emblem": "https://2.bp.blogspot.com/-gN_EUidte1Q/Wf4U7MbYZ7I/AAAAAAABQDk/_0rdWj4GZfkMid56Cac9HHiUQunjnuP5wCLcBGAs/s1600/Japon.png",
             "flag": "🇯🇵",
+            "name": "Japón",
             "players": 0
         },
         "BEL": {
@@ -3528,6 +3548,7 @@
             ],
             "emblem": "https://1.bp.blogspot.com/-Dq592JboqNU/XcYg8RbpKxI/AAAAAAABWn8/Qyvm4bUOTBA94jbqzA6KqKjw7VnDXOS0gCLcBGAsYHQ/s1600/Belgica.png",
             "flag": "🇧🇪󠁮",
+            "name": "Bélgica",
             "players": 0
         },
         "CAN": {
@@ -3538,6 +3559,7 @@
             ],
             "emblem": "https://2.bp.blogspot.com/-u_56UTNr_XQ/WWwjG-RkxGI/AAAAAAABNBE/nK2DMcDBNX4irlNaIQ7blp0ebW7Ndc_JgCLcBGAs/s1600/Canada.png",
             "flag": "🇨🇦",
+            "name": "Canadá",
             "players": 0
         },
         "MAR": {
@@ -3548,6 +3570,7 @@
             ],
             "emblem": "https://4.bp.blogspot.com/-csGyWOKzC70/WbUXNMiI3rI/AAAAAAABO-A/4IiG7CgfAB05_PJOo79IaB1wYSqdO9LDQCLcBGAs/s1600/Marruecos.PNG",
             "flag": "🇲🇦",
+            "name": "Marruecos",
             "players": 0
         },
         "CRO": {
@@ -3558,6 +3581,7 @@
             ],
             "emblem": "https://1.bp.blogspot.com/-Gn3PTa1RVE4/XpYebEIkDWI/AAAAAAABZSY/Wq0uASGPPagdjGxLAzzWucfxTfDWAmXywCLcBGAsYHQ/s1600/Croacia.png",
             "flag": "🇭🇷",
+            "name": "Croacia",
             "players": 0
         },
         "BRA": {
@@ -3568,6 +3592,7 @@
             ],
             "emblem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivcYbZkYa1Ug8_AHtABVsMk2tGbmV-5_s_d4Hlz2sFI0PrWZcgSY-mKDcao7m4GgjDLtjDU_I_62hFVvCK3y36exdk7trlT4xBL81PQ70dd1czf4Vi1l2mcEzET90WT_QhZz8U75ggcfn5uNvMQkE58AL7Ct_f_SyUjZwe9VjdtXKW6I47J00oTxf-/s512/Brasil.png",
             "flag": "🇧🇷",
+            "name": "Brasil",
             "players": 0
         },
         "SRB": {
@@ -3578,6 +3603,7 @@
             ],
             "emblem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiwRJdOWiDLxx-Wkq4a9BDpp1zphM8qEohFsCV-FBhD8HGG1oiR_b8Buwmc8sFhNiMjMKMMJhBnhPZ8KlMZYjfZv9fw4pTcopeigG_gEmGbecr4TyWKtcvrapDHAyLdpxGlyURaUi2XV3LNMRudCpuuyDXqUsYyI47W_1PtXm9cIJy3_bz6yFDAAIT/s512/SRB.png",
             "flag": "🇷🇸",
+            "name": "Serbia",
             "players": 0
         },
         "SUI": {
@@ -3588,6 +3614,7 @@
             ],
             "emblem": "https://4.bp.blogspot.com/-qyYDEzk-pLk/WelkasxEy0I/AAAAAAABP60/xHCWkjsKyd8NCHz-HOS-dyVyfoDm49RYACLcBGAs/s1600/Suiza.png",
             "flag": "🇨🇭",
+            "name": "Suiza",
             "players": 0
         },
         "CMR": {
@@ -3598,6 +3625,7 @@
             ],
             "emblem": "https://4.bp.blogspot.com/-cncJTO6cPXk/WcAdWTld56I/AAAAAAABPLQ/-bhvm7PchjU3ysOo_-8OGmJootEBrwMwgCLcBGAs/s1600/Camerun.png",
             "flag": "🇨🇲",
+            "name": "Camerún",
             "players": 0
         },
         "POR": {
@@ -3608,6 +3636,7 @@
             ],
             "emblem": "https://2.bp.blogspot.com/-hXhGqd94_X0/WelnEaKHc0I/AAAAAAABP7I/hRxU_qnViKwxafKrwAkTkCxvSIXZVY4ewCLcBGAs/s1600/Portugal.png",
             "flag": "🇵🇹",
+            "name": "Portugal",
             "players": 0
         },
         "GHA": {
@@ -3618,6 +3647,7 @@
             ],
             "emblem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMMSvdn2zCE0OGwjjqQgKgXH2rzcXPpLeZQQYXBVG81t5OWDJGz__RoyJT9DuQrpT8ao9qQVEQHT185ZafJT7IJqTHTydaqV1gT67dX3dtIQmyEFNI5UZxdnZm3pJw4fecmsR4Iab1op71BdzeqVJm45b9lKQ12rSW8CtZjgnHrfjkfM4fip7ZC_ng/s512/Ghana.png",
             "flag": "🇬🇭",
+            "name": "Ghana",
             "players": 0
         },
         "URU": {
@@ -3628,6 +3658,7 @@
             ],
             "emblem": "https://1.bp.blogspot.com/-LJ7Wvrw3PVA/X4pYO4A-VuI/AAAAAAABg9I/-068kuPlJtcIuu-xvXA8W6jti0lKpvKIgCLcBGAsYHQ/s512/Uruguay.png",
             "flag": "🇺🇾",
+            "name": "Uruguay",
             "players": 0
         },
         "KOR": {
@@ -3638,6 +3669,7 @@
             ],
             "emblem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdWCJPHoBreG98rxjJ9Mwq6xwU1IERi1oEzZkXaTNp-aTxGQtOWAkOfnlzV7VronmZRNxx-L-5ZkgydeHwITtEZd8tEWKRaEXQxU7kCne3b4IUndEfaTstJsvgrJZ2if25hwr1AUOQuOTK-IjifawznZ4iViLVje8dO-BfsPJqNVNJ3PyzAAnq3vEd/s512/KOR.png",
             "flag": "🇰🇷",
+            "name": "Corea del Sur",
             "players": 0
         }
     },
