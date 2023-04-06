@@ -277,6 +277,7 @@ italia: 🇮🇹
 jamaica: 🇯🇲
 japon: 🇯🇵
 kenia: 🇰🇪
+kuwait: 🇰🇼
 marruecos: 🇲🇦
 mexico: 🇲🇽
 paises bajos: 🇳🇱
@@ -377,5 +378,11 @@ Mitchell Duke       1
 Mathew Leckie       1
 (Enzo Fernández     1)
 
-TOTAL               51
-TOTAL GOLES         83
+DINAMARCA (1)       1
+Andreas Christensen 1
+
+TUNEZ (1)           1
+Wahbi Khazri        1
+
+TOTAL               53
+TOTAL GOLES         85
