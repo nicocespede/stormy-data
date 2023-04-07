@@ -280,11 +280,13 @@ kenia: 🇰🇪
 kuwait: 🇰🇼
 marruecos: 🇲🇦
 mexico: 🇲🇽
+nicaragua: 🇳🇮
 paises bajos: 🇳🇱
 polonia: 🇵🇱
 portugal: 🇵🇹
 republica del congo: 🇨🇬
 republica democratica del congo: 🇨🇩
+republica dominicana: 🇩🇴
 senegal: 🇸🇳
 serbia: 🇷🇸
 sudafrica: 🇿🇦
@@ -384,5 +386,18 @@ Andreas Christensen 1
 TUNEZ (1)           1
 Wahbi Khazri        1
 
-TOTAL               53
-TOTAL GOLES         85
+ESPAÑA (6)          9
+Álvaro Morata       3
+Ferran Torres       2
+Dani Olmo           1
+Marco Asensio       1
+Gavi                1
+Carlos Soler        1
+
+COSTA RICA (3)      3
+Keysher Fuller      1
+Yeltsin Tejeda      1
+Juan Pablo Vargas   1
+
+TOTAL               62
+TOTAL GOLES         97

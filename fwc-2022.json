@@ -3787,6 +3787,483 @@
             "picture": "https://digitalhub.fifa.com/transform/191b2178-bb51-402f-b769-6d2f33a45cc8/1442513745",
             "position": "GK",
             "rating": 68
+        },
+        "ESP-1": {
+            "birth": "18 de noviembre de 1997",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brighton & Hove Albion F. C.",
+            "name": "Robert Lynch Sánchez",
+            "nationality": "🇪🇸",
+            "picture": "https://digitalhub.fifa.com/transform/501a7b8c-121a-450a-8da1-04768e3b239c/1442546780",
+            "position": "GK",
+            "rating": 78
+        },
+        "ESP-2": {
+            "birth": "28 de agosto de 1989",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Chelsea F. C.",
+            "name": "César Azpilicueta Tanco",
+            "nationality": "🇪🇸",
+            "picture": "https://digitalhub.fifa.com/transform/2a40ece5-6fa5-423e-81e4-b8f404480d7c/1442552014",
+            "position": "CB",
+            "rating": 82
+        },
+        "ESP-3": {
+            "birth": "9 de enero de 2001",
+            "club": "🇪🇸 F. C. Barcelona",
+            "name": "Eric García Martret",
+            "nationality": "🇪🇸",
+            "picture": "https://digitalhub.fifa.com/transform/765d6a9d-4f5d-42af-a187-6fceb77f7076/1442550812",
+            "position": "CDM",
+            "rating": 77
+        },
+        "ESP-4": {
+            "birth": "16 de enero de 1997",
+            "club": "🇪🇸 Villarreal C. F.",
+            "name": "Pau Francisco Torres",
+            "nationality": "🇪🇸",
+            "picture": "https://digitalhub.fifa.com/transform/8f710499-fba6-4d2e-b512-e0c1c242379e/1442551864",
+            "position": "CB",
+            "rating": 83
+        },
+        "ESP-5": {
+            "birth": "16 de julio de 1988",
+            "club": "🇪🇸 F. C. Barcelona",
+            "name": "Sergio Busquets Burgos",
+            "nationality": "🇪🇸",
+            "picture": "https://digitalhub.fifa.com/transform/2dec5173-d2fd-4a06-8715-398332b2cc44/1442551723",
+            "position": "CDM",
+            "rating": 85
+        },
+        "ESP-6": {
+            "birth": "30 de enero de 1995",
+            "club": "🇪🇸 Atlético de Madrid",
+            "name": "Marcos Llorente Moreno",
+            "nationality": "🇪🇸",
+            "picture": "https://digitalhub.fifa.com/transform/bc994cd1-cfcd-4de7-ad0b-182b16a6ebd5/1442551339",
+            "position": "CAM",
+            "rating": 84
+        },
+        "ESP-7": {
+            "birth": "23 de octubre de 1992",
+            "club": "🇪🇸 Atlético de Madrid",
+            "goals": 3,
+            "name": "Álvaro Borja Morata Martín",
+            "nationality": "🇪🇸",
+            "picture": "https://digitalhub.fifa.com/transform/a6d1d8b4-a559-4c7f-aed3-095126b60e1c/1442552095",
+            "position": "ST",
+            "rating": 81
+        },
+        "ESP-8": {
+            "birth": "8 de enero de 1992",
+            "club": "🇪🇸 Atlético de Madrid",
+            "name": "Jorge Resurrección",
+            "nationality": "🇪🇸",
+            "picture": "https://digitalhub.fifa.com/transform/87132c4b-85cb-4eeb-add2-06ea6489d9ec/1442552127",
+            "position": "CM",
+            "rating": 83
+        },
+        "ESP-9": {
+            "birth": "5 de agosto de 2004",
+            "club": "🇪🇸 F. C. Barcelona",
+            "goals": 1,
+            "name": "Pablo Martín Páez Gavira",
+            "nationality": "🇪🇸",
+            "picture": "https://digitalhub.fifa.com/transform/3accf767-b78f-4bf4-87f8-25ab808366c4/1442551912",
+            "position": "CAM",
+            "rating": 80
+        },
+        "ESP-10": {
+            "birth": "11 de enero de 1996",
+            "club": "🇪🇸 Real Madrid C. F.",
+            "goals": 1,
+            "name": "Marco Asensio Willemsen",
+            "nationality": "🇪🇸",
+            "picture": "https://digitalhub.fifa.com/transform/a28c5f8b-ef3b-4fb0-9cd3-a59c0c10c8f9/1442551256",
+            "position": "RW",
+            "rating": 83
+        },
+        "ESP-11": {
+            "birth": "29 de febrero de 2000",
+            "club": "🇪🇸 F. C. Barcelona",
+            "goals": 2,
+            "name": "Ferran Torres García",
+            "nationality": "🇪🇸",
+            "picture": "https://digitalhub.fifa.com/transform/405abbab-5e5d-4277-905f-6bbdf618bad5/1442551768",
+            "position": "LW",
+            "rating": 82
+        },
+        "ESP-12": {
+            "birth": "12 de julio de 2002",
+            "club": "🇪🇸 Athletic Club",
+            "name": "Nicholas Williams Arthuer",
+            "nationality": "🇪🇸",
+            "picture": "https://digitalhub.fifa.com/transform/0c54f295-1459-4e47-b2ce-d40500aedbf4/1442551969",
+            "position": "RM",
+            "rating": 76
+        },
+        "ESP-13": {
+            "birth": "15 de septiembre de 1995",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brentford F. C.",
+            "name": "David Raya Martin",
+            "nationality": "🇪🇸",
+            "picture": "https://digitalhub.fifa.com/transform/99bac8dc-3541-42aa-9ee7-c2062dab21c5/1442550384",
+            "position": "GK",
+            "rating": 77
+        },
+        "ESP-14": {
+            "birth": "18 de octubre de 2003",
+            "club": "🇪🇸 F. C. Barcelona",
+            "name": "Alejandro Balde Martínez",
+            "nationality": "🇪🇸 🇩🇴",
+            "picture": "https://digitalhub.fifa.com/transform/7214e635-be61-40c0-9a18-9432b2e8bfdf/447862",
+            "position": "LM",
+            "rating": 74
+        },
+        "ESP-15": {
+            "birth": "31 de enero de 2000",
+            "club": "🇪🇸 Valencia C. F.",
+            "name": "Hugo Guillamón Sammartín",
+            "nationality": "🇪🇸",
+            "picture": "https://digitalhub.fifa.com/transform/e35f29a4-1613-4259-9671-af391c2329a2/1442550948",
+            "position": "CDM",
+            "rating": 75
+        },
+        "ESP-16": {
+            "birth": "22 de junio de 1996",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester City F. C.",
+            "name": "Rodrigo Hernández Cascante",
+            "nationality": "🇪🇸",
+            "picture": "https://digitalhub.fifa.com/transform/5e614c86-4c65-4d3a-b211-7ca38710187c/1442551426",
+            "position": "CDM",
+            "rating": 87
+        },
+        "ESP-17": {
+            "birth": "20 de octubre de 2002",
+            "club": "🇪🇸 Villarreal C. F.",
+            "name": "Yeremy Jesús Pino Santos",
+            "nationality": "🇪🇸",
+            "picture": "https://digitalhub.fifa.com/transform/8cec67ff-34d6-48eb-84a2-438f6dbad67a/1442552155",
+            "position": "CAM",
+            "rating": 79
+        },
+        "ESP-18": {
+            "birth": "21 de marzo de 1989",
+            "club": "🇪🇸 F. C. Barcelona",
+            "name": "Jordi Alba Ramos",
+            "nationality": "🇪🇸",
+            "picture": "https://digitalhub.fifa.com/transform/bef08b26-042b-4a7c-a517-f29e1c937c39/1442550649",
+            "position": "LB",
+            "rating": 85
+        },
+        "ESP-19": {
+            "birth": "2 de enero de 1997",
+            "club": "🇫🇷 París Saint-Germain F. C.",
+            "goals": 1,
+            "name": "Carlos Soler Barragán",
+            "nationality": "🇪🇸",
+            "picture": "https://digitalhub.fifa.com/transform/422d4d27-2116-480f-9651-80561352a2b2/1442551423",
+            "position": "CM",
+            "rating": 83
+        },
+        "ESP-20": {
+            "birth": "11 de enero de 1992",
+            "club": "🇪🇸 Real Madrid C. F.",
+            "name": "Daniel Carvajal Ramos",
+            "nationality": "🇪🇸",
+            "picture": "https://digitalhub.fifa.com/transform/e4f534e2-d24e-4d69-aae7-970fe7bcbf54/1442550925",
+            "position": "RB",
+            "rating": 84
+        },
+        "ESP-21": {
+            "birth": "7 de mayo de 1998",
+            "club": "🇩🇪 R. B. Leipzig",
+            "goals": 1,
+            "name": "Daniel Olmo Carvajal",
+            "nationality": "🇪🇸",
+            "picture": "https://digitalhub.fifa.com/transform/fe13d81b-073b-4657-a210-de2b48e2b449/1442551204",
+            "position": "CAM",
+            "rating": 82
+        },
+        "ESP-22": {
+            "birth": "11 de mayo de 1992",
+            "club": "🇫🇷 París Saint-Germain F. C.",
+            "name": "Pablo Sarabia García",
+            "nationality": "🇪🇸",
+            "picture": "https://digitalhub.fifa.com/transform/e93bb879-a521-4d0e-9201-1260c25895f0/1442551078",
+            "position": "RW",
+            "rating": 81
+        },
+        "ESP-23": {
+            "birth": "11 de junio de 1997",
+            "club": "🇪🇸 Athletic Club",
+            "name": "Unai Simón Mendibil",
+            "nationality": "🇪🇸",
+            "picture": "https://digitalhub.fifa.com/transform/3996caf6-8de6-4cc9-b320-43269c6a8b68/1442550448",
+            "position": "GK",
+            "rating": 83
+        },
+        "ESP-24": {
+            "birth": "27 de mayo de 1994",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester City F. C.",
+            "name": "Aymeric Laporte",
+            "nationality": "🇪🇸 🇫🇷",
+            "picture": "https://digitalhub.fifa.com/transform/2b44baf6-3e19-42b0-b982-427f88c56334/1442551021",
+            "position": "CB",
+            "rating": 86
+        },
+        "ESP-25": {
+            "birth": "31 de octubre de 2002",
+            "club": "🇪🇸 F. C. Barcelona",
+            "name": "Anssumane Fati",
+            "nationality": "🇪🇸",
+            "picture": "https://digitalhub.fifa.com/transform/c18616da-8431-4a85-b6ce-d706b85e8095/1442552066",
+            "position": "CAM",
+            "rating": 79
+        },
+        "ESP-26": {
+            "birth": "25 de noviembre de 2002",
+            "club": "🇪🇸 F. C. Barcelona",
+            "name": "Pedro González López",
+            "nationality": "🇪🇸",
+            "picture": "https://digitalhub.fifa.com/transform/103c93e3-a3d4-4022-9bde-1285f4677ba8/1442551614",
+            "position": "CM",
+            "rating": 85
+        },
+        "CRC-1": {
+            "birth": "15 de diciembre de 1986",
+            "club": "🇫🇷 París Saint-Germain F. C.",
+            "name": "Keylor Navas",
+            "nationality": "🇨🇷 🇪🇸",
+            "picture": "https://digitalhub.fifa.com/transform/04860ffa-901b-4e45-80f6-4da477abba59/1442775085",
+            "position": "GK",
+            "rating": 88
+        },
+        "CRC-2": {
+            "birth": "11 de abril de 2001",
+            "club": "🇺🇸 Colorado Rapids 2",
+            "name": "Daniel Chacón",
+            "nationality": "🇨🇷",
+            "picture": "https://digitalhub.fifa.com/transform/49c0d936-35c2-4f42-aef5-f0486e755f94/1442777372",
+            "position": "CB",
+            "rating": 67
+        },
+        "CRC-3": {
+            "birth": "6 de junio de 1995",
+            "club": "🇨🇴 Millonarios F.C",
+            "goals": 1,
+            "name": "Juan Pablo Vargas",
+            "nationality": "🇨🇷",
+            "picture": "https://digitalhub.fifa.com/transform/68c03ad1-c4c4-4e53-8983-143feae14879/1442776669",
+            "position": "CB",
+            "rating": 72
+        },
+        "CRC-4": {
+            "birth": "12 de julio de 1994",
+            "club": "🇨🇷 C.S Herediano",
+            "goals": 1,
+            "name": "Keysher Fuller",
+            "nationality": "🇨🇷",
+            "picture": "https://digitalhub.fifa.com/transform/0ed98d2d-c331-4341-8603-43822c351a60/1442777515",
+            "position": "RB",
+            "rating": 75
+        },
+        "CRC-5": {
+            "birth": "27 de mayo de 1988",
+            "club": "🇨🇷 L. D. Alajuelense",
+            "name": "Celso Borges",
+            "nationality": "🇨🇷",
+            "picture": "https://digitalhub.fifa.com/transform/a734c292-02b9-4cdb-8c17-e3f974d5a866/1442777106",
+            "position": "CDM",
+            "rating": 76
+        },
+        "CRC-6": {
+            "birth": "3 de junio de 1989",
+            "club": "🇸🇦 Al-Wehda",
+            "name": "Óscar Esau Duarte Gaitán",
+            "nationality": "🇳🇮 🇨🇷",
+            "picture": "https://digitalhub.fifa.com/transform/8dfc9d25-004d-4e93-ba68-45793d3add24/1442776737",
+            "position": "CB",
+            "rating": 77
+        },
+        "CRC-7": {
+            "birth": "29 de enero de 2000",
+            "club": "🇨🇷 C.S Herediano",
+            "name": "Anthony Contreras",
+            "nationality": "🇨🇷",
+            "picture": "https://digitalhub.fifa.com/transform/b5c97d54-98f2-45d4-a5c7-56a44c650fa2/1442776757",
+            "position": "ST",
+            "rating": 69
+        },
+        "CRC-8": {
+            "birth": "18 de febrero de 1990",
+            "club": "🇺🇸 Real Salt Lake",
+            "name": "Bryan Oviedo",
+            "nationality": "🇨🇷",
+            "picture": "https://digitalhub.fifa.com/transform/f1c3e878-b626-429c-936b-ae6827da0a7a/Bryan-Oviedo",
+            "position": "LB",
+            "rating": 70
+        },
+        "CRC-9": {
+            "birth": "15 de junio de 2004",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Sunderland A. F. C.",
+            "name": "Jewison Bennette",
+            "nationality": "🇨🇷",
+            "picture": "https://digitalhub.fifa.com/transform/2c407cb1-8c87-48a7-a447-8dc5a491903c/1442776774",
+            "position": "LM",
+            "rating": 68
+        },
+        "CRC-10": {
+            "birth": "18 de agosto de 1985",
+            "club": "🇨🇷 L. D. Alajuelense",
+            "name": "Bryan Ruiz",
+            "nationality": "🇨🇷",
+            "picture": "https://digitalhub.fifa.com/transform/839f9485-02b6-4c60-8031-cff7781af6da/1442777538",
+            "position": "CAM",
+            "rating": 78
+        },
+        "CRC-11": {
+            "birth": "27 de noviembre de 1988",
+            "club": "🇨🇷 L. D. Alajuelense",
+            "name": "Johan Venegas",
+            "nationality": "🇨🇷",
+            "picture": "https://digitalhub.fifa.com/transform/4b210a43-c033-4f45-ae48-1194b1a4f1de/1442777356",
+            "position": "LM",
+            "rating": 69
+        },
+        "CRC-12": {
+            "birth": "26 de junio de 1992",
+            "club": "🇲🇽 Club León",
+            "name": "Joel Campbell",
+            "nationality": "🇨🇷",
+            "picture": "https://digitalhub.fifa.com/transform/1a13a3e9-58a3-4d46-bba2-f10e5e2b1ed1/1442777459",
+            "position": "ST",
+            "rating": 77
+        },
+        "CRC-13": {
+            "birth": "28 de agosto de 1997",
+            "club": "🇨🇷 C.S Herediano",
+            "name": "Gerson Torres",
+            "nationality": "🇨🇷",
+            "picture": "https://digitalhub.fifa.com/transform/8a285086-54b7-4c1b-93bd-2ea3d75fdfa3/1442776697",
+            "position": "LM",
+            "rating": 70
+        },
+        "CRC-14": {
+            "birth": "17 de junio de 1996",
+            "club": "🇨🇷 Deportivo Saprissa",
+            "name": "Youstin Salas",
+            "nationality": "🇨🇷",
+            "picture": "https://digitalhub.fifa.com/transform/7f502644-9496-420d-97d7-5b96ecc163fc/1442777250",
+            "position": "CM",
+            "rating": 65
+        },
+        "CRC-15": {
+            "birth": "8 de julio de 1992",
+            "club": "🇹🇷 Konyaspor",
+            "name": "Francisco Calvo",
+            "nationality": "🇨🇷",
+            "picture": "https://digitalhub.fifa.com/transform/49f82d3e-866a-4810-ab77-4bc5030496b5/1442777065",
+            "position": "CB",
+            "rating": 70
+        },
+        "CRC-16": {
+            "birth": "30 de marzo de 1999",
+            "club": "🇨🇷 A. D. San Carlos",
+            "name": "Carlos Manuel Martínez Castro",
+            "nationality": "🇨🇷 🇳🇮",
+            "picture": "https://digitalhub.fifa.com/transform/9ff05114-20f1-43a0-9ba7-7ce7f20bd6bb/1442776713",
+            "position": "RB",
+            "rating": 62
+        },
+        "CRC-17": {
+            "birth": "17 de marzo de 1992",
+            "club": "🇨🇷 C.S Herediano",
+            "goals": 1,
+            "name": "Yeltsin Tejeda",
+            "nationality": "🇨🇷",
+            "picture": "https://digitalhub.fifa.com/transform/e9d8010e-ef51-4b6b-b624-553d30055776/1442776873",
+            "position": "CM",
+            "rating": 74
+        },
+        "CRC-18": {
+            "birth": "28 de abril de 1989",
+            "club": "🇨🇷 C.S Herediano",
+            "name": "Esteban Alvarado",
+            "nationality": "🇨🇷",
+            "picture": "https://digitalhub.fifa.com/transform/1eed0c01-71fe-4b58-9db5-be371a3bb4d4/1442775253",
+            "position": "GK",
+            "rating": 70
+        },
+        "CRC-19": {
+            "birth": "1 de enero de 1988",
+            "club": "🇨🇷 Deportivo Saprissa",
+            "name": "Kendall Waston",
+            "nationality": "🇨🇷",
+            "picture": "https://digitalhub.fifa.com/transform/51107113-925f-45cb-bea3-1e3fcc8022a6/1442776008",
+            "position": "CB",
+            "rating": 73
+        },
+        "CRC-20": {
+            "birth": "28 de junio de 2003",
+            "club": "🇨🇷 A.D Guanacasteca",
+            "name": "Brandon Aguilera",
+            "nationality": "🇨🇷",
+            "picture": "https://digitalhub.fifa.com/transform/a1749d0f-8ea9-42ad-9538-03c5257bd05c/1442777487",
+            "position": "CAM",
+            "rating": 65
+        },
+        "CRC-21": {
+            "birth": "21 de septiembre de 1998",
+            "club": "🇨🇷 C.S Herediano",
+            "name": "Douglas López",
+            "nationality": "🇨🇷",
+            "picture": "https://digitalhub.fifa.com/transform/f08e4972-5b11-40ac-81ab-59c0be852192/1442776839",
+            "position": "CDM",
+            "rating": 65
+        },
+        "CRC-22": {
+            "birth": "9 de julio de 1994",
+            "club": "🇺🇸 F.C Cincinnati",
+            "name": "Ronald Matarrita",
+            "nationality": "🇨🇷",
+            "picture": "https://digitalhub.fifa.com/transform/b194598a-52c0-4386-b983-60119e9c9090/1442777022",
+            "position": "LB",
+            "rating": 71
+        },
+        "CRC-23": {
+            "birth": "1 de marzo de 1999",
+            "club": "🇪🇸 C.D Lugo",
+            "name": "Patrick Gilmar Sequeira",
+            "nationality": "🇨🇷 🇪🇸",
+            "picture": "https://digitalhub.fifa.com/transform/085665ea-bbb2-4da0-99b7-89dff98fdf3e/1442775316",
+            "position": "GK",
+            "rating": 62
+        },
+        "CRC-24": {
+            "birth": "1 de mayo de 2002",
+            "club": "🇨🇷 Municipal Grecia",
+            "name": "Roan Wilson",
+            "nationality": "🇨🇷",
+            "picture": "https://digitalhub.fifa.com/transform/e4b1b92e-11c5-4ae2-b6a6-40857ada245b/1442776021",
+            "position": "CAM",
+            "rating": 61
+        },
+        "CRC-25": {
+            "birth": "11 de octubre de 2001",
+            "club": "🇨🇷 Puntarenas F.C",
+            "name": "Anthony Hernández",
+            "nationality": "🇨🇷",
+            "picture": "https://digitalhub.fifa.com/transform/08972279-b9cd-4bd8-a95c-dcf64099dd98/1442776056",
+            "position": "ST",
+            "rating": 61
+        },
+        "CRC-26": {
+            "birth": "9 de marzo de 2002",
+            "club": "🇨🇷 Deportivo Saprissa",
+            "name": "Álvaro Zamora",
+            "nationality": "🇨🇷",
+            "picture": "https://digitalhub.fifa.com/transform/b1b53f7f-2bc2-4211-8047-1e204cbae33e/1442776092",
+            "position": "RM",
+            "rating": 61
         }
     },
     "teams": {
@@ -3975,7 +4452,7 @@
             "emblem": "https://1.bp.blogspot.com/-2LADd7lBQac/YN0TGNp9IvI/AAAAAAABkGg/NouSdAbJ5a8WK4QjQgv1owKTs6zoJTp9QCLcBGAsYHQ/s512/Espana.png",
             "flag": "🇪🇸",
             "name": "España",
-            "players": 0
+            "players": 26
         },
         "CRC": {
             "color": [
@@ -3986,7 +4463,7 @@
             "emblem": "https://1.bp.blogspot.com/-ovWarqfRoLs/YZ9u8RHd0MI/AAAAAAABlu4/7uIMzkMYF3o97eaDYze0v9an53rr1bpWgCLcBGAsYHQ/s512/Costa%2BRica.png",
             "flag": "🇨🇷",
             "name": "Costa Rica",
-            "players": 0
+            "players": 26
         },
         "GER": {
             "color": [
