@@ -493,5 +493,10 @@
         "name": "The Guardians of the Galaxy Holiday Special",
         "type": "Especial",
         "reference": "79"
+    },
+    {
+        "name": "Ant-Man and the Wasp: Quantumania",
+        "type": "Película",
+        "reference": "81"
     }
 ]
