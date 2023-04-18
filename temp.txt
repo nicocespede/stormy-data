@@ -399,5 +399,17 @@ Keysher Fuller      1
 Yeltsin Tejeda      1
 Juan Pablo Vargas   1
 
-TOTAL               62
-TOTAL GOLES         97
+ALEMANIA (4)        6
+Kai Havertz         2
+Niclas Füllkrug     2
+İlkay Gündoğan      1
+Serge Gnabry        1
+
+JAPON (4)           5
+Ritsu Dōan          2
+Takuma Asano        1
+Ao Tanaka           1
+Daizen Maeda        1
+
+TOTAL               70
+TOTAL GOLES         108

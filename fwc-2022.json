@@ -4264,6 +4264,482 @@
             "picture": "https://digitalhub.fifa.com/transform/b1b53f7f-2bc2-4211-8047-1e204cbae33e/1442776092",
             "position": "RM",
             "rating": 61
+        },
+        "GER-1": {
+            "birth": "27 de marzo de 1986",
+            "club": "🇩🇪 F. C. Bayern",
+            "name": "Manuel Neuer",
+            "nationality": "🇩🇪",
+            "picture": "https://digitalhub.fifa.com/transform/a888d8b0-7696-483d-8d8c-95026122bb5c/1442303589",
+            "position": "GK",
+            "rating": 90
+        },
+        "GER-2": {
+            "birth": "3 de marzo de 1993",
+            "club": "🇪🇸 Real Madrid C. F.",
+            "name": "Antonio Rüdiger",
+            "nationality": "🇩🇪",
+            "picture": "https://digitalhub.fifa.com/transform/ca15d046-96cf-4e4c-a27c-8f3d201fe03a/1442304912",
+            "position": "CB",
+            "rating": 87
+        },
+        "GER-3": {
+            "birth": "22 de abril de 1998",
+            "club": "🇩🇪 R. B. Leipzig",
+            "name": "David Raum",
+            "nationality": "🇩🇪",
+            "picture": "https://digitalhub.fifa.com/transform/64f81ec7-0179-4ca8-ae4b-b88b09b97a47/1442303834",
+            "position": "LWB",
+            "rating": 80
+        },
+        "GER-4": {
+            "birth": "19 de enero de 1994",
+            "club": "🇩🇪 S. C. Friburgo",
+            "name": "Matthias Ginter",
+            "nationality": "🇩🇪",
+            "picture": "https://digitalhub.fifa.com/transform/17a8a418-dcab-4922-9b0a-c003486c4c8f/1442304815",
+            "position": "CB",
+            "rating": 82
+        },
+        "GER-5": {
+            "birth": "21 de septiembre de 1996",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 West Ham United F. C.",
+            "name": "Thilo Kehrer",
+            "nationality": "🇩🇪",
+            "picture": "https://digitalhub.fifa.com/transform/243ea485-7ae6-45e4-9a45-a8ceb7383538/1442304875",
+            "position": "CB",
+            "rating": 76
+        },
+        "GER-6": {
+            "birth": "8 de febrero de 1995",
+            "club": "🇩🇪 F. C. Bayern",
+            "name": "Joshua Kimmich",
+            "nationality": "🇩🇪",
+            "picture": "https://digitalhub.fifa.com/transform/f92301b1-aebb-4dfd-8160-8c88e6867550/1442303808",
+            "position": "CDM",
+            "rating": 89
+        },
+        "GER-7": {
+            "birth": "11 de junio de 1999",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Chelsea F. C.",
+            "goals": 2,
+            "name": "Kai Havertz",
+            "nationality": "🇩🇪",
+            "picture": "https://digitalhub.fifa.com/transform/546ecd82-a41e-4914-9290-4339373a025d/1442304640",
+            "position": "CAM",
+            "rating": 84
+        },
+        "GER-8": {
+            "birth": "6 de febrero de 1995",
+            "club": "🇩🇪 F. C. Bayern",
+            "name": "Leon Goretzka",
+            "nationality": "🇩🇪",
+            "picture": "https://digitalhub.fifa.com/transform/904c2683-14bf-4b41-949c-8085e0311f85/1442304709",
+            "position": "CM",
+            "rating": 87
+        },
+        "GER-9": {
+            "birth": "9 de febrero de 1993",
+            "club": "🇩🇪 Werder Bremen",
+            "goals": 2,
+            "name": "Niclas Füllkrug",
+            "nationality": "🇩🇪",
+            "picture": "https://digitalhub.fifa.com/transform/8c4c09c8-34fc-41c6-88f7-726716de3f17/1442304691",
+            "position": "ST",
+            "rating": 77
+        },
+        "GER-10": {
+            "birth": "14 de julio de 1995",
+            "club": "🇩🇪 F. C. Bayern",
+            "goals": 1,
+            "name": "Serge Gnabry",
+            "nationality": "🇩🇪 🇨🇮",
+            "picture": "https://digitalhub.fifa.com/transform/77f92a1e-e521-4bae-830c-0961aade8fb0/1442303743",
+            "position": "RM",
+            "rating": 84
+        },
+        "GER-11": {
+            "birth": "3 de junio de 1992",
+            "club": "🇩🇪 Eintracht Fráncfort",
+            "name": "Mario Götze",
+            "nationality": "🇩🇪",
+            "picture": "https://digitalhub.fifa.com/transform/f816d2a9-5071-4c24-b5bc-2d04f707eb43/1442303760",
+            "position": "CAM",
+            "rating": 82
+        },
+        "GER-12": {
+            "birth": "8 de julio de 1990",
+            "club": "🇩🇪 Eintracht Fráncfort",
+            "name": "Kevin Trapp",
+            "nationality": "🇩🇪",
+            "picture": "https://digitalhub.fifa.com/transform/d5abf5c1-845d-4cfa-99ea-3c6822d30ffd/1442303503",
+            "position": "GK",
+            "rating": 86
+        },
+        "GER-13": {
+            "birth": "13 de septiembre de 1989",
+            "club": "🇩🇪 F. C. Bayern",
+            "name": "Thomas Müller",
+            "nationality": "🇩🇪",
+            "picture": "https://digitalhub.fifa.com/transform/71b43d35-b1ab-4185-924a-634a94458617/1442303887",
+            "position": "CAM",
+            "rating": 87
+        },
+        "GER-14": {
+            "birth": "26 de febrero de 2003",
+            "club": "🇩🇪 F. C. Bayern",
+            "name": "Jamal Musiala",
+            "nationality": "🇩🇪 🇬🇧",
+            "picture": "https://digitalhub.fifa.com/transform/f0d37884-cf42-46d5-8a6c-7690e9d93f87/1442304032",
+            "position": "CAM",
+            "rating": 83
+        },
+        "GER-15": {
+            "birth": "3 de septiembre de 1995",
+            "club": "🇩🇪 Borussia Dortmund",
+            "name": "Niklas Süle",
+            "nationality": "🇩🇪",
+            "picture": "https://digitalhub.fifa.com/transform/7c47eb34-90df-4383-9c84-5d161efd0b4f/1442304073",
+            "position": "CB",
+            "rating": 85
+        },
+        "GER-16": {
+            "birth": "3 de junio de 1996",
+            "club": "🇩🇪 R. B. Leipzig",
+            "name": "Lukas Klostermann",
+            "nationality": "🇩🇪",
+            "picture": "https://digitalhub.fifa.com/transform/8f202e79-2bb2-4c9a-a5bb-d1630724a02b/1442304114",
+            "position": "RB",
+            "rating": 80
+        },
+        "GER-17": {
+            "birth": "2 de mayo de 1996",
+            "club": "🇩🇪 Borussia Dortmund",
+            "name": "Julian Brandt",
+            "nationality": "🇩🇪",
+            "picture": "https://digitalhub.fifa.com/transform/91acb045-9484-406a-ac4e-23a309cec608/1442303863",
+            "position": "CAM",
+            "rating": 82
+        },
+        "GER-18": {
+            "birth": "14 de julio de 1992",
+            "club": "🇩🇪 Borussia Mönchengladbach",
+            "name": "Jonas Hofmann",
+            "nationality": "🇩🇪",
+            "picture": "https://digitalhub.fifa.com/transform/86a9357f-07c7-402c-b93f-4c40fe033ec5/1442303962",
+            "position": "CAM",
+            "rating": 81
+        },
+        "GER-19": {
+            "birth": "11 de enero de 1996",
+            "club": "🇩🇪 F. C. Bayern",
+            "name": "Leroy Sané",
+            "nationality": "🇩🇪 🇫🇷",
+            "picture": "https://digitalhub.fifa.com/transform/86c40236-5157-4399-bc1e-1948764538cc/1442303788",
+            "position": "LM",
+            "rating": 84
+        },
+        "GER-20": {
+            "birth": "28 de febrero de 1993",
+            "club": "🇩🇪 S. C. Friburgo",
+            "name": "Christian Günter",
+            "nationality": "🇩🇪",
+            "picture": "https://digitalhub.fifa.com/transform/4abb2d65-fe5b-43e0-b942-f5262975a37e/1442303992",
+            "position": "LB",
+            "rating": 80
+        },
+        "GER-21": {
+            "birth": "24 de octubre de 1990",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester City F. C.",
+            "goals": 1,
+            "name": "İlkay Gündoğan",
+            "nationality": "🇩🇪 🇹🇷",
+            "picture": "https://digitalhub.fifa.com/transform/6e7836ec-7855-480f-9aed-7dc471e08d63/1442303696",
+            "position": "CM",
+            "rating": 85
+        },
+        "GER-22": {
+            "birth": "30 de abril de 1992",
+            "club": "🇪🇸 F. C. Barcelona",
+            "name": "Marc-André ter Stegen",
+            "nationality": "🇩🇪",
+            "picture": "https://digitalhub.fifa.com/transform/dc083bab-2f1f-42e8-b0a3-c56dd449b7ec/1442303551",
+            "position": "GK",
+            "rating": 88
+        },
+        "GER-23": {
+            "birth": "1 de diciembre de 1999",
+            "club": "🇩🇪 Borussia Dortmund",
+            "name": "Nico Schlotterbeck",
+            "nationality": "🇩🇪",
+            "picture": "https://digitalhub.fifa.com/transform/88ad405f-ad63-4b8a-8772-beed58427111/1442304776",
+            "position": "CB",
+            "rating": 82
+        },
+        "GER-24": {
+            "birth": "18 de enero de 2002",
+            "club": "🇩🇪 Borussia Dortmund",
+            "name": "Karim Adeyemi",
+            "nationality": "🇩🇪",
+            "picture": "https://digitalhub.fifa.com/transform/51831052-072d-4b7f-be60-e5d8c248da83/1442303644",
+            "position": "ST",
+            "rating": 75
+        },
+        "GER-25": {
+            "birth": "11 de diciembre de 2001",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Southampton F. C.",
+            "name": "Armel Bella Kotchap",
+            "nationality": "🇫🇷 🇩🇪",
+            "picture": "https://digitalhub.fifa.com/transform/78373318-414c-43a9-8c58-8ab067205ba0/1442304727",
+            "position": "CB",
+            "rating": 74
+        },
+        "GER-26": {
+            "birth": "20 de noviembre de 2004",
+            "club": "🇩🇪 Borussia Dortmund",
+            "name": "Youssoufa Moukoko",
+            "nationality": "🇨🇲 🇩🇪",
+            "picture": "https://digitalhub.fifa.com/transform/35376ae6-3e53-4ded-bb6f-74781cf6fd2c/1442303673",
+            "position": "ST",
+            "rating": 73
+        },
+        "JPN-1": {
+            "birth": "20 de marzo de 1983",
+            "club": "🇫🇷 R. C. Estrasburgo",
+            "name": "Eiji Kawashima",
+            "nationality": "🇯🇵",
+            "picture": "https://digitalhub.fifa.com/transform/0f54f710-facd-43e4-ac07-538e9a7b6f1c/Japan-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "GK",
+            "rating": 72
+        },
+        "JPN-2": {
+            "birth": "22 de diciembre de 1993",
+            "club": "🇯🇵 Kawasaki Frontale",
+            "name": "Miki Yamane",
+            "nationality": "🇯🇵",
+            "picture": "https://digitalhub.fifa.com/transform/ee9cb8e9-1acf-48bc-b56e-60f018170d0f/Japan-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "RB",
+            "rating": 72
+        },
+        "JPN-3": {
+            "birth": "15 de julio de 1991",
+            "club": "🇯🇵 Kawasaki Frontale",
+            "name": "Shogo Taniguchi",
+            "nationality": "🇯🇵",
+            "picture": "https://digitalhub.fifa.com/transform/0999d161-40c0-4a98-98c1-7a64bcb08194/Japan-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CB",
+            "rating": 73
+        },
+        "JPN-4": {
+            "birth": "27 de enero de 1997",
+            "club": "🇩🇪 Borussia Mönchengladbach",
+            "name": "Ko Itakura",
+            "nationality": "🇯🇵",
+            "picture": "https://digitalhub.fifa.com/transform/07f1377c-c859-4f9a-a68f-45dc86e8f04a/Japan-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CB",
+            "rating": 75
+        },
+        "JPN-5": {
+            "birth": "12 de septiembre de 1986",
+            "club": "🇯🇵 F. C. Tokyo",
+            "name": "Yuto Nagatomo",
+            "nationality": "🇯🇵",
+            "picture": "https://digitalhub.fifa.com/transform/98ccd92e-f547-439f-844f-54bd3b224ba5/Japan-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "LB",
+            "rating": 75
+        },
+        "JPN-6": {
+            "birth": "9 de febrero de 1993",
+            "club": "🇩🇪 VfB Stuttgart",
+            "name": "Wataru Endo",
+            "nationality": "🇯🇵",
+            "picture": "https://digitalhub.fifa.com/transform/d1f64b72-4fcf-44b4-8f7a-33abe45f3993/Japan-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CM",
+            "rating": 78
+        },
+        "JPN-7": {
+            "birth": "28 de mayo de 1992",
+            "club": "🇪🇸 C. D. Leganés",
+            "name": "Gaku Shibasaki",
+            "nationality": "🇯🇵",
+            "picture": "https://digitalhub.fifa.com/transform/ce65649e-a235-4a1b-8ce0-fe29b814d784/Japan-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CDM",
+            "rating": 68
+        },
+        "JPN-8": {
+            "birth": "16 de junio de 1998",
+            "club": "🇩🇪 S. C. Friburgo",
+            "goals": 2,
+            "name": "Ritsu Doan",
+            "nationality": "🇯🇵",
+            "picture": "https://digitalhub.fifa.com/transform/95ae9c05-4e5b-4e4c-acff-4e267df19edf/Japan-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CAM",
+            "rating": 77
+        },
+        "JPN-9": {
+            "birth": "20 de mayo de 1997",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brighton & Hove Albion F. C.",
+            "name": "Kaoru Mitoma",
+            "nationality": "🇯🇵",
+            "picture": "https://digitalhub.fifa.com/transform/c329c2a8-50c7-4460-89a3-2a349c12abe7/1442484179",
+            "position": "CAM",
+            "rating": 74
+        },
+        "JPN-10": {
+            "birth": "16 de enero de 1995",
+            "club": "🇫🇷 A. S. Monaco F. C.",
+            "name": "Takumi Minamino",
+            "nationality": "🇯🇵",
+            "picture": "https://digitalhub.fifa.com/transform/457d4880-ec1b-4d23-bcdf-049c6b2b8e2f/Japan-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CAM",
+            "rating": 75
+        },
+        "JPN-11": {
+            "birth": "4 de junio de 2001",
+            "club": "🇪🇸 Real Sociedad",
+            "name": "Takefusa Kubo",
+            "nationality": "🇯🇵",
+            "picture": "https://digitalhub.fifa.com/transform/646e662d-8d90-4a68-9381-f8e30d9ab48b/Japan-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CAM",
+            "rating": 74
+        },
+        "JPN-12": {
+            "birth": "3 de marzo de 1989",
+            "club": "🇯🇵 Shimizu S-Pulse",
+            "name": "Shūichi Gonda",
+            "nationality": "🇯🇵",
+            "picture": "https://digitalhub.fifa.com/transform/ace17449-02b6-4d17-ba80-3091459163af/Japan-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "GK",
+            "rating": 76
+        },
+        "JPN-13": {
+            "birth": "10 de mayo de 1995",
+            "club": "🇵🇹 Sporting C. P.",
+            "name": "Hidemasa Morita",
+            "nationality": "🇯🇵",
+            "picture": "https://digitalhub.fifa.com/transform/3098e878-ab1e-4c8e-8322-77fd1a0b4ac0/Japan-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CM",
+            "rating": 78
+        },
+        "JPN-14": {
+            "birth": "9 de marzo de 1993",
+            "club": "🇫🇷 Stade de Reims",
+            "name": "Junya Ito",
+            "nationality": "🇯🇵",
+            "picture": "https://digitalhub.fifa.com/transform/3e6064ca-0641-4a9c-a5c4-913f45d206dc/Japan-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "RW",
+            "rating": 78
+        },
+        "JPN-15": {
+            "birth": "5 de agosto de 1996",
+            "club": "🇩🇪 Eintracht Fráncfort",
+            "name": "Daichi Kamada",
+            "nationality": "🇯🇵",
+            "picture": "https://digitalhub.fifa.com/transform/f1989dde-ede4-418e-b07c-b8f66bcf670d/Japan-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CAM",
+            "rating": 82
+        },
+        "JPN-16": {
+            "birth": "5 de noviembre de 1998",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Arsenal F. C.",
+            "name": "Takehiro Tomiyasu",
+            "nationality": "🇯🇵",
+            "picture": "https://digitalhub.fifa.com/transform/0c047928-28c6-4b5f-8167-3b8681d73ed8/Japan-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CB",
+            "rating": 79
+        },
+        "JPN-17": {
+            "birth": "10 de septiembre de 1998",
+            "club": "🇩🇪 Fortuna Düsseldorf",
+            "goals": 1,
+            "name": "Ao Tanaka",
+            "nationality": "🇯🇵",
+            "picture": "https://digitalhub.fifa.com/transform/05614eae-7361-440c-aa0b-b2add03275e1/Japan-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CM",
+            "rating": 72
+        },
+        "JPN-18": {
+            "birth": "10 de noviembre de 1994",
+            "club": "🇩🇪 VfL Bochum",
+            "goals": 1,
+            "name": "Takuma Asano",
+            "nationality": "🇯🇵",
+            "picture": "https://digitalhub.fifa.com/transform/246130b5-fdfd-4334-b566-2b6097444b6b/Japan-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "RW",
+            "rating": 73
+        },
+        "JPN-19": {
+            "birth": "12 de abril de 1990",
+            "club": "🇯🇵 Urawa Red Diamonds",
+            "name": "Hiroki Sakai",
+            "nationality": "🇯🇵",
+            "picture": "https://digitalhub.fifa.com/transform/60bed649-ebde-426f-9a76-4fb60946d8ec/Japan-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "RB",
+            "rating": 75
+        },
+        "JPN-20": {
+            "birth": "30 de septiembre de 1999",
+            "club": "🇯🇵 Shonan Bellmare",
+            "name": "Shuto Machino",
+            "nationality": "🇯🇵",
+            "picture": "https://digitalhub.fifa.com/transform/a84ce87a-5c10-41e6-baac-becab1939c7b/Japan-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "ST",
+            "rating": 69
+        },
+        "JPN-21": {
+            "birth": "28 de agosto de 1998",
+            "club": "🇧🇪󠁮 Círculo de Brujas",
+            "name": "Ayase Ueda",
+            "nationality": "🇯🇵",
+            "picture": "https://digitalhub.fifa.com/transform/da5db1d0-8c15-41e3-8d1a-ce1717693bb0/Japan-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "ST",
+            "rating": 70
+        },
+        "JPN-22": {
+            "birth": "24 de agosto de 1988",
+            "club": "🇩🇪 F. C. Schalke 04",
+            "name": "Maya Yoshida",
+            "nationality": "🇯🇵",
+            "picture": "https://digitalhub.fifa.com/transform/683fb85c-f9bf-4b39-9797-9034f922e059/Japan-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CB",
+            "rating": 72
+        },
+        "JPN-23": {
+            "birth": "3 de febrero de 1992",
+            "club": "🇧🇪󠁮 Sint-Truidense",
+            "name": "Daniel Schmidt",
+            "nationality": "🇯🇵",
+            "picture": "https://digitalhub.fifa.com/transform/38eb1006-d7e1-45bd-a68d-e7d18e223aab/Japan-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "GK",
+            "rating": 69
+        },
+        "JPN-24": {
+            "birth": "25 de febrero de 1997",
+            "club": "🇯🇵 Nagoya Grampus",
+            "name": "Yuki Soma",
+            "nationality": "🇯🇵",
+            "picture": "https://digitalhub.fifa.com/transform/923ad90a-9fbc-48ed-b12c-333b0849e35c/Japan-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "RM",
+            "rating": 70
+        },
+        "JPN-25": {
+            "birth": "20 de octubre de 1997",
+            "club": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Celtic F. C.",
+            "goals": 1,
+            "name": "Daizen Maeda",
+            "nationality": "🇯🇵",
+            "picture": "https://digitalhub.fifa.com/transform/77e13f2b-7fdb-49b8-aa2f-d917797829f0/Japan-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "ST",
+            "rating": 72
+        },
+        "JPN-26": {
+            "birth": "12 de mayo de 1999",
+            "club": "🇩🇪 VfB Stuttgart",
+            "name": "Hiroki Ito",
+            "nationality": "🇯🇵",
+            "picture": "https://digitalhub.fifa.com/transform/a607ee3c-ca87-4ebf-b5b6-01f9700f6902/Japan-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CDM",
+            "rating": 72
         }
     },
     "teams": {
@@ -4474,7 +4950,7 @@
             "emblem": "https://4.bp.blogspot.com/-GBvnkJOrbwM/WemNM7aOHEI/AAAAAAABP-A/g75isQXHNH4lxS0P74_1FWjs9gDJiQM9ACLcBGAs/s1600/Alemania.png",
             "flag": "🇩🇪",
             "name": "Alemania",
-            "players": 0
+            "players": 26
         },
         "JPN": {
             "color": [
@@ -4485,7 +4961,7 @@
             "emblem": "https://2.bp.blogspot.com/-gN_EUidte1Q/Wf4U7MbYZ7I/AAAAAAABQDk/_0rdWj4GZfkMid56Cac9HHiUQunjnuP5wCLcBGAs/s1600/Japon.png",
             "flag": "🇯🇵",
             "name": "Japón",
-            "players": 0
+            "players": 26
         },
         "BEL": {
             "color": [
