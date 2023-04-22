@@ -4740,6 +4740,241 @@
             "picture": "https://digitalhub.fifa.com/transform/a607ee3c-ca87-4ebf-b5b6-01f9700f6902/Japan-Portraits-FIFA-World-Cup-Qatar-2022",
             "position": "CDM",
             "rating": 72
+        },
+        "BEL-1": {
+            "birth": "11 de mayo de 1992",
+            "club": "🇪🇸 Real Madrid C. F.",
+            "name": "Thibaut Courtois",
+            "nationality": "🇧🇪󠁮",
+            "picture": "https://digitalhub.fifa.com/transform/0ac06079-73ec-4dd4-a0ca-77e9c79cb411/1442830156",
+            "position": "GK",
+            "rating": 90
+        },
+        "BEL-2": {
+            "birth": "2 de marzo de 1989",
+            "club": "🇧🇪 Royal Antwerp F. C.",
+            "name": "Toby Alderweireld",
+            "nationality": "🇧🇪󠁮",
+            "picture": "https://digitalhub.fifa.com/transform/dc6a2ee5-576e-406b-86ef-39e0f8052f1c/1442831258",
+            "position": "CB",
+            "rating": 82
+        },
+        "BEL-3": {
+            "birth": "25 de mayo de 2000",
+            "club": "🇫🇷 Stade Rennais F. C.",
+            "name": "Arthur Theate",
+            "nationality": "🇧🇪󠁮",
+            "picture": "https://digitalhub.fifa.com/transform/167ed520-293d-4afd-b475-a3f05dbb7e21/1442831205",
+            "position": "CB",
+            "rating": 76
+        },
+        "BEL-4": {
+            "birth": "3 de abril de 1998",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Leicester City F. C.",
+            "name": "Wout Faes",
+            "nationality": "🇧🇪󠁮",
+            "picture": "https://digitalhub.fifa.com/transform/91f5100b-cbf4-4b16-b42b-89acec809f35/1442830885",
+            "position": "CB",
+            "rating": 78
+        },
+        "BEL-5": {
+            "birth": "24 de abril de 1987",
+            "club": "🇧🇪 R. S. C. Anderlecht",
+            "name": "Jan Vertonghen",
+            "nationality": "🇧🇪",
+            "picture": "https://digitalhub.fifa.com/transform/eb24f201-91f8-4594-824a-fc79d3d847ed/1442831389",
+            "position": "CB",
+            "rating": 81
+        },
+        "BEL-6": {
+            "birth": "12 de enero de 1989",
+            "club": "🇪🇸 Atlético de Madrid",
+            "name": "Axel Witsel",
+            "nationality": "🇧🇪",
+            "picture": "https://digitalhub.fifa.com/transform/7babea7d-4bac-4fc4-a166-21625949283d/1442831359",
+            "position": "CDM",
+            "rating": 79
+        },
+        "BEL-7": {
+            "birth": "28 de junio de 1991",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester City F. C.",
+            "name": "Kevin De Bruyne",
+            "nationality": "🇧🇪",
+            "picture": "https://digitalhub.fifa.com/transform/4ea8805b-e75b-4bf7-8d1c-1f5b3fa5d9b0/1442830273",
+            "position": "CM",
+            "rating": 91
+        },
+        "BEL-8": {
+            "birth": "7 de mayo de 1997",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Leicester City F. C.",
+            "name": "Youri Tielemans",
+            "nationality": "🇧🇪󠁮",
+            "picture": "https://digitalhub.fifa.com/transform/dfd9f9ed-1536-4dac-b7b5-6bd889ebf379/1442831162",
+            "position": "CM",
+            "rating": 84
+        },
+        "BEL-9": {
+            "birth": "13 de mayo de 1993",
+            "club": "🇮🇹 Inter de Milán",
+            "name": "Romelu Lukaku",
+            "nationality": "🇧🇪",
+            "picture": "https://digitalhub.fifa.com/transform/e637e01c-e572-4184-846c-88442174fa7e/1442831418",
+            "position": "ST",
+            "rating": 86
+        },
+        "BEL-10": {
+            "birth": "7 de enero de 1991",
+            "club": "🇪🇸 Real Madrid C. F.",
+            "name": "Eden Hazard",
+            "nationality": "🇧🇪",
+            "picture": "https://digitalhub.fifa.com/transform/f2c177b8-0919-4b6d-8494-e0c74d235b2c/1442831074",
+            "position": "LW",
+            "rating": 84
+        },
+        "BEL-11": {
+            "birth": "4 de septiembre de 1993",
+            "club": "🇪🇸 Atlético de Madrid",
+            "name": "Yannick Carrasco",
+            "nationality": "🇧🇪 🇵🇹",
+            "picture": "https://digitalhub.fifa.com/transform/90359cb6-4350-4a9d-b9e7-549bdf444c96/1442830873",
+            "position": "LM",
+            "rating": 85
+        },
+        "BEL-12": {
+            "birth": "6 de marzo de 1988",
+            "club": "🇧🇪󠁮 Club Brujas",
+            "name": "Simon Mignolet",
+            "nationality": "🇧🇪󠁮",
+            "picture": "https://digitalhub.fifa.com/transform/598ef462-c1d6-455f-9e0c-b04176ce009a/1442830179",
+            "position": "GK",
+            "rating": 81
+        },
+        "BEL-13": {
+            "birth": "25 de junio de 1992",
+            "club": "🇩🇪 VfL Wolfsburgo",
+            "name": "Koen Casteels",
+            "nationality": "🇧🇪󠁮",
+            "picture": "https://digitalhub.fifa.com/transform/b0d79089-3449-46e4-9de4-0c0d91f5ab33/1442830192",
+            "position": "GK",
+            "rating": 84
+        },
+        "BEL-14": {
+            "birth": "6 de mayo de 1987",
+            "club": "🇹🇷 Galatasaray S. K.",
+            "name": "Dries Mertens",
+            "nationality": "🇧🇪󠁮",
+            "picture": "https://digitalhub.fifa.com/transform/73310c7b-31ea-4161-8353-8dfeb45f372a/1442831124",
+            "position": "CF",
+            "rating": 84
+        },
+        "BEL-15": {
+            "birth": "12 de septiembre de 1991",
+            "club": "🇩🇪 Borussia Dortmund",
+            "name": "Thomas Meunier",
+            "nationality": "🇧🇪󠁮",
+            "picture": "https://digitalhub.fifa.com/transform/e2f176f4-542a-4aaa-82b0-0348fc5c0367/1442831098",
+            "position": "RB",
+            "rating": 78
+        },
+        "BEL-16": {
+            "birth": "29 de marzo de 1993",
+            "club": "🇩🇪 Borussia Dortmund",
+            "name": "Thorgan Hazard",
+            "nationality": "🇧🇪󠁮",
+            "picture": "https://digitalhub.fifa.com/transform/3741a815-1de2-424d-811a-d1385a11a5ce/1442831048",
+            "position": "LM",
+            "rating": 79
+        },
+        "BEL-17": {
+            "birth": "4 de diciembre de 1994",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brighton & Hove Albion F. C.",
+            "name": "Leandro Trossard",
+            "nationality": "🇧🇪󠁮",
+            "picture": "https://digitalhub.fifa.com/transform/e0d92ec4-1309-4ae6-8a19-7c114481d23f/1442831271",
+            "position": "LM",
+            "rating": 80
+        },
+        "BEL-18": {
+            "birth": "16 de agosto de 2001",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Everton F. C.",
+            "name": "Amadou Onana",
+            "nationality": "🇸🇳 🇧🇪󠁮",
+            "picture": "https://digitalhub.fifa.com/transform/c20efb33-edb9-4fc6-b810-813163640c76/1442831239",
+            "position": "CDM",
+            "rating": 75
+        },
+        "BEL-19": {
+            "birth": "15 de abril de 1995",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Aston Villa F. C.",
+            "name": "Leander Dendoncker",
+            "nationality": "🇧🇪",
+            "picture": "https://digitalhub.fifa.com/transform/e628cf5d-ec51-449e-91b0-53b7452f33ae/1442830927",
+            "position": "CDM",
+            "rating": 76
+        },
+        "BEL-20": {
+            "birth": "24 de agosto de 1992",
+            "club": "🇧🇪󠁮 Club Brujas",
+            "name": "Hans Vanaken",
+            "nationality": "🇧🇪󠁮",
+            "picture": "https://digitalhub.fifa.com/transform/19484c49-95a2-495c-a1e1-0985c3cb1eaf/1442830251",
+            "position": "CM",
+            "rating": 80
+        },
+        "BEL-21": {
+            "birth": "5 de diciembre de 1995",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Leicester City F. C.",
+            "name": "Timothy Castagne",
+            "nationality": "🇧🇪󠁮",
+            "picture": "https://digitalhub.fifa.com/transform/ff063eea-bf14-42ea-9095-fb0a8aba2431/1442830230",
+            "position": "RWB",
+            "rating": 78
+        },
+        "BEL-22": {
+            "birth": "10 de marzo de 2001",
+            "club": "🇮🇹 A. C. Milan",
+            "name": "Charles De Ketelaere",
+            "nationality": "🇧🇪󠁮",
+            "picture": "https://digitalhub.fifa.com/transform/038fdfa1-e6a3-4263-a641-256fa92f9d6c/1442830290",
+            "position": "CAM",
+            "rating": 78
+        },
+        "BEL-23": {
+            "birth": "2 de octubre de 1993",
+            "club": "🇹🇷 Fenerbahçe S. K.",
+            "goals": 1,
+            "name": "Michy Batshuayi",
+            "nationality": "🇧🇪󠁮 🇨🇩",
+            "picture": "https://digitalhub.fifa.com/transform/0076a0d4-18ff-4e44-a9b5-297b5693dfe4/1442831198",
+            "position": "ST",
+            "rating": 77
+        },
+        "BEL-24": {
+            "birth": "16 de febrero de 2000",
+            "club": "🇫🇷 R. C. Lens",
+            "name": "Loïs Openda",
+            "nationality": "🇧🇪󠁮",
+            "picture": "https://digitalhub.fifa.com/transform/29bfc313-f2ba-4b94-9bee-10e318e7449d/1442831190",
+            "position": "ST",
+            "rating": 75
+        },
+        "BEL-25": {
+            "birth": "27 de mayo de 2002",
+            "club": "🇫🇷 Stade Rennais F. C.",
+            "name": "Jérémy Doku",
+            "nationality": "🇧🇪󠁮",
+            "picture": "https://digitalhub.fifa.com/transform/8a88ac1d-c80c-4983-9315-31367b35548a/1442830967",
+            "position": "CAM",
+            "rating": 75
+        },
+        "BEL-26": {
+            "birth": "24 de octubre de 2003",
+            "club": "🇧🇪 R. S. C. Anderlecht",
+            "name": "Zeno Debast",
+            "nationality": "🇧🇪",
+            "picture": "https://digitalhub.fifa.com/transform/0d445c85-09b0-4d1f-8821-fd9e7d54f62a/1442830845",
+            "position": "CDM",
+            "rating": 66
         }
     },
     "teams": {
@@ -4972,7 +5207,7 @@
             "emblem": "https://1.bp.blogspot.com/-Dq592JboqNU/XcYg8RbpKxI/AAAAAAABWn8/Qyvm4bUOTBA94jbqzA6KqKjw7VnDXOS0gCLcBGAsYHQ/s1600/Belgica.png",
             "flag": "🇧🇪󠁮",
             "name": "Bélgica",
-            "players": 0
+            "players": 26
         },
         "CAN": {
             "color": [

@@ -411,5 +411,8 @@ Takuma Asano        1
 Ao Tanaka           1
 Daizen Maeda        1
 
-TOTAL               70
-TOTAL GOLES         108
+BELGICA (1)         1
+Michy Batshuayi     1
+
+TOTAL               71
+TOTAL GOLES         109
