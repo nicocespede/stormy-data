@@ -278,6 +278,7 @@ jamaica: 🇯🇲
 japon: 🇯🇵
 kenia: 🇰🇪
 kuwait: 🇰🇼
+liberia: 🇱🇷
 marruecos: 🇲🇦
 mexico: 🇲🇽
 nicaragua: 🇳🇮
@@ -293,6 +294,7 @@ sudafrica: 🇿🇦
 sudan: 🇸🇩
 suecia: 🇸🇪
 suiza: 🇨🇭
+trinidad y tobago: 🇹🇹
 tunez: 🇹🇳
 turquia: 🇹🇷
 uruguay: 🇺🇾
@@ -414,5 +416,9 @@ Daizen Maeda        1
 BELGICA (1)         1
 Michy Batshuayi     1
 
-TOTAL               71
-TOTAL GOLES         109
+CANADA (1)          2
+Alphonso Davies     1
+(Nayef Aguerd       1)
+
+TOTAL               72
+TOTAL GOLES         110

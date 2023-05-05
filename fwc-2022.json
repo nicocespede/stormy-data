@@ -4975,6 +4975,241 @@
             "picture": "https://digitalhub.fifa.com/transform/0d445c85-09b0-4d1f-8821-fd9e7d54f62a/1442830845",
             "position": "CDM",
             "rating": 66
+        },
+        "CAN-1": {
+            "birth": "9 de mayo de 1997",
+            "club": "🇺🇸 Minnesota United",
+            "name": "Dayne St. Clair",
+            "nationality": "🇨🇦",
+            "picture": "https://digitalhub.fifa.com/transform/867a0cc4-fff2-4bca-9292-a489bd2c5c82/1442844606",
+            "position": "GK",
+            "rating": 71
+        },
+        "CAN-2": {
+            "birth": "8 de octubre de 1998",
+            "club": "🇨🇦 CF Montréal",
+            "name": "Alistair Johnston",
+            "nationality": "🇨🇦",
+            "picture": "https://digitalhub.fifa.com/transform/23e6bb77-7472-43b3-93fb-1d170899da4c/1442846604",
+            "position": "RM",
+            "rating": 74
+        },
+        "CAN-3": {
+            "birth": "16 de enero de 1995",
+            "club": "🇹🇷 Hatayspor",
+            "name": "Sam Adekugbe",
+            "nationality": "🇬🇧 🇨🇦",
+            "picture": "https://digitalhub.fifa.com/transform/66638aec-42cf-4852-bed6-29aab64b4d9b/1442847523",
+            "position": "LB",
+            "rating": 70
+        },
+        "CAN-4": {
+            "birth": "16 de mayo de 1997",
+            "club": "🇨🇦 CF Montréal",
+            "name": "Kamal Miller",
+            "nationality": "🇨🇦",
+            "picture": "https://digitalhub.fifa.com/transform/6d8ba727-6898-4625-ad5c-00b3c52e5054/1442846594",
+            "position": "CB",
+            "rating": 72
+        },
+        "CAN-5": {
+            "birth": "11 de enero de 1987",
+            "club": "🇵🇹 G. D. Chaves",
+            "name": "Steven de Sousa Vitória",
+            "nationality": "🇨🇦 🇵🇹",
+            "picture": "https://digitalhub.fifa.com/transform/85f6d273-9d82-4a71-991c-ea8728843d91/1442844930",
+            "position": "CB",
+            "rating": 71
+        },
+        "CAN-6": {
+            "birth": "12 de noviembre de 1994",
+            "club": "🇨🇦 CF Montréal",
+            "name": "Samuel Piette",
+            "nationality": "🇨🇦",
+            "picture": "https://digitalhub.fifa.com/transform/259b3ec4-691d-4275-91eb-3dac7686db9b/1442846752",
+            "position": "CDM",
+            "rating": 71
+        },
+        "CAN-7": {
+            "birth": "21 de diciembre de 1996",
+            "club": "🇵🇹 F. C. Porto",
+            "name": "Stephen Antunes Eustáquio",
+            "nationality": "🇨🇦 🇵🇹",
+            "picture": "https://digitalhub.fifa.com/transform/cf5a1a06-79af-4224-b2e1-cf26af0c7441/1442846614",
+            "position": "CDM",
+            "rating": 77
+        },
+        "CAN-8": {
+            "birth": "13 de febrero de 1998",
+            "club": "🇧🇪󠁮 K. M. S. K. Deinze",
+            "name": "Liam Fraser",
+            "nationality": "🇨🇦",
+            "picture": "https://digitalhub.fifa.com/transform/4efeed9e-f218-469c-97a0-5b1971ad3f19/1442845354",
+            "position": "CDM",
+            "rating": 65
+        },
+        "CAN-9": {
+            "birth": "28 de diciembre de 1992",
+            "club": "🇨🇦 Vancouver Whitecaps",
+            "name": "Lucas Cavallini",
+            "nationality": "🇨🇦 🇦🇷",
+            "picture": "https://digitalhub.fifa.com/transform/d15d219e-026f-4b3f-aa25-690214845bbd/1442846585",
+            "position": "ST",
+            "rating": 71
+        },
+        "CAN-10": {
+            "birth": "5 de junio de 1990",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Reading F. C.",
+            "name": "Junior Hoilett",
+            "nationality": "🇨🇦 🇯🇲 🇬🇧",
+            "picture": "https://digitalhub.fifa.com/transform/02212ce0-8deb-4644-b5ff-62574ea55692/1442846791",
+            "position": "RW",
+            "rating": 71
+        },
+        "CAN-11": {
+            "birth": "8 de febrero de 1999",
+            "club": "🇧🇪󠁮 Club Brujas",
+            "name": "Tajon Buchanan",
+            "nationality": "🇨🇦",
+            "picture": "https://digitalhub.fifa.com/transform/e3f5b410-f66b-4ea2-85c0-86a277fc26e2/1442846559",
+            "position": "RM",
+            "rating": 73
+        },
+        "CAN-12": {
+            "birth": "21 de septiembre de 1998",
+            "club": "🇫🇷 E. S. Troyes A. C.",
+            "name": "Iké Ugbo",
+            "nationality": "🇬🇧 🇨🇦",
+            "picture": "https://digitalhub.fifa.com/transform/0152db56-4ec0-489c-8c4b-773633fb9805/1442845483",
+            "position": "ST",
+            "rating": 71
+        },
+        "CAN-13": {
+            "birth": "8 de febrero de 1983",
+            "club": "🇹🇷 Beşiktaş J. K.",
+            "name": "Atiba Hutchinson",
+            "nationality": "🇨🇦 🇹🇹",
+            "picture": "https://digitalhub.fifa.com/transform/9d97a5c4-eb84-429e-a54f-b35990368044/1442845134",
+            "position": "CDM",
+            "rating": 70
+        },
+        "CAN-14": {
+            "birth": "2 de diciembre de 1994",
+            "club": "🇨🇦 Toronto F. C.",
+            "name": "Mark-Anthony Kaye",
+            "nationality": "🇨🇦",
+            "picture": "https://digitalhub.fifa.com/transform/b18ef259-0cf0-45e9-a99c-938f9c4b0e92/1442845181",
+            "position": "CM",
+            "rating": 70
+        },
+        "CAN-15": {
+            "birth": "6 de junio de 2002",
+            "club": "🇨🇦 CF Montréal",
+            "name": "Ismaël Koné",
+            "nationality": "🇨🇮 🇨🇦",
+            "picture": "https://digitalhub.fifa.com/transform/20f48797-14f3-4323-b2ca-ffe44aaf8de4/1442846452",
+            "position": "CAM",
+            "rating": 67
+        },
+        "CAN-16": {
+            "birth": "21 de febrero de 1997",
+            "club": "🇨🇦 CF Montréal",
+            "name": "James Pantemis",
+            "nationality": "🇨🇦",
+            "picture": "https://digitalhub.fifa.com/transform/bdcf7561-a5a6-4cdc-92cf-1634f3c32461/1442844652",
+            "position": "GK",
+            "rating": 66
+        },
+        "CAN-17": {
+            "birth": "17 de abril de 1995",
+            "club": "🇧🇪󠁮 Club Brujas",
+            "name": "Cyle Larin",
+            "nationality": "🇨🇦 🇯🇲",
+            "picture": "https://digitalhub.fifa.com/transform/dbf56358-3302-4365-82a2-5f7ac07b7a82/1442845035",
+            "position": "ST",
+            "rating": 74
+        },
+        "CAN-18": {
+            "birth": "23 de octubre de 1987",
+            "club": "🇷🇸 Estrella Roja de Belgrado",
+            "name": "Milan Borjan",
+            "nationality": "🇷🇸 🇨🇦",
+            "picture": "https://digitalhub.fifa.com/transform/a1bc4cb1-629a-465a-805e-cfa81da53ff8/1442844750",
+            "position": "GK",
+            "rating": 76
+        },
+        "CAN-19": {
+            "birth": "2 de noviembre de 2000",
+            "club": "🇩🇪 F. C. Bayern",
+            "goals": 1,
+            "name": "Alphonso Davies",
+            "nationality": "🇨🇦 🇱🇷",
+            "picture": "https://digitalhub.fifa.com/transform/af5a9e08-0f62-48c3-b204-df45bfd14371/1442847715",
+            "position": "LM",
+            "rating": 84
+        },
+        "CAN-20": {
+            "birth": "14 de enero de 2000",
+            "club": "🇫🇷 Lille O. S. C.",
+            "name": "Jonathan David",
+            "nationality": "🇺🇸 🇨🇦",
+            "picture": "https://digitalhub.fifa.com/transform/4e68b7b6-54fb-49d5-bac0-c80f5580da95/1442844823",
+            "position": "ST",
+            "rating": 80
+        },
+        "CAN-21": {
+            "birth": "12 de junio de 1992",
+            "club": "🇨🇦 Toronto F. C.",
+            "name": "Jonathan Osorio",
+            "nationality": "🇨🇦 🇨🇴",
+            "picture": "https://digitalhub.fifa.com/transform/1a621a8c-b640-4f3c-a104-bb1aa0276c8b/1442846685",
+            "position": "CM",
+            "rating": 74
+        },
+        "CAN-22": {
+            "birth": "7 de enero de 1995",
+            "club": "🇨🇦 Toronto F. C.",
+            "name": "Richie Laryea",
+            "nationality": "🇨🇦",
+            "picture": "https://digitalhub.fifa.com/transform/a25cf0da-9f6d-4d3e-9f93-b930069eb30e/1442846719",
+            "position": "RWB",
+            "rating": 71
+        },
+        "CAN-23": {
+            "birth": "27 de septiembre de 1999",
+            "club": "🇨🇭 F. C. Basilea",
+            "name": "Liam Millar",
+            "nationality": "🇨🇦",
+            "picture": "https://digitalhub.fifa.com/transform/70ffa6c2-3b44-414d-b276-ce4e92f4868a/1442846654",
+            "position": "RM",
+            "rating": 68
+        },
+        "CAN-24": {
+            "birth": "16 de enero de 1990",
+            "club": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 St Johnstone F. C.",
+            "name": "David Wotherspoon",
+            "nationality": "🇬🇧 🇨🇦",
+            "picture": "https://digitalhub.fifa.com/transform/155610e1-4e2c-4df8-afa7-6d24d398e387/1442847605",
+            "position": "CAM",
+            "rating": 67
+        },
+        "CAN-25": {
+            "birth": "25 de noviembre de 1997",
+            "club": "🇬🇷 Panetolikos",
+            "name": "Derek Cornelius",
+            "nationality": "🇨🇦",
+            "picture": "https://digitalhub.fifa.com/transform/83210c0d-5496-46da-8688-21cdaec66c0a/1442844963",
+            "position": "CB",
+            "rating": 67
+        },
+        "CAN-26": {
+            "birth": "21 de enero de 1996",
+            "club": "🇨🇦 CF Montréal",
+            "name": "Joel Waterman",
+            "nationality": "🇨🇦",
+            "picture": "https://digitalhub.fifa.com/transform/9c6bf2eb-6733-4123-9a6d-476880138685/1442846218",
+            "position": "CB",
+            "rating": 67
         }
     },
     "teams": {
@@ -5218,7 +5453,7 @@
             "emblem": "https://2.bp.blogspot.com/-u_56UTNr_XQ/WWwjG-RkxGI/AAAAAAABNBE/nK2DMcDBNX4irlNaIQ7blp0ebW7Ndc_JgCLcBGAs/s1600/Canada.png",
             "flag": "🇨🇦",
             "name": "Canadá",
-            "players": 0
+            "players": 26
         },
         "MAR": {
             "color": [
