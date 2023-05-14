@@ -5210,6 +5210,486 @@
             "picture": "https://digitalhub.fifa.com/transform/9c6bf2eb-6733-4123-9a6d-476880138685/1442846218",
             "position": "CB",
             "rating": 67
+        },
+        "MAR-1": {
+            "birth": "5 de abril de 1991",
+            "club": "🇪🇸 Sevilla F. C.",
+            "name": "Yassine Bounou",
+            "nationality": "🇨🇦 🇲🇦",
+            "picture": "https://digitalhub.fifa.com/transform/d46cb9ce-5bb8-49f0-84f0-10d8d65da74d/Morocco-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "GK",
+            "rating": 85
+        },
+        "MAR-2": {
+            "birth": "4 de noviembre de 1998",
+            "club": "🇫🇷 París Saint-Germain F. C.",
+            "name": "Achraf Hakimi",
+            "nationality": "🇲🇦",
+            "picture": "https://digitalhub.fifa.com/transform/03f3de69-d5c1-46de-b3ef-ff56a95035af/Morocco-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "RB",
+            "rating": 84
+        },
+        "MAR-3": {
+            "birth": "14 de noviembre de 1997",
+            "club": "🇩🇪 F. C. Bayern",
+            "name": "Noussair Mazraoui",
+            "nationality": "🇳🇱 🇲🇦",
+            "picture": "https://digitalhub.fifa.com/transform/c9591567-7fe7-4199-b558-d8b19df33c09/Morocco-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "RM",
+            "rating": 82
+        },
+        "MAR-4": {
+            "birth": "21 de agosto de 1996",
+            "club": "🇮🇹 ACF Fiorentina",
+            "name": "Sofyan Amrabat",
+            "nationality": "🇳🇱 🇲🇦",
+            "picture": "https://digitalhub.fifa.com/transform/4c81738d-c8c2-4296-8db4-5a8549d49896/Morocco-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CM",
+            "rating": 78
+        },
+        "MAR-5": {
+            "birth": "30 de marzo de 1996",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 West Ham United F. C.",
+            "name": "Nayef Aguerd",
+            "nationality": "🇲🇦",
+            "picture": "https://digitalhub.fifa.com/transform/8be99692-04dd-4c92-8a86-70dc8e6901c7/Morocco-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CB",
+            "rating": 80
+        },
+        "MAR-6": {
+            "birth": "26 de marzo de 1990",
+            "club": "🇹🇷 Beşiktaş J. K.",
+            "goals": 1,
+            "name": "Romain Saïss",
+            "nationality": "🇫🇷 🇲🇦",
+            "picture": "https://digitalhub.fifa.com/transform/b781e1dc-a7a9-4d08-a65d-48abe85707e0/Morocco-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CB",
+            "rating": 78
+        },
+        "MAR-7": {
+            "birth": "19 de marzo de 1993",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Chelsea F. C.",
+            "goals": 1,
+            "name": "Hakim Ziyech",
+            "nationality": "🇳🇱 🇲🇦",
+            "picture": "https://digitalhub.fifa.com/transform/96ff445c-211f-4bc3-b0d8-cc6bb5777982/Morocco-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "RW",
+            "rating": 82
+        },
+        "MAR-8": {
+            "birth": "19 de abril de 2000",
+            "club": "🇫🇷 Angers S. C. O.",
+            "name": "Azzedine Ounahi",
+            "nationality": "🇲🇦",
+            "picture": "https://digitalhub.fifa.com/transform/ea14d344-4dc1-460c-9923-d8a485c894eb/Morocco-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CM",
+            "rating": 76
+        },
+        "MAR-9": {
+            "birth": "17 de diciembre de 1990",
+            "club": "🇸🇦 Al-Ittihad Jeddah",
+            "name": "Abderrazak Hamdallah",
+            "nationality": "🇲🇦",
+            "picture": "https://digitalhub.fifa.com/transform/e1ba5410-1b22-4442-a355-a5c482797b20/Morocco-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "ST",
+            "rating": 76
+        },
+        "MAR-10": {
+            "birth": "7 de noviembre de 2000",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Burnley F. C.",
+            "name": "Anass Zaroury",
+            "nationality": "🇧🇪 🇲🇦",
+            "picture": "https://digitalhub.fifa.com/transform/c3f43b99-70ce-4612-a1dc-dcbc02aaed58/1442764041",
+            "position": "CAM",
+            "rating": 74
+        },
+        "MAR-11": {
+            "birth": "28 de noviembre de 1996",
+            "club": "🇮🇹 U. C. Sampdoria",
+            "name": "Abdelhamid Sabiri",
+            "nationality": "🇲🇦 🇩🇪",
+            "picture": "https://digitalhub.fifa.com/transform/75413604-793b-4439-bd91-eefcc4f4002a/Morocco-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CAM",
+            "rating": 71
+        },
+        "MAR-12": {
+            "birth": "10 de mayo de 1989",
+            "club": "🇸🇦 Al-Wehda",
+            "name": "Munir Mohand Mohamedi",
+            "nationality": "🇲🇦",
+            "picture": "https://digitalhub.fifa.com/transform/6cf7f058-8faa-483b-8f66-e12e879393a2/Morocco-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "GK",
+            "rating": 73
+        },
+        "MAR-13": {
+            "birth": "30 de octubre de 1997",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Queens Park Rangers F. C.",
+            "name": "Ilias Chair",
+            "nationality": "🇲🇦",
+            "picture": "https://digitalhub.fifa.com/transform/02b330d8-ee72-471a-b822-eec280201d93/Morocco-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CAM",
+            "rating": 73
+        },
+        "MAR-14": {
+            "birth": "18 de febrero de 2000",
+            "club": "🇫🇷 Toulouse F. C.",
+            "goals": 1,
+            "name": "Zakaria Aboukhlal",
+            "nationality": "🇳🇱 🇲🇦",
+            "picture": "https://digitalhub.fifa.com/transform/2e91ce28-fb39-46ac-94f3-42e8d6f9037c/Morocco-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "LM",
+            "rating": 74
+        },
+        "MAR-15": {
+            "birth": "15 de noviembre de 1996",
+            "club": "🇧🇪 Standard de Lieja",
+            "name": "Selim Amallah",
+            "nationality": "🇧🇪 🇲🇦",
+            "picture": "https://digitalhub.fifa.com/transform/e263eb52-deb4-4631-bb0e-9c8c05d1fb57/Morocco-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CAM",
+            "rating": 74
+        },
+        "MAR-16": {
+            "birth": "17 de diciembre de 2001",
+            "club": "🇪🇸 C. A. Osasuna",
+            "name": "Abdessamad Ezzalzouli",
+            "nationality": "🇲🇦 🇪🇸",
+            "picture": "https://digitalhub.fifa.com/transform/6b36588e-97af-4154-9347-c8ec11c7d5f9/Morocco-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "LW",
+            "rating": 71
+        },
+        "MAR-17": {
+            "birth": "17 de septiembre de 1993",
+            "club": "🇫🇷 Angers S. C. O.",
+            "name": "Sofiane Boufal",
+            "nationality": "🇫🇷 🇲🇦",
+            "picture": "https://digitalhub.fifa.com/transform/84676693-2965-42a6-9a82-12ce8c68e8c6/Morocco-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CAM",
+            "rating": 76
+        },
+        "MAR-18": {
+            "birth": "29 de febrero de 1992",
+            "club": "🇪🇸 Real Valladolid C. F.",
+            "name": "Jawad El Yamiq",
+            "nationality": "🇲🇦",
+            "picture": "https://digitalhub.fifa.com/transform/42565243-e310-4b9c-996a-fe4195d21926/Morocco-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CB",
+            "rating": 75
+        },
+        "MAR-19": {
+            "birth": "1 de junio de 1997",
+            "club": "🇪🇸 Sevilla F. C.",
+            "goals": 2,
+            "name": "Youssef En-Nesyri",
+            "nationality": "🇲🇦",
+            "picture": "https://digitalhub.fifa.com/transform/2cbd2bc3-0cd6-442e-9877-3cd951e63234/Morocco-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "ST",
+            "rating": 80
+        },
+        "MAR-20": {
+            "birth": "6 de mayo de 1999",
+            "club": "🇫🇷 Stade Brest 29",
+            "goals": 1,
+            "name": "Achraf Dari",
+            "nationality": "🇲🇦",
+            "picture": "https://digitalhub.fifa.com/transform/814883ae-a895-4aac-a723-8bb5ab557255/Morocco-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CB",
+            "rating": 69
+        },
+        "MAR-21": {
+            "birth": "22 de enero de 1998",
+            "club": "🇮🇹 S. S. C. Bari",
+            "name": "Walid Cheddira",
+            "nationality": "🇲🇦",
+            "picture": "https://digitalhub.fifa.com/transform/97604e6b-ca73-48d6-b247-442cdb0c15a8/Morocco-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "ST",
+            "rating": 71
+        },
+        "MAR-22": {
+            "birth": "5 de abril de 1996",
+            "club": "🇲🇦 Wydad A.C.",
+            "name": "Ahmed Reda Tagnaouti",
+            "nationality": "🇲🇦",
+            "picture": "https://digitalhub.fifa.com/transform/fb93ad1a-14a1-41b8-be41-8dbed03eea0d/Morocco-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "GK",
+            "rating": 71
+        },
+        "MAR-23": {
+            "birth": "10 de mayo de 2004",
+            "club": "🇧🇪󠁮 K. R. C. Genk",
+            "name": "Bilal El Khannous",
+            "nationality": "🇧🇪 🇲🇦",
+            "picture": "https://digitalhub.fifa.com/transform/73517f96-2f41-408a-b9c8-a2a85fc315bd/Morocco-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CAM",
+            "rating": 70
+        },
+        "MAR-24": {
+            "birth": "30 de septiembre de 1993",
+            "club": "🇶🇦 Qatar S. C.",
+            "name": "Badr Benoun",
+            "nationality": "🇲🇦",
+            "picture": "https://digitalhub.fifa.com/transform/fd26ecc0-f332-4919-b020-90733111c3f2/Morocco-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CB",
+            "rating": 73
+        },
+        "MAR-25": {
+            "birth": "2 de marzo de 1995",
+            "club": "🇲🇦 Wydad A.C.",
+            "name": "Yahya Attiat-Allah",
+            "nationality": "🇲🇦",
+            "picture": "https://digitalhub.fifa.com/transform/40df5201-cc2f-4f00-9a96-9c5906656be9/Morocco-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "LB",
+            "rating": 73
+        },
+        "MAR-26": {
+            "birth": "18 de junio de 1991",
+            "club": "🇲🇦 Wydad A.C.",
+            "name": "Yahya Jabrane",
+            "nationality": "🇲🇦",
+            "picture": "https://digitalhub.fifa.com/transform/fa110b77-6750-47a9-9e47-5a4699477a44/Morocco-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CDM",
+            "rating": 72
+        },
+        "CRO-1": {
+            "birth": "9 de enero de 1995",
+            "club": "🇭🇷 G. N. K. Dinamo Zagreb",
+            "name": "Dominik Livaković",
+            "nationality": "🇭🇷",
+            "picture": "https://digitalhub.fifa.com/transform/344c53dd-7109-4a01-b75a-b1956af683ce/1442833831",
+            "position": "GK",
+            "rating": 81
+        },
+        "CRO-2": {
+            "birth": "2 de abril de 2000",
+            "club": "🇩🇪 F. C. Bayern",
+            "name": "Josip Stanišić",
+            "nationality": "🇭🇷",
+            "picture": "https://digitalhub.fifa.com/transform/dd54895b-2fe9-4015-8b6e-216710a4e65a/1442834883",
+            "position": "RB",
+            "rating": 74
+        },
+        "CRO-3": {
+            "birth": "10 de noviembre de 1992",
+            "club": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Rangers F. C.",
+            "name": "Borna Barišić",
+            "nationality": "🇭🇷",
+            "picture": "https://digitalhub.fifa.com/transform/59c69f25-e51a-41e9-b5ed-882c5c33132f/1442834133",
+            "position": "LB",
+            "rating": 73
+        },
+        "CRO-4": {
+            "birth": "2 de febrero de 1989",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Tottenham Hotspur F. C.",
+            "goals": 1,
+            "name": "Ivan Perišić",
+            "nationality": "🇭🇷",
+            "picture": "https://digitalhub.fifa.com/transform/b042c04a-b2b3-4b61-b141-96df26e5c58f/1442835074",
+            "position": "LM",
+            "rating": 80
+        },
+        "CRO-5": {
+            "birth": "24 de enero de 1998",
+            "club": "🇮🇹 U. S. Sassuolo Calcio",
+            "name": "Martin Erlić",
+            "nationality": "🇭🇷",
+            "picture": "https://digitalhub.fifa.com/transform/f4c3a9f7-1801-46d8-91b8-ab2f10bb0845/1442834365",
+            "position": "CB",
+            "rating": 74
+        },
+        "CRO-6": {
+            "birth": "5 de julio de 1989",
+            "club": "🇷🇺 Zenit de San Petersburgo",
+            "name": "Dejan Lovren",
+            "nationality": "🇭🇷 🇧🇦",
+            "picture": "https://digitalhub.fifa.com/transform/8e3af8ba-f57b-4acc-8b9a-65eecb9386b1/1442834061",
+            "position": "CB",
+            "rating": 78
+        },
+        "CRO-7": {
+            "birth": "17 de enero de 1998",
+            "club": "🇫🇷 Stade Rennais F. C.",
+            "goals": 1,
+            "name": "Lovro Majer",
+            "nationality": "🇭🇷",
+            "picture": "https://digitalhub.fifa.com/transform/0675b5e4-433c-4f61-8853-b1f02445515a/1442833911",
+            "position": "CAM",
+            "rating": 80
+        },
+        "CRO-8": {
+            "birth": "6 de mayo de 1994",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Chelsea F. C.",
+            "name": "Mateo Kovačić",
+            "nationality": "🇭🇷",
+            "picture": "https://digitalhub.fifa.com/transform/f1171d95-ce45-406c-9b58-672ab7f12a99/1442835025",
+            "position": "CM",
+            "rating": 82
+        },
+        "CRO-9": {
+            "birth": "19 de junio de 1991",
+            "club": "🇩🇪 TSG 1899 Hoffenheim",
+            "goals": 2,
+            "name": "Andrej Kramarić",
+            "nationality": "🇭🇷",
+            "picture": "https://digitalhub.fifa.com/transform/a1b0faa7-d634-4440-b8d2-124883fca434/1442834913",
+            "position": "CF",
+            "rating": 81
+        },
+        "CRO-10": {
+            "birth": "9 de septiembre de 1985",
+            "club": "🇪🇸 Real Madrid C. F.",
+            "name": "Luka Modrić",
+            "nationality": "🇭🇷",
+            "picture": "https://digitalhub.fifa.com/transform/d67acdb0-b9a3-4bb7-a49c-8ee0c2844d55/1442835091",
+            "position": "CM",
+            "rating": 88
+        },
+        "CRO-11": {
+            "birth": "16 de noviembre de 1992",
+            "club": "🇮🇹 Inter de Milán",
+            "name": "Marcelo Brozović",
+            "nationality": "🇭🇷",
+            "picture": "https://digitalhub.fifa.com/transform/ba577816-7c39-48ba-8072-c095cd6c10fd/1442835048",
+            "position": "CDM",
+            "rating": 84
+        },
+        "CRO-12": {
+            "birth": "18 de enero de 1996",
+            "club": "🇪🇸 Atlético de Madrid",
+            "name": "Ivo Grbić",
+            "nationality": "🇭🇷",
+            "picture": "https://digitalhub.fifa.com/transform/6646af68-41ba-45ae-a43b-fa76e98f09e5/1442833881",
+            "position": "GK",
+            "rating": 74
+        },
+        "CRO-13": {
+            "birth": "4 de octubre de 1997",
+            "club": "🇮🇹 Torino F. C.",
+            "name": "Nikola Vlašić",
+            "nationality": "🇭🇷",
+            "picture": "https://digitalhub.fifa.com/transform/200ab89f-97ed-4476-b44c-f26e4daf0716/1442834984",
+            "position": "CAM",
+            "rating": 77
+        },
+        "CRO-14": {
+            "birth": "26 de agosto de 1993",
+            "club": "🇭🇷 H. N. K. Hajduk Split",
+            "goals": 1,
+            "name": "Marko Livaja",
+            "nationality": "🇭🇷",
+            "picture": "https://digitalhub.fifa.com/transform/d1faa11c-c668-48f9-a2da-668c8a7caed3/1442834999",
+            "position": "ST",
+            "rating": 77
+        },
+        "CRO-15": {
+            "birth": "9 de febrero de 1995",
+            "club": "🇮🇹 Atalanta B. C.",
+            "name": "Mario Pašalić",
+            "nationality": "🇭🇷",
+            "picture": "https://digitalhub.fifa.com/transform/578728a2-b038-4078-8bc9-0d221722d92b/1442834160",
+            "position": "CAM",
+            "rating": 80
+        },
+        "CRO-16": {
+            "birth": "16 de septiembre de 1994",
+            "club": "🇭🇷 G. N. K. Dinamo Zagreb",
+            "goals": 1,
+            "name": "Bruno Petković",
+            "nationality": "🇭🇷",
+            "picture": "https://digitalhub.fifa.com/transform/6e955c0c-4e07-44a0-a519-84eb304b7f1a/1442835013",
+            "position": "CAM",
+            "rating": 75
+        },
+        "CRO-17": {
+            "birth": "22 de julio de 1991",
+            "club": "🇪🇸 C. A. Osasuna",
+            "name": "Ante Budimir",
+            "nationality": "🇭🇷",
+            "picture": "https://digitalhub.fifa.com/transform/a2a3a1dc-9429-408b-80bb-7c54108314fe/1442834215",
+            "position": "ST",
+            "rating": 76
+        },
+        "CRO-18": {
+            "birth": "29 de diciembre de 1992",
+            "club": "🇭🇷 G. N. K. Dinamo Zagreb",
+            "goals": 1,
+            "name": "Mislav Oršić",
+            "nationality": "🇭🇷",
+            "picture": "https://digitalhub.fifa.com/transform/55edadf5-ec8c-4ebb-b61e-4b51f769c977/1442834297",
+            "position": "LW",
+            "rating": 77
+        },
+        "CRO-19": {
+            "birth": "21 de enero de 1998",
+            "club": "🇩🇪 VfB Stuttgart",
+            "name": "Borna Sosa",
+            "nationality": "🇭🇷",
+            "picture": "https://digitalhub.fifa.com/transform/ded7d222-b357-462f-8ec5-fe665e09f409/1442834343",
+            "position": "LWB",
+            "rating": 79
+        },
+        "CRO-20": {
+            "birth": "23 de enero de 2002",
+            "club": "🇩🇪 R. B. Leipzig",
+            "goals": 1,
+            "name": "Joško Gvardiol",
+            "nationality": "🇭🇷",
+            "picture": "https://digitalhub.fifa.com/transform/b7bc930d-c5fb-4d90-8ce5-abc569851932/1442834258",
+            "position": "CB",
+            "rating": 82
+        },
+        "CRO-21": {
+            "birth": "29 de abril de 1989",
+            "club": "🇬🇷 AEK Atenas F. C.",
+            "name": "Domagoj Vida",
+            "nationality": "🇭🇷",
+            "picture": "https://digitalhub.fifa.com/transform/c10c9364-d200-48eb-b68b-de52a4b97d18/1442835060",
+            "position": "CB",
+            "rating": 76
+        },
+        "CRO-22": {
+            "birth": "16 de agosto de 1995",
+            "club": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Celtic F. C.",
+            "name": "Josip Juranović",
+            "nationality": "🇭🇷",
+            "picture": "https://digitalhub.fifa.com/transform/03c26131-5dcd-487f-8a74-0f9be3407a86/1442834167",
+            "position": "RB",
+            "rating": 77
+        },
+        "CRO-23": {
+            "birth": "1 de febrero de 1995",
+            "club": "🇭🇷 N. K. Osijek",
+            "name": "Ivica Ivušić",
+            "nationality": "🇭🇷",
+            "picture": "https://digitalhub.fifa.com/transform/cd499391-5643-4a49-8b9c-d0333c84a740/1442833849",
+            "position": "GK",
+            "rating": 73
+        },
+        "CRO-24": {
+            "birth": "28 de febrero de 2000",
+            "club": "🇭🇷 G. N. K. Dinamo Zagreb",
+            "name": "Josip Šutalo",
+            "nationality": "🇭🇷",
+            "picture": "https://digitalhub.fifa.com/transform/2f642a94-030c-4cca-9575-4e7e682505bc/1442834935",
+            "position": "CB",
+            "rating": 77
+        },
+        "CRO-25": {
+            "birth": "8 de septiembre de 2002",
+            "club": "🇦🇹 Red Bull Salzburgo",
+            "name": "Luka Sučić",
+            "nationality": "🇭🇷",
+            "picture": "https://digitalhub.fifa.com/transform/740af468-7709-45f7-93fc-15dbdd774e06/1442834948",
+            "position": "CAM",
+            "rating": 74
+        },
+        "CRO-26": {
+            "birth": "14 de mayo de 1997",
+            "club": "🇩🇪 Eintracht Fráncfort",
+            "name": "Kristijan Jakić",
+            "nationality": "🇭🇷",
+            "picture": "https://digitalhub.fifa.com/transform/213f644e-c616-4542-b2cf-f2bf815e8e8d/1442834235",
+            "position": "CDM",
+            "rating": 76
         }
     },
     "teams": {
@@ -5464,7 +5944,7 @@
             "emblem": "https://4.bp.blogspot.com/-csGyWOKzC70/WbUXNMiI3rI/AAAAAAABO-A/4IiG7CgfAB05_PJOo79IaB1wYSqdO9LDQCLcBGAs/s1600/Marruecos.PNG",
             "flag": "🇲🇦",
             "name": "Marruecos",
-            "players": 0
+            "players": 26
         },
         "CRO": {
             "color": [
@@ -5475,7 +5955,7 @@
             "emblem": "https://1.bp.blogspot.com/-Gn3PTa1RVE4/XpYebEIkDWI/AAAAAAABZSY/Wq0uASGPPagdjGxLAzzWucfxTfDWAmXywCLcBGAsYHQ/s1600/Croacia.png",
             "flag": "🇭🇷",
             "name": "Croacia",
-            "players": 0
+            "players": 26
         },
         "BRA": {
             "color": [

@@ -241,8 +241,10 @@ arabia saudita: 🇸🇦
 argelia: 🇩🇿
 argentina: 🇦🇷
 australia: 🇦🇺
+austria: 🇦🇹
 barein: 🇧🇭
 belgica: 🇧🇪󠁮
+bosnia y herzegovina: 🇧🇦
 brasil: 🇧🇷
 cabo verde: 🇨🇻
 camerun: 🇨🇲
@@ -288,6 +290,7 @@ portugal: 🇵🇹
 republica del congo: 🇨🇬
 republica democratica del congo: 🇨🇩
 republica dominicana: 🇩🇴
+rusia: 🇷🇺
 senegal: 🇸🇳
 serbia: 🇷🇸
 sudafrica: 🇿🇦
@@ -420,5 +423,21 @@ CANADA (1)          2
 Alphonso Davies     1
 (Nayef Aguerd       1)
 
-TOTAL               72
-TOTAL GOLES         110
+MARRUECOS (5)       6
+Youssef En-Nesyri   2
+Romain Saïss        1
+Zakaria Aboukhlal   1
+Hakim Ziyech        1
+Achraf Dari         1
+
+CROACIA (7)         8
+Andrej Kramarić     2
+Marko Livaja        1
+Lovro Majer         1
+Ivan Perišić        1
+Bruno Petković      1
+Joško Gvardiol      1
+Mislav Oršić        1
+
+TOTAL               84
+TOTAL GOLES         124
