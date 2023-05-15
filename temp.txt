@@ -439,5 +439,12 @@ Bruno Petković      1
 Joško Gvardiol      1
 Mislav Oršić        1
 
-TOTAL               84
-TOTAL GOLES         124
+BRASIL (5)          8
+Richarlison         3
+Neymar              2
+Casemiro            1
+Vinícius Júnior     1
+Lucas Paquetá       1
+
+TOTAL               89
+TOTAL GOLES         132
