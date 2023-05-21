@@ -54,5 +54,13 @@
         "localization": {
             "es": "Dólar estadounidense"
         }
+    },
+    "eur": {
+        "image": {
+            "large": "assets/thumbs/euro-circled.png"
+        },
+        "localization": {
+            "es": "Euro"
+        }
     }
 }
