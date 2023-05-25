@@ -1,0 +1,66 @@
+{
+    "slp": {
+        "id": "smooth-love-potion",
+        "color": [
+            255,
+            175,
+            188
+        ]
+    },
+    "pvu": {
+        "id": "plant-vs-undead-token",
+        "color": [
+            159,
+            222,
+            71
+        ]
+    },
+    "btc": {
+        "id": "bitcoin",
+        "color": [
+            247,
+            147,
+            26
+        ]
+    },
+    "eth": {
+        "id": "ethereum",
+        "color": [
+            138,
+            146,
+            178
+        ]
+    },
+    "doge": {
+        "id": "dogecoin",
+        "color": [
+            186,
+            159,
+            51
+        ]
+    },
+    "bnb": {
+        "id": "binancecoin",
+        "color": [
+            243,
+            186,
+            47
+        ]
+    },
+    "usd": {
+        "image": {
+            "large": "assets/thumbs/us-dollar-circled.png"
+        },
+        "localization": {
+            "es": "Dólar estadounidense"
+        }
+    },
+    "eur": {
+        "image": {
+            "large": "assets/thumbs/euro-circled.png"
+        },
+        "localization": {
+            "es": "Euro"
+        }
+    }
+}
