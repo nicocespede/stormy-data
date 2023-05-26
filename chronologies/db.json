@@ -341,7 +341,19 @@
         "year": "1991"
     },
     {
-        "name": "Dragon Ball Z Episodes 75-125",
+        "name": "Dragon Ball Z Episodes 75-122",
+        "type": "Serie",
+        "reference": "14"
+    },
+    {
+        "name": "Dragon Ball Z: The History of Trunks",
+        "type": "Especial",
+        "reference": "13",
+        "year": "1993",
+        "thumb": "dbz-logo"
+    },
+    {
+        "name": "Dragon Ball Z Episodes 123-125",
         "type": "Serie",
         "reference": "14"
     },
@@ -350,13 +362,6 @@
         "type": "Película",
         "reference": "15",
         "year": "1991"
-    },
-    {
-        "name": "Dragon Ball Z: The History of Trunks",
-        "type": "Especial",
-        "reference": "13",
-        "year": "1993",
-        "thumb": "dbz-logo"
     },
     {
         "name": "Dragon Ball Z Episodes 126-152",
