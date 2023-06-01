@@ -5308,26 +5308,29 @@
             16,
             23
         ],
-        "updateInfo": "primer subida",
+        "updateInfo": "subida la versión IMAX",
         "versions": {
             "1080p": {
-                "files": 1,
-                "lastUpdate": "17/04/2023",
+                "files": 4,
+                "lastUpdate": "01/06/2023",
                 "links": {
-                    "1Fichier": [
-                        "https://1fichier.com/?xaw26zgwk9g29prevk1n"
+                    "Mediafire": [
+                        "https://www.mediafire.com/folder/wfamlu8ohjcj6/imx"
                     ],
                     "MEGA": [
-                        "https://mega.nz/file/6dxiFL7Z#tEJjOGIApnruWp_i8bhIRuFETLxKyvgyYWGO78VZISo"
-                    ],
-                    "Mediafire": [
-                        "https://www.mediafire.com/file/zunnpej2ne0l7zc/AMATWQ2318P.rar/file"
-                    ],
-                    "FileFactory": [
-                        "http://www.filefactory.com/file/5v5d515rubqi"
+                        "https://mega.nz/folder/AFVEUbQK#uXf5FtzyQu1w2KqhlhgPgg"
                     ],
                     "Uptobox": [
-                        "https://uptobox.com/qtls5xxv0q89"
+                        "https://uptobox.com/j62y8r195pbu",
+                        "https://uptobox.com/5wetsnjgxrx2",
+                        "https://uptobox.com/tc4zu6xytk2h",
+                        "https://uptobox.com/5iory5bn5pev"
+                    ],
+                    "1Fichier": [
+                        "https://1fichier.com/?4cdn26qpuffqq652c8w6",
+                        "https://1fichier.com/?ylzxdxzhqurlx2mhms2d",
+                        "https://1fichier.com/?sjcwij52hq1uns8m5la2",
+                        "https://1fichier.com/?vi7qqt0kxe82nff7zkjl"
                     ]
                 },
                 "password": "www.compucalitv.com"
