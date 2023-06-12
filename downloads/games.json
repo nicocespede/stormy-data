@@ -1235,6 +1235,26 @@
                     ]
                 }
             }
+        },
+        {
+            "id": "1812090",
+            "version": "v15.11.2022",
+            "lastUpdate": "12/06/2023",
+            "updateInfo": "Primer subida",
+            "links": {
+                "game": {
+                    "files": 1,
+                    "MegaUp": [
+                        "https://megaup.net/3bR0A/Escape.Academy.Escape.From.Anti.Escape.Island.rar"
+                    ],
+                    "MEGA": [
+                        "https://mega.nz/#!LVwC2S7I!9_cCf9czpUUWARBwcsyn131Rs8bO7IHTeMU4LLCE9rU"
+                    ],
+                    "Uptobox": [
+                        "https://uptobox.com/ss9xqbr3y6y9"
+                    ]
+                }
+            }
         }
     ],
     "others": [
