@@ -251,6 +251,7 @@ cabo verde: 🇨🇻
 camerun: 🇨🇲
 canada: 🇨🇦
 catar: 🇶🇦
+china: 🇨🇳
 chipre: 🇨🇾
 colombia: 🇨🇴
 corea del sur: 🇰🇷
@@ -307,158 +308,163 @@ _______________________________________
 
 GOLEADORES
 
-QATAR (1)               1
-Mohammed Muntari        1
+QATAR (1)                   1
+Mohammed Muntari            1
 
-ECUADOR (2)             4
-Enner Valencia          3
-Moisés Caicedo          1
+ECUADOR (2)                 4
+Enner Valencia              3
+Moisés Caicedo              1
 
-SENEGAL (5)             5
-Boulaye Dia             1
-Famara Diédhiou         1
-Bamba Dieng             1
-Ismaïla Sarr            1
-Kalidou Koulibaly       1
+SENEGAL (5)                 5
+Boulaye Dia                 1
+Famara Diédhiou             1
+Bamba Dieng                 1
+Ismaïla Sarr                1
+Kalidou Koulibaly           1
 
-PAISES BAJOS (7)        10
-Cody Gakpo              3
-Wout Weghorst           2
-Davy Klaassen           1
-Frenkie de Jong         1
-Memphis Depay           1
-Daley Blind             1
-Denzel Dumfries         1
+PAISES BAJOS (7)            10
+Cody Gakpo                  3
+Wout Weghorst               2
+Davy Klaassen               1
+Frenkie de Jong             1
+Memphis Depay               1
+Daley Blind                 1
+Denzel Dumfries             1
 
-INGLATERRA (8)          13
-Marcus Rashford         3
-Bukayo Saka             3
-Harry Kane              2
-Jude Bellingham         1
-Raheem Sterling         1
-Jack Grealish           1
-Phil Foden              1
-Jordan Henderson        1
+INGLATERRA (8)              13
+Marcus Rashford             3
+Bukayo Saka                 3
+Harry Kane                  2
+Jude Bellingham             1
+Raheem Sterling             1
+Jack Grealish               1
+Phil Foden                  1
+Jordan Henderson            1
 
-IRAN (3)                4
-Mehdi Taremi            2
-Rouzbeh Cheshmi         1
-Ramin Rezaeian          1
+IRAN (3)                    4
+Mehdi Taremi                2
+Rouzbeh Cheshmi             1
+Ramin Rezaeian              1
 
-ESTADOS UNIDOS (3)      3
-Timothy Weah            1
-Christian Pulisic       1
-Haji Wright             1
+ESTADOS UNIDOS (3)          3
+Timothy Weah                1
+Christian Pulisic           1
+Haji Wright                 1
 
-GALES (1)               1
-Gareth Bale             1
+GALES (1)                   1
+Gareth Bale                 1
 
-ARGENTINA (6)           15
-Lionel Messi            7
-Julián Álvarez          4
-Enzo Fernández          1
-Alexis Mac Allister     1
-Nahuel Molina           1
-Ángel Di María          1
+ARGENTINA (6)               15
+Lionel Messi                7
+Julián Álvarez              4
+Enzo Fernández              1
+Alexis Mac Allister         1
+Nahuel Molina               1
+Ángel Di María              1
 
-ARABIA SAUDITA (2)      3
-Salem Al-Dawsari        2
-Saleh Al-Shehri         1
+ARABIA SAUDITA (2)          3
+Salem Al-Dawsari            2
+Saleh Al-Shehri             1
 
-MEXICO (2)              2
-Henry Martín            1
-Luis Gerardo Chávez     1
+MEXICO (2)                  2
+Henry Martín                1
+Luis Gerardo Chávez         1
 
-POLONIA (2)             3
-Robert Lewandowski      2
-Piotr Zieliński         1
+POLONIA (2)                 3
+Robert Lewandowski          2
+Piotr Zieliński             1
 
-FRANCIA (6)             16
-Kylian Mbappé           8
-Olivier Giroud          4
-Adrien Rabiot           1
-Aurélien Tchouaméni     1
-Theo Hernández          1
-Randal Kolo Muani       1
+FRANCIA (6)                 16
+Kylian Mbappé               8
+Olivier Giroud              4
+Adrien Rabiot               1
+Aurélien Tchouaméni         1
+Theo Hernández              1
+Randal Kolo Muani           1
 
-AUSTRALIA (3)           4
-Craig Goodwin           1
-Mitchell Duke           1
-Mathew Leckie           1
-(Enzo Fernández         1)
+AUSTRALIA (3)               4
+Craig Goodwin               1
+Mitchell Duke               1
+Mathew Leckie               1
+(Enzo Fernández             1)
 
-DINAMARCA (1)           1
-Andreas Christensen     1
+DINAMARCA (1)               1
+Andreas Christensen         1
 
-TUNEZ (1)               1
-Wahbi Khazri            1
+TUNEZ (1)                   1
+Wahbi Khazri                1
 
-ESPAÑA (6)              9
-Álvaro Morata           3
-Ferran Torres           2
-Dani Olmo               1
-Marco Asensio           1
-Gavi                    1
-Carlos Soler            1
+ESPAÑA (6)                  9
+Álvaro Morata               3
+Ferran Torres               2
+Dani Olmo                   1
+Marco Asensio               1
+Gavi                        1
+Carlos Soler                1
 
-COSTA RICA (3)          3
-Keysher Fuller          1
-Yeltsin Tejeda          1
-Juan Pablo Vargas       1
+COSTA RICA (3)              3
+Keysher Fuller              1
+Yeltsin Tejeda              1
+Juan Pablo Vargas           1
 
-ALEMANIA (4)            6
-Kai Havertz             2
-Niclas Füllkrug         2
-İlkay Gündoğan          1
-Serge Gnabry            1
+ALEMANIA (4)                6
+Kai Havertz                 2
+Niclas Füllkrug             2
+İlkay Gündoğan              1
+Serge Gnabry                1
 
-JAPON (4)               5
-Ritsu Dōan              2
-Takuma Asano            1
-Ao Tanaka               1
-Daizen Maeda            1
+JAPON (4)                   5
+Ritsu Dōan                  2
+Takuma Asano                1
+Ao Tanaka                   1
+Daizen Maeda                1
 
-BELGICA (1)             1
-Michy Batshuayi         1   
+BELGICA (1)                 1
+Michy Batshuayi             1
 
-CANADA (1)              2
-Alphonso Davies         1
-(Nayef Aguerd           1)
+CANADA (1)                  2
+Alphonso Davies             1
+(Nayef Aguerd               1)
 
-MARRUECOS (5)           6
-Youssef En-Nesyri       2
-Romain Saïss            1
-Zakaria Aboukhlal       1
-Hakim Ziyech            1
-Achraf Dari             1
+MARRUECOS (5)               6
+Youssef En-Nesyri           2
+Romain Saïss                1
+Zakaria Aboukhlal           1
+Hakim Ziyech                1
+Achraf Dari                 1
 
-CROACIA (7)             8
-Andrej Kramarić         2
-Marko Livaja            1
-Lovro Majer             1
-Ivan Perišić            1
-Bruno Petković          1
-Joško Gvardiol          1
-Mislav Oršić            1
+CROACIA (7)                 8
+Andrej Kramarić             2
+Marko Livaja                1
+Lovro Majer                 1
+Ivan Perišić                1
+Bruno Petković              1
+Joško Gvardiol              1
+Mislav Oršić                1
 
-BRASIL (5)              8
-Richarlison             3
-Neymar                  2
-Casemiro                1
-Vinícius Júnior         1
-Lucas Paquetá           1
+BRASIL (5)                  8
+Richarlison                 3
+Neymar                      2
+Casemiro                    1
+Vinícius Júnior             1
+Lucas Paquetá               1
 
-SERBIA (4)              5
-Aleksandar Mitrović     2
-Strahinja Pavlović      1
-Sergej Milinković-Savić 1
-Dušan Vlahović          1
+SERBIA (4)                  5
+Aleksandar Mitrović         2
+Strahinja Pavlović          1
+Sergej Milinković-Savić     1
+Dušan Vlahović              1
 
-SUIZA (4)               5
-Breel Embolo            2
-Xherdan Shaqiri         1
-Remo Freuler            1
-Manuel Akanji           1
+SUIZA (4)                   5
+Breel Embolo                2
+Xherdan Shaqiri             1
+Remo Freuler                1
+Manuel Akanji               1
 
-TOTAL                   97
-TOTAL GOLES             142
+CAMERUN (3)                 4
+Vincent Aboubakar           2
+Jean-Charles Castelletto    1
+Eric Maxim Choupo-Moting    1
+
+TOTAL                       100
+TOTAL GOLES                 146

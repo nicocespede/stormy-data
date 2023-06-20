@@ -6405,6 +6405,243 @@
             "picture": "https://digitalhub.fifa.com/transform/d4cf5de0-e2ce-4569-801d-4afa34a4bff6/1441891145",
             "position": "CAM",
             "rating": 70
+        },
+        "CMR-1": {
+            "birth": "12 de abril de 2003",
+            "club": "🇫🇷 Olympique de Marsella",
+            "name": "Simon Ngapandouetnbu",
+            "nationality": "🇨🇲 🇫🇷",
+            "picture": "https://digitalhub.fifa.com/transform/6ddedc86-e6dd-4c78-b315-6396e832c491/1443091942",
+            "position": "GK",
+            "rating": 67
+        },
+        "CMR-2": {
+            "birth": "30 de septiembre de 1998",
+            "club": "🇨🇲 Colombe Sportive",
+            "name": "Jerome Ngom Mbekeli",
+            "nationality": "🇨🇲",
+            "picture": "https://digitalhub.fifa.com/transform/c4ad0dac-8032-4502-aa6a-9327039ce058/1443093900",
+            "position": "CAM",
+            "rating": 66
+        },
+        "CMR-3": {
+            "birth": "27 de marzo de 1990",
+            "club": "🇬🇷 Aris Salónica F. C.",
+            "name": "Nicolas Nkoulou",
+            "nationality": "🇨🇲",
+            "picture": "https://digitalhub.fifa.com/transform/057f705f-96ae-49ba-812e-344e968b61db/1443092996",
+            "position": "CB",
+            "rating": 74
+        },
+        "CMR-4": {
+            "birth": "18 de septiembre de 2001",
+            "club": "🇫🇷 Stade Rennais F. C.",
+            "name": "Christopher Wooh",
+            "nationality": "🇫🇷 🇨🇲",
+            "picture": "https://digitalhub.fifa.com/transform/b100f560-2fb0-482d-805c-152a08345d4e/1443092734",
+            "position": "CB",
+            "rating": 70
+        },
+        "CMR-5": {
+            "birth": "4 de noviembre de 1995",
+            "club": "🇩🇪 Hannover 96",
+            "name": "Gaël Ondoua",
+            "nationality": "🇨🇲",
+            "picture": "https://digitalhub.fifa.com/transform/d72e7fd5-5ddc-498a-807f-03f100e1ab67/1443093727",
+            "position": "CDM",
+            "rating": 65
+        },
+        "CMR-6": {
+            "birth": "9 de julio de 1994",
+            "club": "🇷🇺 F. C. Dinamo Moscú",
+            "name": "Nicolas Moumi Ngamaleu",
+            "nationality": "🇨🇲",
+            "picture": "https://digitalhub.fifa.com/transform/9159c8d4-9a09-494e-acd9-5884e0fc758c/1443093122",
+            "position": "LM",
+            "rating": 76
+        },
+        "CMR-7": {
+            "birth": "13 de febrero de 1995",
+            "club": "🇹🇷 Beşiktaş J. K.",
+            "name": "Georges-Kévin Nkoudou Mbida",
+            "nationality": "🇫🇷 🇨🇲",
+            "picture": "https://digitalhub.fifa.com/transform/0f7e5f32-627e-47d3-8ca8-2d7873a85f84/1443093506",
+            "position": "LM",
+            "rating": 74
+        },
+        "CMR-8": {
+            "birth": "16 de noviembre de 1995",
+            "club": "🇮🇹 S. S. C. Napoli",
+            "name": "André-Franck Zambo Anguissa",
+            "nationality": "🇨🇲",
+            "picture": "https://digitalhub.fifa.com/transform/544a8d2d-26ac-4cfa-bf9d-952ac00d3088/1443093055",
+            "position": "CDM",
+            "rating": 82
+        },
+        "CMR-9": {
+            "birth": "1 de mayo de 1993",
+            "club": "🇨🇭 B. S. C. Young Boys",
+            "name": "Jean-Pierre Nsame",
+            "nationality": "🇨🇲",
+            "picture": "https://digitalhub.fifa.com/transform/659618da-e361-4a9a-b608-f05da1816f43/1443092811",
+            "position": "ST",
+            "rating": 76
+        },
+        "CMR-10": {
+            "birth": "22 de enero de 1992",
+            "club": "🇸🇦 Al-Nassr F.C.",
+            "goals": 2,
+            "name": "Vincent Aboubakar",
+            "nationality": "🇨🇲",
+            "picture": "https://digitalhub.fifa.com/transform/0fb327ff-be98-417d-ad8d-4f9c34bc6493/1443093024",
+            "position": "ST",
+            "rating": 77
+        },
+        "CMR-11": {
+            "birth": "18 de octubre de 1995",
+            "club": "🇨🇳 Shanghái Shenhua",
+            "name": "Christian Bassogog",
+            "nationality": "🇨🇲",
+            "picture": "https://digitalhub.fifa.com/transform/455f54f5-80f0-495c-bb03-5a4fdf188706/1443092549",
+            "position": "ST",
+            "rating": 74
+        },
+        "CMR-12": {
+            "birth": "14 de septiembre de 1992",
+            "club": "🇫🇷 Olympique de Lyon",
+            "name": "Karl Toko Ekambi",
+            "nationality": "🇫🇷 🇨🇲",
+            "picture": "https://digitalhub.fifa.com/transform/6cfab7ec-3542-4df9-a02e-dc26923cbc6b/1443093953",
+            "position": "LM",
+            "rating": 76
+        },
+        "CMR-13": {
+            "birth": "23 de marzo de 1989",
+            "club": "🇩🇪 F. C. Bayern",
+            "goals": 1,
+            "name": "Eric Maxim Choupo-Moting",
+            "nationality": "🇩🇪 🇨🇲",
+            "picture": "https://digitalhub.fifa.com/transform/651d5872-995c-457a-8c6d-6be7d7f6b44f/Eric-Maxim-Choupo-Moting",
+            "position": "ST",
+            "rating": 78
+        },
+        "CMR-14": {
+            "birth": "14 de diciembre de 1997",
+            "club": "🇧🇪󠁮 KV Malinas",
+            "name": "Samuel Oum Gouet",
+            "nationality": "🇨🇲",
+            "picture": "https://digitalhub.fifa.com/transform/2d5fb873-d9df-4985-92fb-1479cb129227/1443092860",
+            "position": "CDM",
+            "rating": 68
+        },
+        "CMR-15": {
+            "birth": "26 de julio de 1995",
+            "club": "🇬🇷 Olympiacos F. C.",
+            "name": "Pierre Kunde",
+            "nationality": "🇨🇲",
+            "picture": "https://digitalhub.fifa.com/transform/708caa85-0502-46c5-95f5-72f160db67ac/1443092769",
+            "position": "CAM",
+            "rating": 73
+        },
+        "CMR-16": {
+            "birth": "2 de febrero de 1993",
+            "club": "🇸🇦 Abha Club",
+            "name": "Devis Epassy",
+            "nationality": "🇨🇲 🇫🇷",
+            "picture": "https://digitalhub.fifa.com/transform/39872d74-53c8-4185-960d-6437599682aa/1443091973",
+            "position": "GK",
+            "rating": 68
+        },
+        "CMR-17": {
+            "birth": "15 de agosto de 1997",
+            "club": "🇺🇸 Philadelphia Union",
+            "name": "Olivier Mbaizo",
+            "nationality": "🇨🇲",
+            "picture": "https://digitalhub.fifa.com/transform/493ec844-d957-4236-8627-9993567f5303/1443092956",
+            "position": "RWB",
+            "rating": 67
+        },
+        "CMR-18": {
+            "birth": "16 de marzo de 1998",
+            "club": "🇮🇹 Hellas Verona F. C.",
+            "name": "Martin Hongla",
+            "nationality": "🇨🇲",
+            "picture": "https://digitalhub.fifa.com/transform/db48acfe-edc7-40cf-9855-b12c9d06c486/1443092904",
+            "position": "CAM",
+            "rating": 71
+        },
+        "CMR-19": {
+            "birth": "13 de agosto de 1992",
+            "club": "🇸🇦 Al-Tai",
+            "name": "Collins Fai",
+            "nationality": "🇨🇲",
+            "picture": "https://digitalhub.fifa.com/transform/0373615a-7813-4dfe-bf45-34a64e8da7ff/1443092600",
+            "position": "RB",
+            "rating": 70
+        },
+        "CMR-20": {
+            "birth": "7 de agosto de 1999",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Brentford F. C.",
+            "name": "Bryan Mbeumo",
+            "nationality": "🇫🇷 🇨🇲",
+            "picture": "https://digitalhub.fifa.com/transform/f13ebc72-a7bb-4449-af28-b904e5658910/1443092641",
+            "position": "CAM",
+            "rating": 76
+        },
+        "CMR-21": {
+            "birth": "26 de enero de 1995",
+            "club": "🇫🇷 F. C. Nantes",
+            "goals": 1,
+            "name": "Jean-Charles Castelletto",
+            "nationality": "🇫🇷 🇨🇲",
+            "picture": "https://digitalhub.fifa.com/transform/91286cbe-9c39-4225-a5eb-1754137ff097/1443093839",
+            "position": "CB",
+            "rating": 74
+        },
+        "CMR-22": {
+            "birth": "9 de febrero de 1996",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Swansea City A. F. C.",
+            "name": "Olivier Ntcham",
+            "nationality": "🇫🇷 🇨🇲",
+            "picture": "https://digitalhub.fifa.com/transform/b1676b30-b301-4863-8ab5-d488ef27dabc/1443092016",
+            "position": "CAM",
+            "rating": 72
+        },
+        "CMR-23": {
+            "birth": "2 de abril de 1996",
+            "club": "🇮🇹 Inter de Milán",
+            "name": "André Onana",
+            "nationality": "🇨🇲",
+            "picture": "https://digitalhub.fifa.com/transform/9c1d424a-20f4-4373-bd81-8b9b795d244c/1443091999",
+            "position": "GK",
+            "rating": 83
+        },
+        "CMR-24": {
+            "birth": "11 de marzo de 1999",
+            "club": "🇮🇹 Udinese Calcio",
+            "name": "Enzo Ebosse",
+            "nationality": "🇫🇷 🇨🇲",
+            "picture": "https://digitalhub.fifa.com/transform/84739644-3ead-4868-9298-dfd0408d0ac4/1443092573",
+            "position": "CB",
+            "rating": 71
+        },
+        "CMR-25": {
+            "birth": "23 de junio de 1997",
+            "club": "🇺🇸 Seattle Sounders F.C.",
+            "name": "Nouhou Tolo",
+            "nationality": "🇨🇲",
+            "picture": "https://digitalhub.fifa.com/transform/fbd130fc-dd7c-4384-b736-cff1f0efe7ac/1443092701",
+            "position": "LB",
+            "rating": 71
+        },
+        "CMR-26": {
+            "birth": "3 de diciembre de 2000",
+            "club": "🇨🇲 Coton Sport de Garoua",
+            "name": "Souaibou Marou",
+            "nationality": "🇨🇲",
+            "picture": "https://digitalhub.fifa.com/transform/eba02e6d-5a85-4ae2-bcc7-e28fe000b178/1443093764",
+            "position": "ST",
+            "rating": 66
         }
     },
     "teams": {
@@ -6714,7 +6951,7 @@
             "emblem": "https://4.bp.blogspot.com/-cncJTO6cPXk/WcAdWTld56I/AAAAAAABPLQ/-bhvm7PchjU3ysOo_-8OGmJootEBrwMwgCLcBGAs/s1600/Camerun.png",
             "flag": "🇨🇲",
             "name": "Camerún",
-            "players": 0
+            "players": 26
         },
         "POR": {
             "color": [
