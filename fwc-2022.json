@@ -7122,6 +7122,241 @@
             "picture": "https://digitalhub.fifa.com/transform/a456c27c-0885-4bdc-9e8b-6f6d1964fb3e/1443098348",
             "position": "RB",
             "rating": 70
+        },
+        "URU-1": {
+            "birth": "16 de junio de 1986",
+            "club": "🇹🇷 Galatasaray S. K.",
+            "name": "Fernando Muslera",
+            "nationality": "🇺🇾 🇦🇷",
+            "picture": "https://digitalhub.fifa.com/transform/fddf457a-f33a-4fbd-ac9c-f7e69ce8aecd/Uruguay-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "GK",
+            "rating": 80
+        },
+        "URU-2": {
+            "birth": "20 de enero de 1995",
+            "club": "🇪🇸 Atlético de Madrid",
+            "name": "José María Giménez",
+            "nationality": "🇺🇾 🇪🇸",
+            "picture": "https://digitalhub.fifa.com/transform/5cf7c4fe-32aa-46ca-bcd1-399e34f19600/Uruguay-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CB",
+            "rating": 83
+        },
+        "URU-3": {
+            "birth": "16 de febrero de 1986",
+            "club": "🇦🇷 C. A. Vélez Sarsfield",
+            "name": "Diego Godín",
+            "nationality": "🇺🇾 🇪🇸",
+            "picture": "https://digitalhub.fifa.com/transform/42f06674-737f-4da3-9563-7115f66d47f9/Uruguay-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CB",
+            "rating": 76
+        },
+        "URU-4": {
+            "birth": "7 de marzo de 1999",
+            "club": "🇪🇸 F. C. Barcelona",
+            "name": "Ronald Araujo",
+            "nationality": "🇺🇾",
+            "picture": "https://digitalhub.fifa.com/transform/e2a7c687-1f12-47f7-8602-e3fb57682fe1/Uruguay-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CB",
+            "rating": 83
+        },
+        "URU-5": {
+            "birth": "24 de agosto de 1991",
+            "club": "🇮🇹 S. S. Lazio",
+            "name": "Matias Vecino",
+            "nationality": "🇺🇾",
+            "picture": "https://digitalhub.fifa.com/transform/cddad9ac-b4a1-4169-afcc-aca725102e90/Uruguay-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CM",
+            "rating": 78
+        },
+        "URU-6": {
+            "birth": "25 de junio de 1997",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Tottenham Hotspur F. C.",
+            "name": "Rodrigo Bentancur",
+            "nationality": "🇺🇾",
+            "picture": "https://digitalhub.fifa.com/transform/b9b57415-58e6-4b91-9717-d9eaa1df3867/Uruguay-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CDM",
+            "rating": 82
+        },
+        "URU-7": {
+            "birth": "1 de junio de 1997",
+            "club": "🇦🇷 River Plate",
+            "name": "Nicolás De la Cruz",
+            "nationality": "🇺🇾 🇦🇷",
+            "picture": "https://digitalhub.fifa.com/transform/22dc251a-784c-44b7-acd7-336efcb50ac9/Uruguay-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CAM",
+            "rating": 78
+        },
+        "URU-8": {
+            "birth": "20 de diciembre de 2001",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester United F. C.",
+            "name": "Facundo Pellistri",
+            "nationality": "🇺🇾 🇪🇸",
+            "picture": "https://digitalhub.fifa.com/transform/65d4b97d-3a91-486a-94f2-89cc840d3919/Uruguay-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "RM",
+            "rating": 71
+        },
+        "URU-9": {
+            "birth": "24 de enero de 1987",
+            "club": "🇺🇾 Nacional",
+            "name": "Luis Suárez",
+            "nationality": "🇺🇾",
+            "picture": "https://digitalhub.fifa.com/transform/58017e56-34d2-4a8b-96f5-4b04ee926aab/Uruguay-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "ST",
+            "rating": 84
+        },
+        "URU-10": {
+            "birth": "1 de junio de 1994",
+            "club": "🇧🇷 C. R. Flamengo",
+            "goals": 2,
+            "name": "Giorgian De Arrascaeta",
+            "nationality": "🇺🇾",
+            "picture": "https://digitalhub.fifa.com/transform/29d16cfe-87de-4565-a8fc-6b67898ea5c2/Uruguay-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CAM",
+            "rating": 84
+        },
+        "URU-11": {
+            "birth": "24 de junio de 1999",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool F. C.",
+            "name": "Darwin Núñez",
+            "nationality": "🇺🇾",
+            "picture": "https://digitalhub.fifa.com/transform/5e5e87fe-d98f-40ae-b866-0f7c79a3b497/Uruguay-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "ST",
+            "rating": 82
+        },
+        "URU-12": {
+            "birth": "19 de agosto de 1986",
+            "club": "🇦🇷 Independiente",
+            "name": "Sebastián Sosa",
+            "nationality": "🇺🇾 🇲🇽",
+            "picture": "https://digitalhub.fifa.com/transform/733a5466-d608-42be-b2d6-f2c9d6cd8cd3/Uruguay-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "GK",
+            "rating": 74
+        },
+        "URU-13": {
+            "birth": "24 de marzo de 1993",
+            "club": "🇧🇷 C. R. Flamengo",
+            "name": "Guillermo Varela",
+            "nationality": "🇺🇾",
+            "picture": "https://digitalhub.fifa.com/transform/eb452350-a1ef-4bfa-a590-c2fb57005784/Uruguay-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "RB",
+            "rating": 72
+        },
+        "URU-14": {
+            "birth": "11 de febrero de 1996",
+            "club": "🇹🇷 Galatasaray S. K.",
+            "name": "Lucas Torreira",
+            "nationality": "🇺🇾",
+            "picture": "https://digitalhub.fifa.com/transform/b17ffac2-6a95-421f-adee-45ec690fa365/Uruguay-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CDM",
+            "rating": 82
+        },
+        "URU-15": {
+            "birth": "22 de julio de 1998",
+            "club": "🇪🇸 Real Madrid C. F.",
+            "name": "Federico Valverde",
+            "nationality": "🇺🇾 🇪🇸",
+            "picture": "https://digitalhub.fifa.com/transform/8981ad23-7f91-42a7-a1ae-81659ab80e81/Uruguay-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CM",
+            "rating": 86
+        },
+        "URU-16": {
+            "birth": "31 de octubre de 1997",
+            "club": "🇮🇹 S. S. C. Napoli",
+            "name": "Mathías Olivera",
+            "nationality": "🇺🇾",
+            "picture": "https://digitalhub.fifa.com/transform/e2fe8ed0-d78f-4706-9054-3833ccac319a/Uruguay-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "LB",
+            "rating": 79
+        },
+        "URU-17": {
+            "birth": "9 de noviembre de 1997",
+            "club": "🇮🇹 A. S. Roma",
+            "name": "Matías Viña",
+            "nationality": "🇺🇾",
+            "picture": "https://digitalhub.fifa.com/transform/9e3849d6-af10-4d8c-af1f-fdb42bb443e0/Uruguay-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "LWB",
+            "rating": 74
+        },
+        "URU-18": {
+            "birth": "14 de agosto de 1996",
+            "club": "🇹🇷 Trabzonspor",
+            "name": "Maximiliano Gómez",
+            "nationality": "🇺🇾",
+            "picture": "https://digitalhub.fifa.com/transform/f857d691-1652-42bb-bc41-4d8a55d831d1/Uruguay-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "ST",
+            "rating": 78
+        },
+        "URU-19": {
+            "birth": "7 de octubre de 1990",
+            "club": "🇵🇹 Sporting C. P.",
+            "name": "Sebastián Coates",
+            "nationality": "🇺🇾",
+            "picture": "https://digitalhub.fifa.com/transform/3c2ff7ba-7636-4d80-854a-e9e2e766fe45/Uruguay-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CB",
+            "rating": 81
+        },
+        "URU-20": {
+            "birth": "13 de abril de 2000",
+            "club": "🇺🇸 Orlando City S. C.",
+            "name": "Facundo Torres",
+            "nationality": "🇺🇾",
+            "picture": "https://digitalhub.fifa.com/transform/e9224f22-a215-4da8-ae09-355914b7a7c4/Uruguay-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CAM",
+            "rating": 73
+        },
+        "URU-21": {
+            "birth": "14 de febrero de 1987",
+            "club": "🇪🇸 Valencia C. F.",
+            "name": "Edinson Cavani",
+            "nationality": "🇺🇾 🇮🇹",
+            "picture": "https://digitalhub.fifa.com/transform/4ec8a736-ad71-44eb-8f55-8f51b33dc3d0/Uruguay-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "ST",
+            "rating": 81
+        },
+        "URU-22": {
+            "birth": "7 de abril de 1987",
+            "club": "🇺🇸 Los Angeles Galaxy",
+            "name": "Martín Cáceres",
+            "nationality": "🇺🇾",
+            "picture": "https://digitalhub.fifa.com/transform/7264d53d-261e-4a6b-8982-d4ee6fd128d0/Uruguay-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CB",
+            "rating": 72
+        },
+        "URU-23": {
+            "birth": "23 de marzo de 1993",
+            "club": "🇺🇾 Nacional",
+            "name": "Sergio Rochet",
+            "nationality": "🇺🇾",
+            "picture": "https://digitalhub.fifa.com/transform/898d3b60-29b9-4139-b40d-f5e77b633be9/Uruguay-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "GK",
+            "rating": 78
+        },
+        "URU-24": {
+            "birth": "1 de octubre de 1998",
+            "club": "🇧🇷 Athletico Paranaense",
+            "name": "Agustín Canobbio Graviz",
+            "nationality": "🇺🇾",
+            "picture": "https://digitalhub.fifa.com/transform/3fee1e25-3645-4b26-8656-9f1b10966b4e/Uruguay-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "RM",
+            "rating": 73
+        },
+        "URU-25": {
+            "birth": "11 de abril de 2001",
+            "club": "🇵🇹 Sporting C. P.",
+            "name": "Manuel Ugarte",
+            "nationality": "🇺🇾",
+            "picture": "https://digitalhub.fifa.com/transform/32356582-9555-43ae-919b-d33f3a8a1e37/Uruguay-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "CM",
+            "rating": 80
+        },
+        "URU-26": {
+            "birth": "14 de marzo de 1997",
+            "club": "🇺🇾 Nacional",
+            "name": "José Luis Rodriguez",
+            "nationality": "🇺🇾",
+            "picture": "https://digitalhub.fifa.com/transform/3ee556f2-9a5e-45ce-bc8d-f640da9e5776/Uruguay-Portraits-FIFA-World-Cup-Qatar-2022",
+            "position": "RB",
+            "rating": 72
         }
     },
     "teams": {
@@ -7464,7 +7699,7 @@
             "emblem": "https://1.bp.blogspot.com/-LJ7Wvrw3PVA/X4pYO4A-VuI/AAAAAAABg9I/-068kuPlJtcIuu-xvXA8W6jti0lKpvKIgCLcBGAsYHQ/s512/Uruguay.png",
             "flag": "🇺🇾",
             "name": "Uruguay",
-            "players": 0
+            "players": 26
         },
         "KOR": {
             "color": [
