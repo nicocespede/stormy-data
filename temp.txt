@@ -476,5 +476,12 @@ Ricardo Horta               1
 Pepe                        1
 Raphaël Guerreiro           1
 
-TOTAL                       108
-TOTAL GOLES                 158
+GHANA (4)                   5
+Mohammed Kudus              2
+André Ayew                  1
+Osman Bukari                1
+Mohamed Salisu Abdul Karim  1
+
+
+TOTAL                       112
+TOTAL GOLES                 163
