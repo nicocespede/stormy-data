@@ -6167,6 +6167,244 @@
             "picture": "https://digitalhub.fifa.com/transform/bea53c27-bdf5-4c2f-bcdd-0f260ecbcb89/1443091557",
             "position": "CM",
             "rating": 77
+        },
+        "SUI-1": {
+            "birth": "17 de diciembre de 1988",
+            "club": "🇩🇪 Borussia Mönchengladbach",
+            "name": "Yann Sommer",
+            "nationality": "🇨🇭",
+            "picture": "https://digitalhub.fifa.com/transform/4a844004-219f-49ee-8519-9536c658bc1a/1441890376",
+            "position": "GK",
+            "rating": 85
+        },
+        "SUI-2": {
+            "birth": "15 de abril de 1996",
+            "club": "🇩🇪 1. FSV Mainz 05",
+            "name": "Edimilson Fernandes",
+            "nationality": "🇨🇭 🇵🇹",
+            "picture": "https://digitalhub.fifa.com/transform/afb77418-f911-497c-b2e5-2e9a2db3e8e7/1441891440",
+            "position": "CDM",
+            "rating": 73
+        },
+        "SUI-3": {
+            "birth": "5 de marzo de 1993",
+            "club": "🇩🇪 1. FSV Mainz 05",
+            "name": "Silvan Widmer",
+            "nationality": "🇨🇭",
+            "picture": "https://digitalhub.fifa.com/transform/0fe57dc4-12a8-4940-aab4-676b9f3eec02/1441891348",
+            "position": "RWB",
+            "rating": 76
+        },
+        "SUI-4": {
+            "birth": "30 de septiembre de 1996",
+            "club": "🇩🇪 Borussia Mönchengladbach",
+            "name": "Nico Elvedi",
+            "nationality": "🇨🇭",
+            "picture": "https://digitalhub.fifa.com/transform/460cdd71-ae5b-4672-8f92-d0243c6866b6/1441890920",
+            "position": "CB",
+            "rating": 77
+        },
+        "SUI-5": {
+            "birth": "19 de julio de 1995",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester City F. C.",
+            "goals": 1,
+            "name": "Manuel Akanji",
+            "nationality": "🇨🇭",
+            "picture": "https://digitalhub.fifa.com/transform/a3cb401e-0151-44e1-ae43-80d161cc00cf/1441890533",
+            "position": "CB",
+            "rating": 82
+        },
+        "SUI-6": {
+            "birth": "20 de noviembre de 1996",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Chelsea F. C.",
+            "name": "Denis Zakaria",
+            "nationality": "🇨🇭 🇨🇩",
+            "picture": "https://digitalhub.fifa.com/transform/45ed28c6-ec86-4263-a1c4-4eb97b35a306/1441890606",
+            "position": "CDM",
+            "rating": 80
+        },
+        "SUI-7": {
+            "birth": "14 de febrero de 1997",
+            "club": "🇫🇷 A. S. Monaco F. C.",
+            "goals": 2,
+            "name": "Breel Embolo",
+            "nationality": "🇨🇭",
+            "picture": "https://digitalhub.fifa.com/transform/fddde1f0-9b46-47d1-8339-ff469f5971d4/1441890674",
+            "position": "ST",
+            "rating": 78
+        },
+        "SUI-8": {
+            "birth": "15 de abril de 1992",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Nottingham Forest F. C.",
+            "goals": 1,
+            "name": "Remo Freuler",
+            "nationality": "🇨🇭",
+            "picture": "https://digitalhub.fifa.com/transform/5bb0c1d1-8e43-48ba-b69b-7c3e2d23c399/1441890500",
+            "position": "CM",
+            "rating": 79
+        },
+        "SUI-9": {
+            "birth": "22 de febrero de 1992",
+            "club": "🇹🇷 Galatasaray S. K.",
+            "name": "Haris Seferović",
+            "nationality": "🇨🇭",
+            "picture": "https://digitalhub.fifa.com/transform/e502a8ec-1123-4e4e-a7a0-c158386a1676/1441890438",
+            "position": "ST",
+            "rating": 75
+        },
+        "SUI-10": {
+            "birth": "27 de septiembre de 1992",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Arsenal F. C.",
+            "name": "Granit Xhaka",
+            "nationality": "🇨🇭 🇽🇰 🇦🇱",
+            "picture": "https://digitalhub.fifa.com/transform/6e96ca24-1db5-420a-ae84-2c3fec06e475/1441890746",
+            "position": "CDM",
+            "rating": 82
+        },
+        "SUI-11": {
+            "birth": "3 de noviembre de 1991",
+            "club": "🇨🇭 F. C. Lugano",
+            "name": "Renato Steffen",
+            "nationality": "🇨🇭",
+            "picture": "https://digitalhub.fifa.com/transform/64096447-c826-4d52-8a3b-5091d9e5eb9f/1441891378",
+            "position": "LM",
+            "rating": 76
+        },
+        "SUI-12": {
+            "birth": "10 de enero de 1994",
+            "club": "🇫🇷 Montpellier H. S. C.",
+            "name": "Jonas Omlin",
+            "nationality": "🇨🇭",
+            "picture": "https://digitalhub.fifa.com/transform/5158dc8c-edb2-4014-81bd-316ee431bab5/1441891522",
+            "position": "GK",
+            "rating": 80
+        },
+        "SUI-13": {
+            "birth": "25 de agosto de 1992",
+            "club": "🇮🇹 Torino F. C.",
+            "name": "Ricardo Rodríguez",
+            "nationality": "🇨🇭",
+            "picture": "https://digitalhub.fifa.com/transform/552960e1-f94a-4414-a752-66143bc00743/1441891668",
+            "position": "CDM",
+            "rating": 74
+        },
+        "SUI-14": {
+            "birth": "6 de enero de 1997",
+            "club": "🇮🇹 Bologna F. C.",
+            "name": "Michel Aebischer",
+            "nationality": "🇨🇭",
+            "picture": "https://digitalhub.fifa.com/transform/c5bb2ce3-9e57-40dc-aaa9-c1a1cb6a6be5/1441891019",
+            "position": "CM",
+            "rating": 74
+        },
+        "SUI-15": {
+            "birth": "6 de febrero de 1997",
+            "club": "🇩🇪 Eintracht Fráncfort",
+            "name": "Djibril Sow",
+            "nationality": "🇨🇭",
+            "picture": "https://digitalhub.fifa.com/transform/a1ff59a2-300d-4d9e-b025-db58bf61d756/1441891481",
+            "position": "CM",
+            "rating": 80
+        },
+        "SUI-16": {
+            "birth": "11 de noviembre de 1993",
+            "club": "🇨🇭 B. S. C. Young Boys",
+            "name": "Christian Fassnacht",
+            "nationality": "🇨🇭",
+            "picture": "https://digitalhub.fifa.com/transform/32f29fa8-e810-4ec8-8ca0-bed50fac6138/1441891103",
+            "position": "RM",
+            "rating": 76
+        },
+        "SUI-17": {
+            "birth": "5 de agosto de 1998",
+            "club": "🇩🇪 F. C. Augsburgo",
+            "name": "Ruben Vargas",
+            "nationality": "🇨🇭",
+            "picture": "https://digitalhub.fifa.com/transform/a1d34b8d-3d54-4d42-92e4-02135078e64e/1441891203",
+            "position": "LM",
+            "rating": 74
+        },
+        "SUI-18": {
+            "birth": "4 de febrero de 1998",
+            "club": "🇪🇸 Valencia C. F.",
+            "name": "Eray Cömert",
+            "nationality": "🇨🇭",
+            "picture": "https://digitalhub.fifa.com/transform/cc63e46f-00f4-4bd1-8316-6724ec928dbf/1441891300",
+            "position": "CB",
+            "rating": 74
+        },
+        "SUI-19": {
+            "birth": "24 de mayo de 2000",
+            "club": "🇦🇹 Red Bull Salzburgo",
+            "name": "Noah Okafor",
+            "nationality": "🇨🇭",
+            "picture": "https://digitalhub.fifa.com/transform/85dce406-409c-4fb0-80b7-4698c364f4a3/1441891254",
+            "position": "RM",
+            "rating": 76
+        },
+        "SUI-20": {
+            "birth": "8 de enero de 1989",
+            "club": "🇨🇭 F. C. Basilea",
+            "name": "Fabian Frei",
+            "nationality": "🇨🇭",
+            "picture": "https://digitalhub.fifa.com/transform/62090036-08ea-49b8-906b-ec0345b48466/1441891567",
+            "position": "CDM",
+            "rating": 71
+        },
+        "SUI-21": {
+            "birth": "6 de diciembre de 1997",
+            "club": "🇩🇪 Borussia Dortmund",
+            "name": "Gregor Kobel",
+            "nationality": "🇨🇭",
+            "picture": "https://digitalhub.fifa.com/transform/1b8436f2-6db9-4fb0-877d-e3a908356eb8/1441890332",
+            "position": "GK",
+            "rating": 86
+        },
+        "SUI-22": {
+            "birth": "20 de diciembre de 1991",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Newcastle United F. C.",
+            "name": "Fabian Schär",
+            "nationality": "🇨🇭",
+            "picture": "https://digitalhub.fifa.com/transform/12c8ce4e-a873-49c2-b8a8-dfe16853b3e8/1441891589",
+            "position": "CB",
+            "rating": 81
+        },
+        "SUI-23": {
+            "birth": "10 de octubre de 1991",
+            "club": "🇺🇸 Chicago Fire",
+            "goals": 1,
+            "name": "Xherdan Shaqiri",
+            "nationality": "🇨🇭",
+            "picture": "https://digitalhub.fifa.com/transform/aafe4a81-10c9-490b-bf36-6109a9d6df76/1441890848",
+            "position": "CAM",
+            "rating": 76
+        },
+        "SUI-24": {
+            "birth": "2 de abril de 1998",
+            "club": "🇦🇹 Red Bull Salzburgo",
+            "name": "Philipp Köhn",
+            "nationality": "🇩🇪 🇨🇭",
+            "picture": "https://digitalhub.fifa.com/transform/d59a479e-9eea-486e-a1e8-3222fbed4895/1441890363",
+            "position": "GK",
+            "rating": 71
+        },
+        "SUI-25": {
+            "birth": "16 de febrero de 2002",
+            "club": "🇨🇭 B. S. C. Young Boys",
+            "name": "Fabian Rieder",
+            "nationality": "🇨🇭",
+            "picture": "https://digitalhub.fifa.com/transform/c0f5e76f-0072-4e3d-9794-eeee02c823ee/1441891070",
+            "position": "CAM",
+            "rating": 72
+        },
+        "SUI-26": {
+            "birth": "30 de julio de 2002",
+            "club": "🇨🇭 F. C. Lucerna",
+            "name": "Ardon Jashari",
+            "nationality": "🇨🇭",
+            "picture": "https://digitalhub.fifa.com/transform/d4cf5de0-e2ce-4569-801d-4afa34a4bff6/1441891145",
+            "position": "CAM",
+            "rating": 70
         }
     },
     "teams": {
@@ -6465,7 +6703,7 @@
             "emblem": "https://4.bp.blogspot.com/-qyYDEzk-pLk/WelkasxEy0I/AAAAAAABP60/xHCWkjsKyd8NCHz-HOS-dyVyfoDm49RYACLcBGAs/s1600/Suiza.png",
             "flag": "🇨🇭",
             "name": "Suiza",
-            "players": 0
+            "players": 26
         },
         "CMR": {
             "color": [

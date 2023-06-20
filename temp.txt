@@ -235,6 +235,7 @@
 _______________________________________
 
 BANDERAS 
+albania: 🇦🇱
 alemania: 🇩🇪
 angola: 🇦🇴
 arabia saudita: 🇸🇦
@@ -279,6 +280,7 @@ italia: 🇮🇹
 jamaica: 🇯🇲
 japon: 🇯🇵
 kenia: 🇰🇪
+kosovo: 🇽🇰
 kuwait: 🇰🇼
 liberia: 🇱🇷
 marruecos: 🇲🇦
@@ -452,5 +454,11 @@ Strahinja Pavlović      1
 Sergej Milinković-Savić 1
 Dušan Vlahović          1
 
-TOTAL                   93
-TOTAL GOLES             137
+SUIZA (4)               5
+Breel Embolo            2
+Xherdan Shaqiri         1
+Remo Freuler            1
+Manuel Akanji           1
+
+TOTAL                   97
+TOTAL GOLES             142
