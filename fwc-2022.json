@@ -6642,6 +6642,248 @@
             "picture": "https://digitalhub.fifa.com/transform/eba02e6d-5a85-4ae2-bcc7-e28fe000b178/1443093764",
             "position": "ST",
             "rating": 66
+        },
+        "POR-1": {
+            "birth": "15 de febrero de 1988",
+            "club": "🇮🇹 A. S. Roma",
+            "name": "Rui Pedro dos Santos Patrício",
+            "nationality": "🇵🇹",
+            "picture": "https://digitalhub.fifa.com/transform/f4e4fea4-17a1-4242-ab3f-b6799e37e11c/1442846670",
+            "position": "GK",
+            "rating": 80
+        },
+        "POR-2": {
+            "birth": "18 de marzo de 1999",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester United F. C.",
+            "name": "José Diogo Dalot Teixeira",
+            "nationality": "🇵🇹",
+            "picture": "https://digitalhub.fifa.com/transform/97c144d8-c021-43ae-a796-0ad5e9e1b7e8/1442847847",
+            "position": "RB",
+            "rating": 80
+        },
+        "POR-3": {
+            "birth": "26 de febrero de 1983",
+            "club": "🇵🇹 F. C. Porto",
+            "goals": 1,
+            "name": "Képler Laveran Lima Ferreira",
+            "nationality": "🇧🇷 🇵🇹",
+            "picture": "https://digitalhub.fifa.com/transform/930157af-3408-4d6e-aa2d-33d2fa062d3c/1442847606",
+            "position": "CB",
+            "rating": 81
+        },
+        "POR-4": {
+            "birth": "14 de mayo de 1997",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester City F. C.",
+            "name": "Rúben Santos Gato Alves Dias",
+            "nationality": "🇵🇹",
+            "picture": "https://digitalhub.fifa.com/transform/be68559f-6bda-4cac-8514-39c853ddee1f/1442847980",
+            "position": "CB",
+            "rating": 88
+        },
+        "POR-5": {
+            "birth": "22 de diciembre de 1993",
+            "club": "🇩🇪 Borussia Dortmund",
+            "goals": 1,
+            "name": "Raphaël Guerreiro",
+            "nationality": "🇵🇹 🇫🇷",
+            "picture": "https://digitalhub.fifa.com/transform/119d9c43-4c34-4902-871b-455c7f17fe21/1442847796",
+            "position": "CAM",
+            "rating": 83
+        },
+        "POR-6": {
+            "birth": "9 de julio de 1995",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Fulham F. C.",
+            "name": "João Maria Palhinha Gonçalves",
+            "nationality": "🇵🇹",
+            "picture": "https://digitalhub.fifa.com/transform/11a24783-5723-457b-b3ee-e101d35ec5b8/1442848543",
+            "position": "CB",
+            "rating": 82
+        },
+        "POR-7": {
+            "birth": "5 de febrero de 1985",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester United F. C.",
+            "goals": 1,
+            "name": "Cristiano Ronaldo",
+            "nationality": "🇵🇹",
+            "picture": "https://digitalhub.fifa.com/transform/8fe3826e-c297-436a-9df9-5db29f5cc92b/1442847713",
+            "position": "ST",
+            "rating": 87
+        },
+        "POR-8": {
+            "birth": "8 de septiembre de 1994",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester United F. C.",
+            "goals": 2,
+            "name": "Bruno Miguel Borges Fernandes",
+            "nationality": "🇵🇹",
+            "picture": "https://digitalhub.fifa.com/transform/3e3b2874-9a85-4e3f-8a80-a82a5868d29a/1442847922",
+            "position": "CAM",
+            "rating": 87
+        },
+        "POR-9": {
+            "birth": "6 de noviembre de 1995",
+            "club": "🇩🇪 R. B. Leipzig",
+            "name": "André Miguel Valente da Silva",
+            "nationality": "🇵🇹",
+            "picture": "https://digitalhub.fifa.com/transform/e7808c91-d650-47a3-8d5f-1b57136c05e2/1442847901",
+            "position": "ST",
+            "rating": 81
+        },
+        "POR-10": {
+            "birth": "10 de agosto de 1994",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester City F. C.",
+            "name": "Bernardo Mota Carvalho e Silva",
+            "nationality": "🇵🇹",
+            "picture": "https://digitalhub.fifa.com/transform/c63cbee9-0026-453b-a7a6-9dc8d8ffed03/1442847721",
+            "position": "CAM",
+            "rating": 88
+        },
+        "POR-11": {
+            "birth": "10 de noviembre de 1999",
+            "club": "🇪🇸 Atlético de Madrid",
+            "goals": 1,
+            "name": "João Félix Sequeira",
+            "nationality": "🇵🇹",
+            "picture": "https://digitalhub.fifa.com/transform/cdec8e15-202c-4960-b00c-cfa8fa5d9cc1/1442848552",
+            "position": "CAM",
+            "rating": 83
+        },
+        "POR-12": {
+            "birth": "17 de enero de 1993",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Wolverhampton F. C.",
+            "name": "José Pedro Malheiro de Sá",
+            "nationality": "🇵🇹",
+            "picture": "https://digitalhub.fifa.com/transform/41d05eb0-ca98-4e83-82b9-3bf67305f78c/1442846737",
+            "position": "GK",
+            "rating": 80
+        },
+        "POR-13": {
+            "birth": "9 de septiembre de 1991",
+            "club": "🇫🇷 París Saint-Germain F. C.",
+            "name": "Danilo Luís Hélio Pereira",
+            "nationality": "🇬🇼 🇵🇹",
+            "picture": "https://digitalhub.fifa.com/transform/20458725-2feb-41d3-a507-cc205dd4553e/1442847629",
+            "position": "CDM",
+            "rating": 81
+        },
+        "POR-14": {
+            "birth": "7 de abril de 1992",
+            "club": "🇪🇸 Real Betis Balompié",
+            "name": "William Silva de Carvalho",
+            "nationality": "🇵🇹",
+            "picture": "https://digitalhub.fifa.com/transform/89980cdc-a356-443f-8ca8-38dbd2862f35/1442847659",
+            "position": "CDM",
+            "rating": 81
+        },
+        "POR-15": {
+            "birth": "10 de junio de 1999",
+            "club": "🇮🇹 A. C. Milan",
+            "goals": 2,
+            "name": "Rafael da Conceição Leão",
+            "nationality": "🇵🇹",
+            "picture": "https://digitalhub.fifa.com/transform/1fc6f198-1763-4973-860b-fd8e35daee97/1442848571",
+            "position": "LW",
+            "rating": 84
+        },
+        "POR-16": {
+            "birth": "13 de febrero de 2000",
+            "club": "🇫🇷 París Saint-Germain F. C.",
+            "name": "Vítor Machado Ferreira",
+            "nationality": "🇵🇹",
+            "picture": "https://digitalhub.fifa.com/transform/827510dd-33d7-4ef8-b918-f7a299d12099/1442848694",
+            "position": "CAM",
+            "rating": 80
+        },
+        "POR-17": {
+            "birth": "19 de enero de 1993",
+            "club": "🇵🇹 S. L. Benfica",
+            "name": "João Mário N. Costa Eduardo",
+            "nationality": "🇵🇹",
+            "picture": "https://digitalhub.fifa.com/transform/5322c6a4-90bd-4776-94bd-a62d174f72a3/1442847835",
+            "position": "CM",
+            "rating": 82
+        },
+        "POR-18": {
+            "birth": "13 de marzo de 1997",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Wolverhampton F. C.",
+            "name": "Rúben Diogo da Silva Neves",
+            "nationality": "🇵🇹",
+            "picture": "https://digitalhub.fifa.com/transform/dc3f86c5-7b31-4af9-a562-8139ccb236e5/1442848529",
+            "position": "CM",
+            "rating": 83
+        },
+        "POR-19": {
+            "birth": "19 de junio de 2002",
+            "club": "🇫🇷 París Saint-Germain F. C.",
+            "name": "Nuno Alexandre Tavares Mendes",
+            "nationality": "🇵🇹",
+            "picture": "https://digitalhub.fifa.com/transform/481d8bde-2a68-4eff-89f5-7891c1863947/1442847954",
+            "position": "LB",
+            "rating": 81
+        },
+        "POR-20": {
+            "birth": "27 de mayo de 1994",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester City F. C.",
+            "name": "João Pedro Cavaco Cancelo",
+            "nationality": "🇵🇹",
+            "picture": "https://digitalhub.fifa.com/transform/0c50ce7d-9c6c-4787-8416-d145f01d745f/1442847932",
+            "position": "LB",
+            "rating": 87
+        },
+        "POR-21": {
+            "birth": "15 de septiembre de 1994",
+            "club": "🇵🇹 S. C. Braga",
+            "goals": 1,
+            "name": "Ricardo Jorge da Luz Horta",
+            "nationality": "🇵🇹",
+            "picture": "https://digitalhub.fifa.com/transform/02bfdfd2-b316-46a9-ac97-96fa30c173f0/1442848733",
+            "position": "CF",
+            "rating": 82
+        },
+        "POR-22": {
+            "birth": "19 de septiembre de 1999",
+            "club": "🇵🇹 F. C. Porto",
+            "name": "Diogo Meireles Costa",
+            "nationality": "🇵🇹",
+            "picture": "https://digitalhub.fifa.com/transform/b0e508bd-f26e-469c-9cb7-1bf875b9033e/1442846689",
+            "position": "GK",
+            "rating": 82
+        },
+        "POR-23": {
+            "birth": "27 de agosto de 1998",
+            "club": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Wolverhampton F. C.",
+            "name": "Matheus Luiz Nunes",
+            "nationality": "🇧🇷 🇵🇹",
+            "picture": "https://digitalhub.fifa.com/transform/4ac1b566-1a8e-46ca-8421-f2f79875bb14/1442848590",
+            "position": "CAM",
+            "rating": 79
+        },
+        "POR-24": {
+            "birth": "31 de octubre de 2003",
+            "club": "🇵🇹 S. L. Benfica",
+            "name": "António João Tavares Silva",
+            "nationality": "🇵🇹",
+            "picture": "https://digitalhub.fifa.com/transform/3d3aaab4-6e2f-4d33-aae0-2151418d188a/1442848712",
+            "position": "CB",
+            "rating": 78
+        },
+        "POR-25": {
+            "birth": "9 de febrero de 1995",
+            "club": "🇵🇹 F. C. Porto",
+            "name": "Otávio Edmilson da Silva Monteiro",
+            "nationality": "🇧🇷 🇵🇹",
+            "picture": "https://digitalhub.fifa.com/transform/61199054-6cb0-4e99-b8e6-f179ba40582b/1442848641",
+            "position": "RM",
+            "rating": 82
+        },
+        "POR-26": {
+            "birth": "20 de junio de 2001",
+            "club": "🇵🇹 S. L. Benfica",
+            "goals": 3,
+            "name": "Gonçalo Matias Ramos",
+            "nationality": "🇵🇹",
+            "picture": "https://digitalhub.fifa.com/transform/44eba325-19a0-437f-9b73-b626db593dba/1442848722",
+            "position": "ST",
+            "rating": 80
         }
     },
     "teams": {
@@ -6962,7 +7204,7 @@
             "emblem": "https://2.bp.blogspot.com/-hXhGqd94_X0/WelnEaKHc0I/AAAAAAABP7I/hRxU_qnViKwxafKrwAkTkCxvSIXZVY4ewCLcBGAs/s1600/Portugal.png",
             "flag": "🇵🇹",
             "name": "Portugal",
-            "players": 0
+            "players": 26
         },
         "GHA": {
             "color": [

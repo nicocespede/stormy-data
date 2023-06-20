@@ -466,5 +466,15 @@ Vincent Aboubakar           2
 Jean-Charles Castelletto    1
 Eric Maxim Choupo-Moting    1
 
-TOTAL                       100
-TOTAL GOLES                 146
+PORTUGAL (8)                12
+Gonçalo Ramos               3
+Bruno Fernandes             2
+Rafael Leão                 2
+Cristiano Ronaldo           1
+João Félix                  1
+Ricardo Horta               1
+Pepe                        1
+Raphaël Guerreiro           1
+
+TOTAL                       108
+TOTAL GOLES                 158
