@@ -498,5 +498,10 @@
         "name": "Ant-Man and the Wasp: Quantumania",
         "type": "Película",
         "reference": "81"
+    },
+    {
+        "name": "Secret Invasion Season 1",
+        "type": "Serie",
+        "reference": "82"
     }
 ]

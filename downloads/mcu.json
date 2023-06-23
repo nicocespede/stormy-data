@@ -5380,5 +5380,55 @@
                 "password": "www.compucalitv.com"
             }
         }
+    },
+    "82": {
+        "name": "Secret Invasion Season 1",
+        "year": "2023",
+        "color": [
+            54,
+            53,
+            57
+        ],
+        "updateInfo": "",
+        "versions": {
+            "1080p": {
+                "files": 1,
+                "lastUpdate": "23/06/2023",
+                "links": {
+                    "1Fichier": [
+                        "https://1fichier.com/?6bhjyrwngr4teye36czu"
+                    ],
+                    "Uptobox": [
+                        "https://uptobox.com/x0mxbnww1f87"
+                    ],
+                    "Mediafire": [
+                        "https://www.mediafire.com/folder/7g3gf0njrop4q/IS-S1E1"
+                    ],
+                    "MEGA": [
+                        "https://mega.nz/folder/wJxVyJIA#9f7SDkHXCWFF5PFHhc1Iyg"
+                    ]
+                },
+                "password": "www.compucalitv.com"
+            },
+            "4K": {
+                "files": 1,
+                "lastUpdate": "23/06/2023",
+                "links": {
+                    "1Fichier": [
+                        "https://1fichier.com/?554es9nhme4h6wsw0xch"
+                    ],
+                    "Uptobox": [
+                        "https://uptobox.com/jsfhq93bpujl"
+                    ],
+                    "Mediafire": [
+                        "https://www.mediafire.com/folder/qza9yp4040dbl/E1-4"
+                    ],
+                    "MEGA": [
+                        "https://mega.nz/folder/Uj9wUJJT#ss61EzvW3Zz2Nyhezr4Scg"
+                    ]
+                },
+                "password": "www.compucalitv.com"
+            }
+        }
     }
 }
