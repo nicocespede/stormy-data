@@ -1176,34 +1176,45 @@
         },
         {
             "id": "1326470",
-            "version": "Build 23032023",
-            "lastUpdate": "24/03/2023",
-            "updateInfo": " a la Build 23032023",
+            "version": "V36798",
+            "lastUpdate": "09/07/2023",
+            "updateInfo": " a la V36798",
             "instructions": {
-                "Files for the game": [
-                    "1. Descarga el juego **Sons Of The Forest** y extráelo a cualquier carpeta."
+                "INSTRUCCIONES": [
+                    "1. Descargar el juego",
+                    "2. Descomprimir carpeta RAR",
+                    "3. Ejecutar el juego como Administrador",
+                    "4. Jugar 😉"
                 ],
-                "How to run": [
-                    "1. Inicie **Steam**, vaya a su perfil.",
-                    "",
-                    "2. Ejecute el juego a través de **SonsOfTheForest.exe**."
-                ],
-                "In the game": [
-                    "__Conexión:__ Aceptamos invitaciones de un amigo.",
-                    "",
-                    "__Creación de servidor:__ Multijugador → Anfitrión → Nuevo juego → Elegir dificultad → Seleccionar número de jugadores → Iniciar → Invitar a un amigo → Seleccionar amigo → comenzar."
+                "►  PARA JUGAR ONLINE": [
+                    "1. Descargar y descomprimir el crack online",
+                    "2. Copiar el contenido del crack y pegarlo en la carpeta del juego",
+                    "3. Abrir Steam como Administrador",
+                    "4. Ejecutar el juego como Administrador",
+                    "5. Invitar a su amigo de steam a unirse enviar invitación desde el chat de steam"
                 ]
             },
             "links": {
                 "game": {
-                    "files": 2,
-                    "Online Fix": [
-                        "https://online-fix.me/games/survival/17220-sons-of-the-forest-po-seti.html"
+                    "files": 1,
+                    "MEGA": [
+                        "https://mega.nz/file/5XM2SBZS#592PCuHj_4FZMaE3lUkwIHzv1dERzo6omKKN4JKT_Zg"
                     ],
-                    "Torrent": [
-                        "https://drive.google.com/file/d/1nJkAGFi8zit4glyrf1Aamvvw20xpbJEE/view?usp=share_link"
+                    "Mediafire": [
+                        "https://www.mediafire.com/file/7lnvz6ozvxw7x2l"
                     ],
-                    "password": "online-fix.me"
+                    "Openload": [
+                        "https://openload.cc/dcF6W9ycz2"
+                    ]
+                },
+                "crack": {
+                    "files": 1,
+                    "MEGA": [
+                        "https://mega.nz/file/riQiGbDR#37bmE8uHHkhIIndVP8ewz8SEztW9nIS3dfI7OyO0d64"
+                    ],
+                    "Racaty": [
+                        "https://racaty.io/gjnjgd73jyhb"
+                    ]
                 }
             }
         },
