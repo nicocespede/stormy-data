@@ -1176,44 +1176,32 @@
         },
         {
             "id": "1326470",
-            "version": "V36798",
-            "lastUpdate": "09/07/2023",
-            "updateInfo": " a la V36798",
+            "version": "Build 25072023",
+            "lastUpdate": "27/07/2023",
+            "updateInfo": " a la Build 25072023",
             "instructions": {
-                "INSTRUCCIONES": [
-                    "1. Descargar el juego",
-                    "2. Descomprimir carpeta RAR",
-                    "3. Ejecutar el juego como Administrador",
-                    "4. Jugar 😉"
+                "Files for the game": [
+                    "1. Download the game **Sons Of The Forest** and unpack it to any folder."
                 ],
-                "►  PARA JUGAR ONLINE": [
-                    "1. Descargar y descomprimir el crack online",
-                    "2. Copiar el contenido del crack y pegarlo en la carpeta del juego",
-                    "3. Abrir Steam como Administrador",
-                    "4. Ejecutar el juego como Administrador",
-                    "5. Invitar a su amigo de steam a unirse enviar invitación desde el chat de steam"
+                "How to run": [
+                    "1. Launch Steam, go to your profile.",
+                    "2. Run the game through **SonsOfTheForest.exe**."
+                ],
+                "In the game": [
+                    "__Connection:__",
+                    "We accept invitations from a friend.",
+                    "__Server Creation:__",
+                    "Multiplayer → Host → New Game → Choose Difficulty → Select Number of Players → Start → Invite Friend → Select Friend → Start."
                 ]
             },
             "links": {
                 "game": {
-                    "files": 1,
-                    "MEGA": [
-                        "https://mega.nz/file/5XM2SBZS#592PCuHj_4FZMaE3lUkwIHzv1dERzo6omKKN4JKT_Zg"
+                    "files": 2,
+                    "Torrent": [
+                        "https://drive.google.com/file/d/1izPf9sDJSlaeDozhv8Duhv2cERzLWUog/view?usp=sharing"
                     ],
-                    "Mediafire": [
-                        "https://www.mediafire.com/file/7lnvz6ozvxw7x2l"
-                    ],
-                    "Openload": [
-                        "https://openload.cc/dcF6W9ycz2"
-                    ]
-                },
-                "crack": {
-                    "files": 1,
-                    "MEGA": [
-                        "https://mega.nz/file/riQiGbDR#37bmE8uHHkhIIndVP8ewz8SEztW9nIS3dfI7OyO0d64"
-                    ],
-                    "Racaty": [
-                        "https://racaty.io/gjnjgd73jyhb"
+                    "Online Fix": [
+                        "https://online-fix.me/games/survival/17220-sons-of-the-forest-po-seti.html"
                     ]
                 }
             }
