@@ -5389,42 +5389,31 @@
             16,
             128
         ],
-        "updateInfo": " primer subida",
+        "updateInfo": " subida la versión IMAX",
         "versions": {
             "1080p": {
-                "files": 6,
-                "lastUpdate": "07/07/2023",
+                "files": 5,
+                "lastUpdate": "03/08/2023",
                 "links": {
+                    "Mediafire": [
+                        "https://www.mediafire.com/folder/tef68wq8oh9vj/IMX18p"
+                    ],
                     "1Fichier": [
-                        "https://1fichier.com/?0uzr3s9k6lc07niiukwy",
-                        "https://1fichier.com/?1q41e1758279dtyxr9wm",
-                        "https://1fichier.com/?ejlfl0j56xyl29ekk4tl",
-                        "https://1fichier.com/?0sorxb5it8vwpl0f3rz1",
-                        "https://1fichier.com/?mpg22b8c3jk83zus8o1p",
-                        "https://1fichier.com/?ojdkd0ime2iuzzknk0ib"
+                        "https://1fichier.com/?6tbbduhgkk7lvq4xtzzc",
+                        "https://1fichier.com/?xbvggewvcmlaipukvafz",
+                        "https://1fichier.com/?lpiy1ikseerh2igd90zs",
+                        "https://1fichier.com/?8kts6l1e1ot4u2rtelqn",
+                        "https://1fichier.com/?5bp0nxupe7h16xztaaia"
                     ],
                     "Uptobox": [
-                        "https://uptobox.com/tu22pwfzphdg",
-                        "https://uptobox.com/1qyn4fnxybps",
-                        "https://uptobox.com/1j4p4mz92ejc",
-                        "https://uptobox.com/2yywnkijt0s9",
-                        "https://uptobox.com/xp2zhg55co01",
-                        "https://uptobox.com/0wnp4z87ncx2"
-                    ],
-                    "Gofile": [
-                        "https://gofile.io/d/7K01yE",
-                        "https://gofile.io/d/ivkWQn",
-                        "https://gofile.io/d/vgPXJJ",
-                        "https://gofile.io/d/Q8cFDJ",
-                        "https://gofile.io/d/enMcPA",
-                        "https://gofile.io/d/ckoJgL"
+                        "https://uptobox.com/olshcfxrd2km",
+                        "https://uptobox.com/3kzyg755w7nx",
+                        "https://uptobox.com/wsuj94ixrfg9",
+                        "https://uptobox.com/ws076wmwc7z5",
+                        "https://uptobox.com/xhrlp8k1uu7u"
                     ],
                     "MEGA": [
-                        "https://mega.nz/folder/wqdTzJLK#Vfbms_e7ZVTfErvyruRpPA"
-                    ],
-                    "Mediafire": [
-                        "https://www.mediafire.com/folder/7ottbvxg6nezx/GG-p1",
-                        "https: //www.mediafire.com/folder/25y43gmm9e898/p2"
+                        "https://mega.nz/folder/CUVBGK7R#jdTa1qrg0OXIaJwzphvaDg"
                     ]
                 },
                 "password": "www.compucalitv.com"
