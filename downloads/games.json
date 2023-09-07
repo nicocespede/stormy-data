@@ -299,100 +299,41 @@
         },
         {
             "id": "962130",
-            "version": "V1.0.5.3952",
-            "lastUpdate": "29/10/2022",
-            "updateInfo": " a la versión 1.0.5.3952",
+            "version": "V1.2.4.4140",
+            "lastUpdate": "09/09/2023",
+            "updateInfo": " a la versión 1.2.4.4140",
             "links": {
                 "game": {
-                    "files": 18,
-                    "MEGA": [
-                        "https://mega.nz/folder/zQQyQYLA#HTbT6vuJQJpJ8wSY1_0M2g"
-                    ],
-                    "Zippyshare": [
-                        "https://www55.zippyshare.com/v/KqaVsvEY/file.html",
-                        "https://www106.zippyshare.com/v/hdzPznVy/file.html",
-                        "https://www4.zippyshare.com/v/cDQYWqtf/file.html",
-                        "https://www11.zippyshare.com/v/vIAmQc6q/file.html",
-                        "https://www81.zippyshare.com/v/IcxiTMkW/file.html",
-                        "https://www37.zippyshare.com/v/vhrgsXYx/file.html",
-                        "https://www71.zippyshare.com/v/DadqSWdf/file.html",
-                        "https://www29.zippyshare.com/v/ZzSLVJKx/file.html",
-                        "https://www27.zippyshare.com/v/ePrOuwlb/file.html",
-                        "https://www23.zippyshare.com/v/qY1nsmyw/file.html",
-                        "https://www4.zippyshare.com/v/o8Zfy4e9/file.html",
-                        "https://www110.zippyshare.com/v/0GmV3cMm/file.html",
-                        "https://www71.zippyshare.com/v/4E9W48xc/file.html",
-                        "https://www31.zippyshare.com/v/Ym50sbIX/file.html",
-                        "https://www87.zippyshare.com/v/UDx49Rwg/file.html",
-                        "https://www61.zippyshare.com/v/TliTZd9y/file.html",
-                        "https://www42.zippyshare.com/v/oFLWQahW/file.html",
-                        "https://www39.zippyshare.com/v/op6q1KFx/file.html"
+                    "files": 5,
+                    "Mediafire": [
+                        "https://www.mediafire.com/folder/909t7it4wxzkf"
                     ],
                     "Uptobox": [
-                        "https://uptobox.com/5esps5wwwxvy",
-                        "https://uptobox.com/fxm8408se82z",
-                        "https://uptobox.com/n2ko5tnezhw0",
-                        "https://uptobox.com/z3c726r0achh",
-                        "https://uptobox.com/e268vzyd7805",
-                        "https://uptobox.com/sal49qepz1u0",
-                        "https://uptobox.com/dpfpajgck7if",
-                        "https://uptobox.com/p4kr9o8cuofm",
-                        "https://uptobox.com/wi0c0j7akf8k",
-                        "https://uptobox.com/pm8ydtutls54",
-                        "https://uptobox.com/k4ypwpgr2s1r",
-                        "https://uptobox.com/6gqgvwal1im0",
-                        "https://uptobox.com/ukff5n8wmdqw",
-                        "https://uptobox.com/5iakux1131mh",
-                        "https://uptobox.com/purigdnhta4g",
-                        "https://uptobox.com/yo4kc4wz2mle",
-                        "https://uptobox.com/cgbqy5bdyvjr",
-                        "https://uptobox.com/k1272ntaw468"
+                        "https://uptobox.com/9b2btahnqyen",
+                        "https://uptobox.com/a81ckgusiwr0",
+                        "https://uptobox.com/bzx2y9bnq8vb",
+                        "https://uptobox.com/ojj16jjdiowa",
+                        "https://uptobox.com/16lqiiixc87e"
                     ],
                     "1Fichier": [
-                        "https://1fichier.com/?9d7f73mo0raa8vijid6n",
-                        "https://1fichier.com/?qus6lrywmgwjc25plsir",
-                        "https://1fichier.com/?g671bwm9iavu4fcqz3fs",
-                        "https://1fichier.com/?al5gx777p2ag0fnyb25p",
-                        "https://1fichier.com/?n6na5lzi9tj8ni6vr379",
-                        "https://1fichier.com/?zxnhdcuknfeq9xxu7uir",
-                        "https://1fichier.com/?6gu0knyartmkeobozzje",
-                        "https://1fichier.com/?5y2piqczt98mtp9027pn",
-                        "https://1fichier.com/?gjfg90gsc3oymc87erto",
-                        "https://1fichier.com/?1c1w68og8h1pu5jv596p",
-                        "https://1fichier.com/?q3tx199cbfvyjmt9ujqm",
-                        "https://1fichier.com/?bddjnzaq71mo8zhyxx31",
-                        "https://1fichier.com/?bxckimdm03d3s1zzj4fb",
-                        "https://1fichier.com/?n8c1v7fgwmkwbhw0bu79",
-                        "https://1fichier.com/?eojqqgu2ud3vsqu42jhr",
-                        "https://1fichier.com/?0crbtemjpidstp74j6fy",
-                        "https://1fichier.com/?k3mnfjg5q7gah3ygaesr",
-                        "https://1fichier.com/?s5c8qnwf9q5eqb0j3bej"
+                        "https://1fichier.com/?gehnmhrckp9b9342283h",
+                        "https://1fichier.com/?bqsxd3g70xs26lkjppkr",
+                        "https://1fichier.com/?8uvzybeq6jbzgsqkmdaw",
+                        "https://1fichier.com/?n7xdchdgrhhrucu5ci47",
+                        "https://1fichier.com/?0994ond2tlb9qd1nluzy"
                     ],
                     "password": "www.compucalitv.com"
                 },
-                "update-1.0.3.3930": {
+                "update-1.2.5.4184": {
                     "files": 1,
                     "Uptobox": [
-                        "https://uptobox.com/43bqicy9ijcb"
+                        "https://uptobox.com/22iuxj21iv5e"
                     ],
-                    "Zippyshare": [
-                        "https://www60.zippyshare.com/v/B0sBqpXS/file.html"
-                    ],
-                    "1Fichier": [
-                        "https://1fichier.com/?07g63vkwfj8h44sxokk7"
-                    ],
-                    "password": "www.compucalitv.com"
-                },
-                "update-1.0.5.3952": {
-                    "files": 1,
-                    "Uptobox": [
-                        "https://uptobox.com/4p343zvefknv"
-                    ],
-                    "Zippyshare": [
-                        "https://www5.zippyshare.com/v/S1Mdb45e/file.html"
+                    "GoFile": [
+                        "https://gofile.io/d/GPtgbQ"
                     ],
                     "1Fichier": [
-                        "https://1fichier.com/?r3ega0k0xqxj2muy1qsf"
+                        "https://1fichier.com/?yod87ll8molzhzys53r9"
                     ],
                     "password": "www.compucalitv.com"
                 },
@@ -403,9 +344,6 @@
                     ],
                     "1Fichier": [
                         "https://1fichier.com/?65b7shu75v2yl9qfd24a"
-                    ],
-                    "Zippyshare": [
-                        "https://www28.zippyshare.com/v/BKVeZvDA/file.html"
                     ],
                     "password": "www.compucalitv.com"
                 }
