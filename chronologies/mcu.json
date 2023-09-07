@@ -120,6 +120,11 @@
         "reference": "76"
     },
     {
+        "name": "I Am Groot Season 2",
+        "type": "Miniserie",
+        "reference": "84"
+    },
+    {
         "name": "Daredevil Season 1",
         "type": "Serie",
         "reference": "19"
@@ -465,6 +470,11 @@
         "reference": "72"
     },
     {
+        "name": "Black Panther: Wakanda Forever",
+        "type": "Película",
+        "reference": "80"
+    },
+    {
         "name": "She-Hulk: Attorney at Law Season 1",
         "type": "Serie",
         "reference": "77"
@@ -483,11 +493,6 @@
         "name": "Werewolf By Night",
         "type": "Especial",
         "reference": "78"
-    },
-    {
-        "name": "Black Panther: Wakanda Forever",
-        "type": "Película",
-        "reference": "80"
     },
     {
         "name": "The Guardians of the Galaxy Holiday Special",
