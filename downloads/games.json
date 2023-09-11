@@ -1328,6 +1328,139 @@
                     "password": "www.compucalitv.com"
                 }
             }
+        },
+        {
+            "id": "1811260",
+            "lastUpdate": "11/09/2023",
+            "updateInfo": "Primer subida",
+            "version": "V1.0.82.43747",
+            "instructions": {
+                "Voces/Comentaristas Español Latino": [
+                    "1. Descargar",
+                    "2. Descomprimir",
+                    "3. Copiar el contenido de la carpeta Latino",
+                    "4. Pegarlo en la carpeta raíz de la instalación.",
+                    "5. Listo.",
+                    "",
+                    "NOTA: Si no puede modificar las voces dentro del juego, intente editar el archivo anadius.cfg y reemplace el atributo:",
+                    "",
+                    "'Language' 'en_US' por 'Language' 'es_MX'"
+                ],
+                "World Cup LE Fix": [
+                    "1. Descomprimir el archivo",
+                    "2. Mueva la carpeta raíz a C:/FIFA 23 Live Editor/mods (reemplace los archivos si es necesario) → [VER IMAGEN](https://i.imgur.com/8BOzvnu.png)",
+                    "3. Ejecute el juego y Live Editor"
+                ]
+            },
+            "links": {
+                "game": {
+                    "files": 22,
+                    "Uptobox": [
+                        "https://uptobox.com/k13jgasz8f7o",
+                        "https://uptobox.com/gva5sr52yinr",
+                        "https://uptobox.com/qpmqvriyaa8w",
+                        "https://uptobox.com/k2jahkdbrme6",
+                        "https://uptobox.com/s7z5ej5w7hvy",
+                        "https://uptobox.com/lmp1lcquais9",
+                        "https://uptobox.com/tq27t6e6d3a2",
+                        "https://uptobox.com/n0vlojc18nyi",
+                        "https://uptobox.com/d70pa6qe0ehz",
+                        "https://uptobox.com/qxywb4aijpwi",
+                        "https://uptobox.com/5k71tvox3u91",
+                        "https://uptobox.com/frs4o0irtsv8",
+                        "https://uptobox.com/j41lh3pedtz1",
+                        "https://uptobox.com/cph1ch4517hk",
+                        "https://uptobox.com/yzoa60csmfr0",
+                        "https://uptobox.com/r28r4e9f80yn",
+                        "https://uptobox.com/do605vc73z48",
+                        "https://uptobox.com/mvs4iphof0fx",
+                        "https://uptobox.com/6tzb94mg25w4",
+                        "https://uptobox.com/v8bdl9xegi1b",
+                        "https://uptobox.com/edd906x6lsei",
+                        "https://uptobox.com/gt6j81boqmp1"
+                    ],
+                    "1Fichier": [
+                        "https://1fichier.com/?54qnu1thgt0f6skvgbdk",
+                        "https://1fichier.com/?6ta0esves9nda039atrp",
+                        "https://1fichier.com/?zvku2bbtq19a87u08l26",
+                        "https://1fichier.com/?bi18afkc8b2fckyzs7hn",
+                        "https://1fichier.com/?w8mmx9ajktqnydlbabzr",
+                        "https://1fichier.com/?1qr3l8norf2see6ztdyv",
+                        "https://1fichier.com/?6bahqy064h042fbx162n",
+                        "https://1fichier.com/?u0o7y2meqtcp0b2fter4",
+                        "https://1fichier.com/?fvi50l1foehd7u17cw5z",
+                        "https://1fichier.com/?bwzuwez8tpksg6pkoajn",
+                        "https://1fichier.com/?nvl0dd0knum2e5ji6tt6",
+                        "https://1fichier.com/?26l4zro2bm4x8v68tjlo",
+                        "https://1fichier.com/?gfr8ndr40fvecbw4oe7r",
+                        "https://1fichier.com/?4ni3d2r3ppe6ozj696oh",
+                        "https://1fichier.com/?rvw6igq9kkml7p2jnpgx",
+                        "https://1fichier.com/?q1xsqvo47052cdyvzcjo",
+                        "https://1fichier.com/?2uopub44sssy4f027aql",
+                        "https://1fichier.com/?r30vrorv4muh2qt50q7x",
+                        "https://1fichier.com/?y4dao3m5jnzjcli3q9lp",
+                        "https://1fichier.com/?odt0v85vantn5i32uk5h",
+                        "https://1fichier.com/?jk9kvowdiwjedpa1unik",
+                        "https://1fichier.com/?1ft0zpiclgbl94m6jhjt"
+                    ],
+                    "Gofile": [
+                        "https://gofile.io/d/x6nyVV",
+                        "https://gofile.io/d/ssHVMW",
+                        "https://gofile.io/d/9ou7Hx",
+                        "https://gofile.io/d/9BnmQ2",
+                        "https://gofile.io/d/jLmtTm",
+                        "https://gofile.io/d/Y5C4OI",
+                        "https://gofile.io/d/LiKzdc",
+                        "https://gofile.io/d/UR0Y62",
+                        "https://gofile.io/d/nzvNzW",
+                        "https://gofile.io/d/GH4vm9",
+                        "https://gofile.io/d/jESFsI",
+                        "https://gofile.io/d/hrrXBx",
+                        "https://gofile.io/d/2ayxk3",
+                        "https://gofile.io/d/lfuhq4",
+                        "https://gofile.io/d/s8oodL",
+                        "https://gofile.io/d/sStkr4",
+                        "https://gofile.io/d/4P7Gzx",
+                        "https://gofile.io/d/ffbrcX",
+                        "https://gofile.io/d/49UeQb",
+                        "https://gofile.io/d/ueF08Y",
+                        "https://gofile.io/d/vzVGCO",
+                        "https://gofile.io/d/pOYCLY"
+                    ],
+                    "Mediafire": [
+                        "https://www.mediafire.com/folder/zm3c5i7i042ww/p1",
+                        "https://www.mediafire.com/folder/i127ksjn02qrb/p2",
+                        "https://www.mediafire.com/folder/m4inb28hhqrqj/p3",
+                        "https://www.mediafire.com/folder/yphpluzpujnxc/p4",
+                        "https://www.mediafire.com/folder/ewe0d1qelhvwg/p5"
+                    ],
+                    "MEGA": [
+                        "https://mega.nz/folder/ruwXFCAB#GgDipTvOox051ABM2k4tMg",
+                        "https://mega.nz/folder/d7V3hCyZ#qZkixFFAhj8f7R6SMp1N6Q",
+                        "https://mega.nz/folder/viZSmIxL#KbsCUx956NKzR6Jxc4nI9Q"
+                    ],
+                    "password": "www.compucalitv.com"
+                },
+                "extras-Voces/Comentaristas Español Latino": {
+                    "files": 1,
+                    "1Fichier": [
+                        "https://1fichier.com/?84uxg31ob3k5yhg5kose"
+                    ],
+                    "Mediafire": [
+                        "https://www.mediafire.com/file/m4s828dbrexr9vk"
+                    ],
+                    "Uptobox": [
+                        "https://uptobox.com/gnnyy25xujmj"
+                    ],
+                    "password": "www.compucalitv.com"
+                },
+                "extras-World Cup LE Fix": {
+                    "files": 1,
+                    "Github": [
+                        "https://github.com/xAranaktu/FIFA-23-Live-Editor/raw/main/mods/World%20Cup%20LE%20Fix/World%20Cup%20LE%20Fix.zip"
+                    ]
+                }
+            }
         }
     ],
     "others": [
