@@ -1461,6 +1461,51 @@
                     ]
                 }
             }
+        },
+        {
+            "id": "275850",
+            "lastUpdate": "16/09/2023",
+            "updateInfo": "Primer subida",
+            "version": "V4.43.0.0",
+            "instructions": {
+                "Cómo iniciar:": [
+                    "1. Lea los **requisitos del sistema:**",
+                    "Al menos Windows 10 x64 versión no menor a 1909 con Microsoft Store y servicios Xbox instalados.",
+                    "",
+                    "2. Inicie **UWP_Helper.bat**, que se encuentra en la carpeta del juego. (realizado una vez)",
+                    "",
+                    "3. Habilite el modo de desarrollador. (reiniciamos la PC si es necesario) (realizado una vez)",
+                    "**Antes de activar el modo de desarrollador, consulte lo que hay en Internet.**",
+                    "",
+                    "4. Instale el juego. (realizado una vez)",
+                    "",
+                    "5. Desactive el modo de desarrollador. (realizado una vez)",
+                    "",
+                    "6. Inicie el juego a través del menú de inicio."
+                ],
+                "En el juego:": [
+                    "__Conexión:__",
+                    "Acepta una invitación de un amigo y conéctate al servidor.",
+                    "",
+                    "También puedes unirte a cualquier otro juego mediante el emparejamiento.",
+                    "",
+                    "__Crear un servidor:__",
+                    "",
+                    "Crear un mundo y cargarlo → ESC → Red y voz → Invitar a amigos → Invitamos a amigos y esperamos a que se unan."
+                ]
+            },
+            "links": {
+                "game": {
+                    "files": 1,
+                    "Torrent": [
+                        "https://drive.google.com/file/d/12rI4G8942JiV7Js7d-QTpG1nNf774qJ_/view?usp=sharing"
+                    ],
+                    "Online Fix": [
+                        "https://online-fix.me/games/sandbox/16185-no-mans-sky-po-seti.html"
+                    ],
+                    "password": "online-fix.me"
+                }
+            }
         }
     ],
     "others": [
