@@ -1468,7 +1468,7 @@
             "updateInfo": "Primer subida",
             "version": "V4.43.0.0",
             "instructions": {
-                "Cómo iniciar:": [
+                "Cómo iniciar": [
                     "1. Lea los **requisitos del sistema:**",
                     "Al menos Windows 10 x64 versión no menor a 1909 con Microsoft Store y servicios Xbox instalados.",
                     "",
@@ -1483,8 +1483,9 @@
                     "",
                     "6. Inicie el juego a través del menú de inicio."
                 ],
-                "En el juego:": [
+                "En el juego": [
                     "__Conexión:__",
+                    "",
                     "Acepta una invitación de un amigo y conéctate al servidor.",
                     "",
                     "También puedes unirte a cualquier otro juego mediante el emparejamiento.",
