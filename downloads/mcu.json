@@ -5623,5 +5623,56 @@
                 "password": "www.descargandoxmega.com"
             }
         }
+    },
+    "85": {
+        "name": "Loki Season 2",
+        "year": "2023",
+        "episodes": 6,
+        "color": [
+            93,
+            83,
+            75
+        ],
+        "updateInfo": "subido el episodio 1/6",
+        "versions": {
+            "1080p": {
+                "lastUpdate": "06/10/2023",
+                "files": 1,
+                "links": {
+                    "1Fichier": [
+                        "https://1fichier.com/?lft25r30rkrnpi8g0491"
+                    ],
+                    "Megaup": [
+                        "https://megaup.net/1i0nn"
+                    ],
+                    "Mediafire": [
+                        "https://www.mediafire.com/file/njq4twffjctv8fd/LKE1S2-18p.rar/file"
+                    ],
+                    "MEGA": [
+                        "https://mega.nz/file/VvsAAJDB#Az6gTkyFrMgSx0-sqr-eqHkwnW0lrT9tyMRwbmy74E8"
+                    ]
+                },
+                "password": "www.compucalitv.com"
+            },
+            "4K": {
+                "lastUpdate": "06/10/2023",
+                "files": 1,
+                "links": {
+                    "1Fichier": [
+                        "https://1fichier.com/?qn60sgk4ytiulj0x3kvf"
+                    ],
+                    "Megaup": [
+                        "https://megaup.net/2DVhC"
+                    ],
+                    "Mediafire": [
+                        "https://www.mediafire.com/file/th8l1s1zrlyfd97/L4S2E1.rar/file"
+                    ],
+                    "MEGA": [
+                        "https://mega.nz/folder/93sQRKCB#rZu3eoKcuaqlEPYU0wiQRw"
+                    ]
+                },
+                "password": "www.compucalitv.com"
+            }
+        }
     }
 }
