@@ -299,9 +299,9 @@
         },
         {
             "id": "962130",
-            "version": "V1.2.5.4184",
-            "lastUpdate": "07/09/2023",
-            "updateInfo": " a la versión 1.2.5.4184",
+            "version": "V1.2.6.4236",
+            "lastUpdate": "13/10/2023",
+            "updateInfo": " a la versión 1.2.6.4236",
             "links": {
                 "game": {
                     "files": 5,
@@ -334,6 +334,19 @@
                     ],
                     "1Fichier": [
                         "https://1fichier.com/?yod87ll8molzhzys53r9"
+                    ],
+                    "password": "www.compucalitv.com"
+                },
+                "update-1.2.6.4236": {
+                    "files": 1,
+                    "GoFile": [
+                        "https://gofile.io/d/6h9zi7"
+                    ],
+                    "Mediafire": [
+                        "https://www.mediafire.com/file/ysjeih6yjce4i4w"
+                    ],
+                    "1Fichier": [
+                        "https://1fichier.com/?abhu0kg02b7i0kuclny6"
                     ],
                     "password": "www.compucalitv.com"
                 },
