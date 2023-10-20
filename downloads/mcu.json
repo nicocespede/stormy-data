@@ -5633,50 +5633,60 @@
             83,
             75
         ],
-        "updateInfo": "subido el episodio 2/6",
+        "updateInfo": "subido el episodio 3/6",
         "versions": {
             "1080p": {
-                "lastUpdate": "13/10/2023",
-                "files": 2,
+                "lastUpdate": "20/10/2023",
+                "files": 3,
                 "links": {
                     "1Fichier": [
                         "https://1fichier.com/?lft25r30rkrnpi8g0491",
-                        "https://1fichier.com/?rd26ud7vkl8tlxzg3nvi"
+                        "https://1fichier.com/?rd26ud7vkl8tlxzg3nvi",
+                        "https://1fichier.com/?zpk873smi7ktz7wclc69"
                     ],
                     "Megaup": [
                         "https://megaup.net/1i0nn",
-                        "https://megaup.net/1iiau"
+                        "https://megaup.net/1iiau",
+                        "https://megaup.net/1Yvk9"
                     ],
                     "Mediafire": [
                         "https://www.mediafire.com/file/njq4twffjctv8fd/LKE1S2-18p.rar/file",
-                        "https://www.mediafire.com/file/sgdup3se2aab2us/LS02E02.rar/file"
+                        "https://www.mediafire.com/file/sgdup3se2aab2us/LS02E02.rar/file",
+                        "https://www.mediafire.com/file/36befwlmgprmcnx/LS02E03.rar/file"
                     ],
                     "MEGA": [
                         "https://mega.nz/file/VvsAAJDB#Az6gTkyFrMgSx0-sqr-eqHkwnW0lrT9tyMRwbmy74E8",
-                        "https://mega.nz/file/37wDkJDQ#AnaXydbFc-3bFRsDycui3TpGmW386Vs2qUJwHYmPtbs"
+                        "https://mega.nz/file/37wDkJDQ#AnaXydbFc-3bFRsDycui3TpGmW386Vs2qUJwHYmPtbs",
+                        "https://mega.nz/file/LigigSZY#6iNjCwn7yw1obCsyr2g-MslDQpNTWpYQIAUz_Q16P90"
                     ]
                 },
                 "password": "www.compucalitv.com"
             },
             "4K": {
-                "lastUpdate": "13/10/2023",
-                "files": 2,
+                "lastUpdate": "20/10/2023",
+                "files": 3,
                 "links": {
                     "1Fichier": [
                         "https://1fichier.com/?qn60sgk4ytiulj0x3kvf",
-                        "https://1fichier.com/?i3pwp15yn7vntmga7tts"
+                        "https://1fichier.com/?i3pwp15yn7vntmga7tts",
+                        "https://1fichier.com/?6xfrezteeremtdm25rgm"
                     ],
                     "Megaup": [
                         "https://megaup.net/2DVhC",
                         "https://megaup.net/1iibr/"
                     ],
+                    "Gofile": [
+                        "https://gofile.io/d/3pryJA"
+                    ],
                     "Mediafire": [
                         "https://www.mediafire.com/file/th8l1s1zrlyfd97/L4S2E1.rar/file",
-                        "https://www.mediafire.com/file/ok6hfddhfjzpivo/L4S2E2.rar/file"
+                        "https://www.mediafire.com/file/ok6hfddhfjzpivo/L4S2E2.rar/file",
+                        "https://www.mediafire.com/file/41qd1sgla4j4nhk/L4S2E3.rar/file"
                     ],
                     "MEGA": [
                         "https://mega.nz/folder/93sQRKCB#rZu3eoKcuaqlEPYU0wiQRw",
-                        "https://mega.nz/folder/8vNzzbyI#ICcxYLw2JFWIOHAAGH_IIg"
+                        "https://mega.nz/folder/8vNzzbyI#ICcxYLw2JFWIOHAAGH_IIg",
+                        "https://mega.nz/folder/b7xzQbIT#afYfrdzDU4QAh5r04yqX4A"
                     ]
                 },
                 "password": "www.compucalitv.com"
