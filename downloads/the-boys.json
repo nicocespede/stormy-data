@@ -100,10 +100,11 @@
         "year": "2023",
         "thumb": "gen-v-logo",
         "episodes": 8,
+        "updateInfo": "subido el episodio 8/8",
         "versions": {
             "1080p": {
-                "files": 7,
-                "lastUpdate": "29/10/2023",
+                "files": 8,
+                "lastUpdate": "03/11/2023",
                 "links": {
                     "1Fichier": [
                         "https://1fichier.com/?9ngjmh7vvh6ebn2hh2ga",
@@ -112,25 +113,34 @@
                         "https://1fichier.com/?rrk4l9jfocw3vxdvwdpk",
                         "https://1fichier.com/?scwo35fhqs54y3eaplpv",
                         "https://1fichier.com/?vv2euti8cyd0ywpshu2e",
-                        "https://1fichier.com/?xo0uddegfcxa2mqbvl8f"
+                        "https://1fichier.com/?xo0uddegfcxa2mqbvl8f",
+                        "https://1fichier.com/?jz70gc9ux5m8backoprn"
                     ],
                     "Mediafire": [
                         "https://www.mediafire.com/folder/omn4xiedn30i8/gV-S01",
                         "https://www.mediafire.com/file/to9th6ycmui47ex/GV-S01E04.rar/file",
                         "https://www.mediafire.com/file/3evjye0lp57h74n/GS01E05.rar/file",
                         "https://www.mediafire.com/file/mp7ll01de4i6t0a/GV-S01E06.rar/file",
-                        "https://www.mediafire.com/file/a7cdh8a6lbfi5eg/GV-S01E07.rar/file"
+                        "https://www.mediafire.com/file/a7cdh8a6lbfi5eg/GV-S01E07.rar/file",
+                        "https://www.mediafire.com/file/8a0zu27n8h90yd1/GV-S01E08.rar/file"
                     ],
                     "MEGA": [
                         "https://mega.nz/folder/OY0mBDRT#n-RBfa5zjWcQXX_BHA9SRQ",
                         "https://mega.nz/file/U6kknBzC#VUa_i7CXOqmpKZH-4fJ298m1ed8yIFKL7d6bPyvqMa0",
                         "https://mega.nz/file/ORFVgTia#K9ypcMAmwf7NTokkZvxHYo5mcwR18LIKOwTqbzyixRc",
                         "https://mega.nz/file/7yIwDARY#vqp8Y2m9REOELIygJAEARoxNbtjkjjsOTm-0uybCma8",
-                        "https://mega.nz/file/GZJQwaTY#lBG8H79xKcvmg0YjKoJUZERf4ZIZB6iTZcoTqjDWRfc"
+                        "https://mega.nz/file/GZJQwaTY#lBG8H79xKcvmg0YjKoJUZERf4ZIZB6iTZcoTqjDWRfc",
+                        "https://mega.nz/file/12t2VK6Z#eXlp5K9vZe6-vCCZKG1KeQStzAFndfo_yoqdtexPRfA"
                     ],
                     "Megaup": [
+                        "https://megaup.net/1jbue",
+                        "https://megaup.net/1jbu8",
+                        "https://megaup.net/1jbuf",
+                        "https://megaup.net/1jbug",
+                        "https://megaup.net/2F6oD",
                         "https://megaup.net/2EsL7",
-                        "https: //megaup.net/3kGoL"
+                        "https://megaup.net/3kGoL",
+                        "https://megaup.net/2F6on"
                     ]
                 },
                 "password": "www.compucalitv.com"
