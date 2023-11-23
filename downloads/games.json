@@ -299,9 +299,9 @@
         },
         {
             "id": "962130",
-            "version": "V1.3.0.4349",
-            "lastUpdate": "15/11/2023",
-            "updateInfo": " a la versión 1.3.0.4349",
+            "version": "V1.3.2.4359",
+            "lastUpdate": "23/11/2023",
+            "updateInfo": " a la versión 1.3.2.4359",
             "links": {
                 "game": {
                     "files": 5,
@@ -317,6 +317,16 @@
                         "https://1fichier.com/?5txrjmn43hbxmhgx0jmu",
                         "https://1fichier.com/?2c8l6vrhswrxsanmuac7",
                         "https://1fichier.com/?fnsr6qxfdl9y2840hhad"
+                    ],
+                    "password": "www.compucalitv.com"
+                },
+                "update-1.3.2.4359": {
+                    "files": 2,
+                    "1Fichier": [
+                        "https://1fichier.com/?p5ht2qu18mfmvss5zspj"
+                    ],
+                    "Mediafire": [
+                        "https://www.mediafire.com/file/whp0y12maojxpwc"
                     ],
                     "password": "www.compucalitv.com"
                 },
