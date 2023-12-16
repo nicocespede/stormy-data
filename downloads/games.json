@@ -1497,6 +1497,40 @@
                     "password": "online-fix.me"
                 }
             }
+        },
+        {
+            "id": "1144200",
+            "version": "Build 13122023",
+            "lastUpdate": "16/12/2023",
+            "updateInfo": "Primer subida",
+            "instructions": {
+                "Cómo lanzar": [
+                    "1. Inicie Steam, vaya a su perfil.",
+                    "",
+                    "2. Lanzamos el juego a través de **ReadyOrNot.exe**."
+                ],
+                "En el juego": [
+                    "__Conexión:__",
+                    "",
+                    "Aceptamos invitaciones de un amigo.",
+                    "",
+                    "__Creación de servidor:__",
+                    "",
+                    "Multiplayer → Host Friends Only → ESC → Lobby Manager → Invite Player → Invitamos a amigos y esperamos a que se conecten."
+                ]
+            },
+            "links": {
+                "game": {
+                    "files": 6,
+                    "Online Fix": [
+                        "https://online-fix.me/games/strategy/16889-ready-or-not-po-seti.html"
+                    ],
+                    "Torrent": [
+                        "https://drive.google.com/file/d/1RszEFnhnR-94Q-O73rIsmxN8oiKECHFT/view?usp=sharing"
+                    ],
+                    "password": "online-fix.me"
+                }
+            }
         }
     ],
     "others": [
