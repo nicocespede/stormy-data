@@ -6255,31 +6255,6 @@
         }
     },
     "100": {
-        "name": "Echo Season 1",
-        "year": "2024",
-        "episodes": 5,
-        "color": [
-            108,
-            55,
-            22
-        ],
-        "versions": {
-            "1080p": {
-                "files": 1,
-                "lastUpdate": "18/01/2024",
-                "links": {
-                    "Pixeldrain": [
-                        "https://pixeldrain.com/u/op6gknNr"
-                    ],
-                    "1Fichier": [
-                        "https://1fichier.com/?a015u8fr6jyt1n8leowu"
-                    ]
-                },
-                "password": "www.compucalitv.pro"
-            }
-        }
-    },
-    "101": {
         "name": "The Marvels",
         "year": "2023",
         "color": [
@@ -6316,6 +6291,31 @@
                     ],
                     "MEGA": [
                         "https://mega.nz/file/N38ElaLK#-X3qQQ7Ia-zm-R1vPaFu597TH95SoC6UKqlzriL0Ikg"
+                    ]
+                },
+                "password": "www.compucalitv.pro"
+            }
+        }
+    },
+    "101": {
+        "name": "Echo Season 1",
+        "year": "2024",
+        "episodes": 5,
+        "color": [
+            108,
+            55,
+            22
+        ],
+        "versions": {
+            "1080p": {
+                "files": 1,
+                "lastUpdate": "18/01/2024",
+                "links": {
+                    "Pixeldrain": [
+                        "https://pixeldrain.com/u/op6gknNr"
+                    ],
+                    "1Fichier": [
+                        "https://1fichier.com/?a015u8fr6jyt1n8leowu"
                     ]
                 },
                 "password": "www.compucalitv.pro"

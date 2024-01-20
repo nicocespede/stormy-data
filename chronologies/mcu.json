@@ -542,7 +542,7 @@
     {
         "name": "Echo Season 1",
         "type": "Serie",
-        "reference": "100"
+        "reference": "101"
     },
     {
         "name": "She-Hulk: Attorney at Law Season 1",
@@ -587,7 +587,7 @@
     {
         "name": "The Marvels",
         "type": "Película",
-        "reference": "101"
+        "reference": "100"
     },
     {
         "name": "The New Mutants",
