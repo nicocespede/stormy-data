@@ -390,6 +390,61 @@
         "reference": "86"
     },
     {
+        "name": "X-Men: First Class",
+        "type": "Película",
+        "reference": "91"
+    },
+    {
+        "name": "X-Men Origins: Wolverine",
+        "type": "Película",
+        "reference": "90"
+    },
+    {
+        "name": "X-Men",
+        "type": "Película",
+        "reference": "87"
+    },
+    {
+        "name": "X2",
+        "type": "Película",
+        "reference": "88"
+    },
+    {
+        "name": "X-Men: The Last Stand",
+        "type": "Película",
+        "reference": "89"
+    },
+    {
+        "name": "The Wolverine",
+        "type": "Película",
+        "reference": "92"
+    },
+    {
+        "name": "X-Men: Days of Future Past",
+        "type": "Película",
+        "reference": "93"
+    },
+    {
+        "name": "X-Men: Apocalypse",
+        "type": "Película",
+        "reference": "95"
+    },
+    {
+        "name": "Dark Phoenix",
+        "type": "Película",
+        "reference": "98"
+    },
+    {
+        "name": "Deadpool",
+        "type": "Película",
+        "reference": "94"
+    },
+    {
+        "name": "Deadpool 2",
+        "type": "Película",
+        "reference": "97"
+    },
+    {
         "name": "WandaVision Season 1",
         "type": "Serie",
         "reference": "61"
@@ -485,6 +540,11 @@
         "reference": "80"
     },
     {
+        "name": "Echo Season 1",
+        "type": "Serie",
+        "reference": "100"
+    },
+    {
         "name": "She-Hulk: Attorney at Law Season 1",
         "type": "Serie",
         "reference": "77"
@@ -523,5 +583,20 @@
         "name": "Secret Invasion Season 1",
         "type": "Serie",
         "reference": "83"
+    },
+    {
+        "name": "The Marvels",
+        "type": "Película",
+        "reference": "101"
+    },
+    {
+        "name": "The New Mutants",
+        "type": "Película",
+        "reference": "99"
+    },
+    {
+        "name": "Logan",
+        "type": "Película",
+        "reference": "96"
     }
 ]
