@@ -1558,6 +1558,22 @@
                     ]
                 }
             }
+        },
+        {
+            "id": "677160",
+            "version": "v1.2.0",
+            "lastUpdate": "26/01/2024",
+            "updateInfo": "Primer subida",
+            "links": {
+                "game": {
+                    "MegaUp": [
+                        "https://megaup.net/2fE6z/We.Were.Here.Too.v1.2.0.rar"
+                    ],
+                    "MEGA": [
+                        "https://mega.nz/file/IwkSSaiQ#k0gntDj6ydrtZn9XD6DSFbqfBdpCVAN3URwb-ysAZPs"
+                    ]
+                }
+            }
         }
     ],
     "others": [
