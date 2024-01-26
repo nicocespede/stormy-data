@@ -1566,6 +1566,7 @@
             "updateInfo": "Primer subida",
             "links": {
                 "game": {
+                    "files": 1,
                     "MegaUp": [
                         "https://megaup.net/2fE6z/We.Were.Here.Too.v1.2.0.rar"
                     ],
