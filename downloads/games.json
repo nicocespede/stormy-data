@@ -186,13 +186,17 @@
             },
             "links": {
                 "game": {
-                    "files": 1,
+                    "files": "1 ó 3",
                     "MEGA": [
                         "https://mega.nz/file/PFxWHCYb#ZWZeZ_D9AwC0zlaipDmjCu95XVzNlzCXrE70g1ef1e8"
                     ],
                     "Pixeldrain": [
                         "https://pixeldrain.com/u/DcUezRxZ"
-                    ]
+                    ],
+                    "Torrent": [
+                        "https://drive.google.com/file/d/1l8_gFzffcmM9nCuSZF_ALjf7ZaMVCkkR/view?usp=sharing"
+                    ],
+                    "password": "online-fix.me"
                 }
             }
         },
