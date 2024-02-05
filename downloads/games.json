@@ -203,91 +203,29 @@
         },
         {
             "id": "815370",
-            "version": "V0.11.4",
-            "lastUpdate": "23/11/2021",
+            "version": "v2.7.0",
+            "lastUpdate": "04/02/2024",
+            "updateInfo": " a la versión 2.7.0",
             "links": {
                 "game": {
-                    "files": "?",
+                    "files": 1,
+                    "MegaUp": [
+                        "https://megaup.net/7sOvt/Green.Hell.v2.7.0-P2P.rar"
+                    ],
                     "MEGA": [
-                        "https://mega.nz/folder/dLIW3RCA#LP50C8CORF8R9Edefa-EGA"
+                        "https://mega.nz/file/pzkyXSjI#ukUVxyeMSV0dhzTxoZOjCsRWjL9q9YQNBju975f_hHg"
                     ],
                     "1Fichier": [
-                        "https://1fichier.com/?kbmyrh2axmdfib6dyln9",
-                        "https://1fichier.com/?v69wbfllhjn0i3n4h79h",
-                        "https://1fichier.com/?iyysk9m4pwip1znwu7r2",
-                        "https://1fichier.com/?pwccsr57zaxvg9bpbl3r",
-                        "https://1fichier.com/?zu7ibbu3wrwimu9khedv",
-                        "https://1fichier.com/?lstsf57b120gg9g9jswi",
-                        "https://1fichier.com/?s4jpxjxgemdbp9efj5zb",
-                        "https://1fichier.com/?k3kh215qtek7u8s0jys7"
+                        "https://1fichier.com/?qx6exn61lv8qyalztfga&af=4256250"
                     ],
-                    "Zippyshare": [
-                        "https://www118.zippyshare.com/v/867rNXn4/file.html",
-                        "https://www28.zippyshare.com/v/ulWtQN6C/file.html",
-                        "https://www72.zippyshare.com/v/XMOr0r8N/file.html",
-                        "https://www37.zippyshare.com/v/ec4aYQY3/file.html",
-                        "https://www113.zippyshare.com/v/mDWferzC/file.html",
-                        "https://www110.zippyshare.com/v/NTkdV7On/file.html",
-                        "https://www83.zippyshare.com/v/oCM0d6Tf/file.html",
-                        "https://www82.zippyshare.com/v/ptX1sSTg/file.html"
+                    "Gofile": [
+                        "https://gofile.io/d/YAvnGh"
                     ],
-                    "Uptobox": [
-                        "https://uptobox.com/p1jh9jo2b3yk",
-                        "https://uptobox.com/6juany951zfv",
-                        "https://uptobox.com/54ksfnk7n82i",
-                        "https://uptobox.com/2mnflnhc0gzc",
-                        "https://uptobox.com/r6c5nbrjpuqc",
-                        "https://uptobox.com/6i1p7q1jai3v",
-                        "https://uptobox.com/fu53dz2zznye",
-                        "https://uptobox.com/d2ak79uwas50"
-                    ]
-                },
-                "update-2.1.2": {
-                    "files": "?",
-                    "1Fichier": [
-                        "https://1fichier.com/?9xu9ocpbs5z74ej82nry"
+                    "HexUpload": [
+                        "https://hexload.com/gje87tt9spwr"
                     ],
-                    "Uptobox": [
-                        "https://uptobox.com/gph5361lmaab"
-                    ],
-                    "Zippyshare": [
-                        "https://www25.zippyshare.com/v/sBkfLa80/file.html"
-                    ]
-                },
-                "update-2.1.3": {
-                    "files": "?",
-                    "1Fichier": [
-                        "https://1fichier.com/?86vj65zbv59vqbw2zvfn"
-                    ],
-                    "Uptobox": [
-                        "https://uptobox.com/ud8a4wc8nbll"
-                    ],
-                    "Zippyshare": [
-                        "https://www53.zippyshare.com/v/s5bbuziR/file.html"
-                    ]
-                },
-                "update-2.1.4": {
-                    "files": "?",
-                    "Uptobox": [
-                        "https://uptobox.com/knsck9fcczwj"
-                    ],
-                    "Zippyshare": [
-                        "https://www112.zippyshare.com/v/TQMg2AdN/file.html"
-                    ],
-                    "1Fichier": [
-                        "https://1fichier.com/?uk8pur06gpnqw2a8sbvw"
-                    ]
-                },
-                "crack": {
-                    "files": "?",
-                    "Uptobox": [
-                        "https://uptobox.com/uwqbtdi94j0p"
-                    ],
-                    "Zippyshare": [
-                        "https://www29.zippyshare.com/v/AmJaowDj/file.html"
-                    ],
-                    "1Fichier": [
-                        "https://1fichier.com/?6c0o7dw1log9omu6t9dp"
+                    "Rapidgator": [
+                        "https://rapidgator.net/file/6f94d855c6f9064f590806a6d48fe0cd"
                     ]
                 }
             }
