@@ -1505,16 +1505,23 @@
             "id": "677160",
             "version": "v1.2.0",
             "lastUpdate": "26/01/2024",
-            "updateInfo": "Primer subida",
+            "updateInfo": "Agregado el crack online",
             "links": {
                 "game": {
-                    "files": 1,
+                    "files": 2,
                     "MegaUp": [
                         "https://megaup.net/2fE6z/We.Were.Here.Too.v1.2.0.rar"
                     ],
                     "MEGA": [
                         "https://mega.nz/file/IwkSSaiQ#k0gntDj6ydrtZn9XD6DSFbqfBdpCVAN3URwb-ysAZPs"
-                    ]
+                    ],
+                    "Online Fix": [
+                        "https://online-fix.me/games/shooter/16428-we-were-here-too-po-seti.html"
+                    ],
+                    "Torrent": [
+                        "https://drive.google.com/file/d/15EAaSzq-BQsTfZJpbKYQB80DR0nNSIkL/view?usp=sharing"
+                    ],
+                    "password": "online-fix.me"
                 }
             }
         }
