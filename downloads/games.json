@@ -1042,34 +1042,50 @@
         },
         {
             "id": "1326470",
-            "version": "Build 25072023",
-            "lastUpdate": "27/07/2023",
-            "updateInfo": " a la Build 25072023",
+            "version": "V47848",
+            "lastUpdate": "22/02/2024",
+            "updateInfo": " a la versión 47848",
             "instructions": {
-                "Files for the game": [
-                    "1. Download the game **Sons Of The Forest** and unpack it to any folder."
+                "Cómo correr": [
+                    "1. Inicie Steam.",
+                    "2. Inicie el juego a través de **SonsOfTheForest.exe**."
                 ],
-                "How to run": [
-                    "1. Launch Steam, go to your profile.",
-                    "2. Run the game through **SonsOfTheForest.exe**."
-                ],
-                "In the game": [
-                    "__Connection:__",
-                    "We accept invitations from a friend.",
-                    "__Server Creation:__",
-                    "Multiplayer → Host → New Game → Choose Difficulty → Select Number of Players → Start → Invite Friend → Select Friend → Start."
+                "Cómo jugar": [
+                    "__Unirse al servidor:__",
+                    "La invitación aparecerá en la pantalla del juego → Unirse",
+                    "__Crear servidor:__",
+                    "Multijugador → Anfitrión → Nuevo juego → Elegir dificultad → Seleccionar número de jugadores → Iniciar → Invitar a un amigo → Seleccionar amigo → Iniciar"
                 ]
             },
             "links": {
                 "game": {
-                    "files": 2,
-                    "Torrent": [
-                        "https://drive.google.com/file/d/1izPf9sDJSlaeDozhv8Duhv2cERzLWUog/view?usp=sharing"
+                    "files": 5,
+                    "Mediafire": [
+                        "https://www.mediafire.com/folder/qcvhv4rfek6l5"
                     ],
-                    "Online Fix": [
-                        "https://online-fix.me/games/survival/17220-sons-of-the-forest-po-seti.html"
+                    "MEGA": [
+                        "https://mega.nz/folder/Bb1mTbRK#Zwz8Pe2kKzaV2hyMsSq_TQ",
+                        "https://mega.nz/folder/AvsRRDwT#77uALHtnBg4v8BoH-gxPag"
                     ],
-                    "password": "online-fix.me"
+                    "Fireload": [
+                        "https://www.fireload.com/folder/9jITLOy1bbQcmlyV117xDHsc12mY96Rr/sngfrst-pgm"
+                    ],
+                    "1Fichier": [
+                        "https://1fichier.com/?3ypfgywsl41fsmvtjdz9",
+                        "https://1fichier.com/?9u0cqtziqcjzmpntkht8",
+                        "https://1fichier.com/?6mtyfr3l5h399mkyocn2",
+                        "https://1fichier.com/?grkqjniputbunw6cvhac",
+                        "https://1fichier.com/?3u58hoa5ypb3wbl99yel"
+                    ]
+                },
+                "crack": {
+                    "files": 1,
+                    "1Fichier": [
+                        "https://1fichier.com/?fvcmymoqln5pmcqf4g0o"
+                    ],
+                    "MEGA": [
+                        "https://mega.nz/file/W2oTlLYS#M41sI9LWZzjbcK3TTqocNheEC3mDuLy37YIu4MJqhoI"
+                    ]
                 }
             }
         },
