@@ -1533,6 +1533,39 @@
                     "password": "online-fix.me"
                 }
             }
+        },
+        {
+            "id": "865360",
+            "version": "V1.7.6",
+            "lastUpdate": "26/02/2024",
+            "updateInfo": "Primer subida",
+            "instructions": {
+                "Archivos del juego": [
+                    "1. Descarga el juego **We Were Here Together** y descomprímelo en cualquier carpeta."
+                ],
+                "Cómo lanzar": [
+                    "1. Launch Steam, ve a tu perfil.",
+                    "2. Inicie el juego a través de **We Were Here Together.exe**."
+                ],
+                "En el juego": [
+                    "__Conexión:__",
+                    "Acepta una invitación de un amigo.",
+                    "__Creación del servidor:__",
+                    "Iniciar juego → Crear un juego → Comenzar → Invitar jugador → Invitamos a un amigo y esperamos a que se conecte."
+                ]
+            },
+            "links": {
+                "game": {
+                    "files": 2,
+                    "Online Fix": [
+                        "https://online-fix.me/games/shooter/16427-we-were-here-together-po-seti.html"
+                    ],
+                    "Torrent": [
+                        "https://drive.google.com/file/d/1dtEBanJX4VWKu9PVhrSwc5G_6dmb1lwr/view?usp=sharing"
+                    ],
+                    "password": "online-fix.me"
+                }
+            }
         }
     ],
     "others": [
