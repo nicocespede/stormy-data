@@ -898,11 +898,12 @@
         "name": "Super Dragon Ball Heroes",
         "year": "2018-?",
         "thumb": "sdbh-logo",
-        "episodes": 45,
+        "updateInfo": "subidos episodios faltantes",
+        "episodes": 53,
         "versions": {
             "1080p": {
-                "files": 32,
-                "lastUpdate": "03/11/2022",
+                "files": 40,
+                "lastUpdate": "08/03/2024",
                 "links": {
                     "MEGA": [
                         "https://mega.nz/#F!ezYwkAiD!Lm3gAeIXtkKIZrGh2XA9pQ",
@@ -926,7 +927,6 @@
                         "https://1fichier.com/?5bu0rlyfjafquibaxwn1",
                         "https://1fichier.com/?z2px02ve1x3zrl4q00ct",
                         "https://1fichier.com/?t1067o3axcu6p7uzqui9",
-                        "https://1fichier.com/?cquzwqmglsq3yik18b1z",
                         "https://1fichier.com/?3fgua220dkp3fhebwy8g"
                     ],
                     "Filefactory": [
@@ -937,12 +937,22 @@
                         "http://www.filefactory.com/file/7iqw0f6z2phn/"
                     ],
                     "mp4upload": [
-                        "https://www.mp4upload.com/9r9w2pvfqn3o",
+                        "https://www.mp4upload.com/q52biqe0i3px",
                         "https://www.mp4upload.com/p89z0zrofx3s",
                         "https://www.mp4upload.com/4nfojw7hduen",
-                        "https://www.mp4upload.com/jykrf4p50mwg",
                         "https://www.mp4upload.com/ykfn4b4jvu9e",
                         "https://www.mp4upload.com/q7ebc2693yd2",
+                        "https://www.mp4upload.com/hp6duwi2l4ml",
+                        "https://www.mp4upload.com/bqa4dowiwp9u",
+                        "https://www.mp4upload.com/s0h82uk1rvcu",
+                        "https://www.mp4upload.com/t1phdmaptgtm",
+                        "https://www.mp4upload.com/4artfjc00ceh",
+                        "https://www.mp4upload.com/iab7kgrcvf13",
+                        "https://www.mp4upload.com/od3ky82yuvvd",
+                        "https://www.mp4upload.com/vawrvybeupbp",
+                        "https://www.mp4upload.com/teir9f02mywl",
+                        "https://www.mp4upload.com/v32fyypkaor0",
+                        "https://www.mp4upload.com/r3v7gzcas9eb",
                         "",
                         "_(subtítulos en inglés)_"
                     ]
