@@ -502,27 +502,38 @@
         "year": "2008"
     },
     {
-        "name": "Dragon Ball Super Episodes 1-3",
-        "type": "Serie",
-        "reference": "30"
+        "choices": [
+            {
+                "name": "Dragon Ball Super",
+                "description": "Incluye la serie _Dragon Ball Super_ (27 episodios).",
+                "data": [
+                    {
+                        "name": "Dragon Ball Super Episodes 1-27",
+                        "type": "Serie",
+                        "reference": "30"
+                    }
+                ]
+            },
+            {
+                "name": "Dragon Ball Z (películas)",
+                "description": "Incluye 2 películas.",
+                "data": [
+                    {
+                        "name": "Dragon Ball Z: Battle of Gods",
+                        "type": "Película",
+                        "reference": "28"
+                    },
+                    {
+                        "name": "Dragon Ball Z: Resurrection 'F'",
+                        "type": "Película",
+                        "reference": "29"
+                    }
+                ]
+            }
+        ]
     },
     {
-        "name": "Dragon Ball Z: Battle of Gods",
-        "type": "Película",
-        "reference": "28"
-    },
-    {
-        "name": "Dragon Ball Super Episodes 4-18",
-        "type": "Serie",
-        "reference": "30"
-    },
-    {
-        "name": "Dragon Ball Z: Resurrection 'F'",
-        "type": "Película",
-        "reference": "29"
-    },
-    {
-        "name": "Dragon Ball Super Episodes 19-110",
+        "name": "Dragon Ball Super Episodes 28-110",
         "type": "Serie",
         "reference": "30"
     },
