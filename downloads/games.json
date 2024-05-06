@@ -1566,6 +1566,39 @@
                     "password": "online-fix.me"
                 }
             }
+        },
+        {
+            "id": "1435790",
+            "version": "Build 07092023",
+            "lastUpdate": "05/05/2024",
+            "updateInfo": "Primer subida",
+            "instructions": {
+                "Archivos del juego": [
+                    "1. Descarga el juego **Escape Simulator** y descomprímelo en cualquier carpeta."
+                ],
+                "Cómo lanzar": [
+                    "1. Inicie Steam, vaya a su perfil.",
+                    "2. Inicie el juego a través de **Escape Simulator.exe**."
+                ],
+                "En el juego": [
+                    "__Conexión:__",
+                    "Acepta una invitación de un amigo.",
+                    "__Creación de servidor:__",
+                    "Jugar cooperativo → Crear juego → Invitar amigos → Invitamos a amigos y esperamos que se unan."
+                ]
+            },
+            "links": {
+                "game": {
+                    "files": 3,
+                    "Online Fix": [
+                        "https://online-fix.me/games/puzzles/16799-escape-simulator-po-seti.html"
+                    ],
+                    "Torrent": [
+                        "https://drive.google.com/file/d/1HmCi8TJ_S8G2YdjezFBtqfZicp3ukENP/view?usp=sharing"
+                    ],
+                    "password": "online-fix.me"
+                }
+            }
         }
     ],
     "others": [
