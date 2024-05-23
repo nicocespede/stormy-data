@@ -1569,34 +1569,43 @@
         },
         {
             "id": "1435790",
-            "version": "Build 07092023",
-            "lastUpdate": "05/05/2024",
-            "updateInfo": "Primer subida",
+            "version": "Build 14290864",
+            "lastUpdate": "22/05/2024",
+            "updateInfo": " a la build 14290864",
             "instructions": {
-                "Archivos del juego": [
-                    "1. Descarga el juego **Escape Simulator** y descomprímelo en cualquier carpeta."
-                ],
-                "Cómo lanzar": [
-                    "1. Inicie Steam, vaya a su perfil.",
-                    "2. Inicie el juego a través de **Escape Simulator.exe**."
-                ],
-                "En el juego": [
-                    "__Conexión:__",
-                    "Acepta una invitación de un amigo.",
-                    "__Creación de servidor:__",
-                    "Jugar cooperativo → Crear juego → Invitar amigos → Invitamos a amigos y esperamos que se unan."
+                "CÓMO INSTALAR": [
+                    "• Una vez que la descarga gratuita de **Escape Simulator Build 14290864** haya terminado, haga clic derecho en el archivo .zip (o .rar / .iso) y haga clic en \"Extraer a **Escape Simulator Build 14290864**\". (Para hacer esto usted necesitará el programa gratuito llamado **WinRAR**)",
+                    "• Haga doble clic en la carpeta **Escape Simulator Build 14290864** y ejecute la aplicación exe.",
+                    "• ¡Disfruta y juega! No olvides **(ejecutar el juego como administrador)**, ya que ayuda a evitar fallas y errores en el juego."
                 ]
             },
             "links": {
                 "game": {
-                    "files": 3,
-                    "Online Fix": [
-                        "https://online-fix.me/games/puzzles/16799-escape-simulator-po-seti.html"
+                    "files": 1,
+                    "MEGA": [
+                        "https://mega.nz/#!MV5RyB5b!x_vrUmD9EmndoLF8LmS1BN8nzANmh7q1D6Y7Yv-SWCI"
                     ],
-                    "Torrent": [
-                        "https://drive.google.com/file/d/1HmCi8TJ_S8G2YdjezFBtqfZicp3ukENP/view?usp=sharing"
+                    "1Fichier": [
+                        "https://1fichier.com/?pqmbgn8jxtem3dn7flzc"
                     ],
-                    "password": "online-fix.me"
+                    "Pixeldrain": [
+                        "https://pixeldrain.com/u/tTcNudJx"
+                    ],
+                    "Gofile": [
+                        "https://gofile.io/d/i12gpX"
+                    ],
+                    "Userscloud": [
+                        "https://userscloud.com/lr0xokvw270k"
+                    ],
+                    "Rapidgator": [
+                        "https://rapidgator.net/file/355063b9ed847ec9abda10d4c9a1a2d7"
+                    ],
+                    "Turbobit": [
+                        "https://turbobit.net/p9s5giqcayma.html"
+                    ],
+                    "Hitfile": [
+                        "https://hitfile.net/NQEO6d6"
+                    ]
                 }
             }
         }
