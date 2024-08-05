@@ -41,12 +41,6 @@
         "reference": "4"
     },
     {
-        "name": "The Consultant",
-        "type": "One-Shot",
-        "reference": "8",
-        "year": "2011"
-    },
-    {
         "name": "A Funny Thing Happened On The Way To Thor's Hammer",
         "type": "One-Shot",
         "reference": "8",
@@ -56,6 +50,12 @@
         "name": "Thor",
         "type": "Película",
         "reference": "6"
+    },
+    {
+        "name": "The Consultant",
+        "type": "One-Shot",
+        "reference": "8",
+        "year": "2011"
     },
     {
         "name": "Avengers",
@@ -110,12 +110,17 @@
         "reference": "16"
     },
     {
+        "name": "I Am Groot Season 1 Episode 1",
+        "type": "Miniserie",
+        "reference": "76"
+    },
+    {
         "name": "Guardians Of The Galaxy Vol. 2",
         "type": "Película",
         "reference": "32"
     },
     {
-        "name": "I Am Groot Season 1",
+        "name": "I Am Groot Season 1 Episodes 2-5",
         "type": "Miniserie",
         "reference": "76"
     },
@@ -210,6 +215,11 @@
         "reference": "31"
     },
     {
+        "name": "The Defenders Season 1",
+        "type": "Serie",
+        "reference": "34"
+    },
+    {
         "name": "Captain America: Civil War",
         "type": "Película",
         "reference": "26"
@@ -238,11 +248,6 @@
         "name": "Inhumans Season 1",
         "type": "Serie",
         "reference": "35"
-    },
-    {
-        "name": "The Defenders Season 1",
-        "type": "Serie",
-        "reference": "34"
     },
     {
         "name": "Spider-Man: Homecoming",
@@ -400,9 +405,24 @@
         "reference": "90"
     },
     {
+        "name": "Blade",
+        "type": "Película",
+        "reference": "102"
+    },
+    {
         "name": "X-Men",
         "type": "Película",
         "reference": "87"
+    },
+    {
+        "name": "Blade II",
+        "type": "Película",
+        "reference": "103"
+    },
+    {
+        "name": "Daredevil",
+        "type": "Película",
+        "reference": "104"
     },
     {
         "name": "X2",
@@ -410,9 +430,34 @@
         "reference": "88"
     },
     {
+        "name": "Madame Web",
+        "type": "Película",
+        "reference": "109"
+    },
+    {
+        "name": "Blade: Trinity",
+        "type": "Película",
+        "reference": "105"
+    },
+    {
+        "name": "Elektra",
+        "type": "Película",
+        "reference": "106"
+    },
+    {
+        "name": "Fantastic Four",
+        "type": "Película",
+        "reference": "107"
+    },
+    {
         "name": "X-Men: The Last Stand",
         "type": "Película",
         "reference": "89"
+    },
+    {
+        "name": "Fantastic Four: Rise of the Silver Surfer",
+        "type": "Película",
+        "reference": "108"
     },
     {
         "name": "The Wolverine",
@@ -598,5 +643,9 @@
         "name": "Logan",
         "type": "Película",
         "reference": "96"
+    },
+    {
+        "name": "Deadpool & Wolverine",
+        "type": "Película"
     }
 ]

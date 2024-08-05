@@ -18,5 +18,10 @@
         "name": "Gen V Season 1",
         "type": "Serie",
         "reference": "3"
+    },
+    {
+        "name": "The Boys Season 4",
+        "type": "Serie",
+        "reference": "4"
     }
 ]
